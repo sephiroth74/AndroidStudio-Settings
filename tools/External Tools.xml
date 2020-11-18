@@ -13,11 +13,18 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui" />
     </exec>
   </tool>
-  <tool name="adb uninstall" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="adb uninstall" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="adb" />
       <option name="PARAMETERS" value="uninstall com.swisscom.swisscomTv" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="uninstall first" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/uninstall_first.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui" />
     </exec>
   </tool>
 </toolSet>
