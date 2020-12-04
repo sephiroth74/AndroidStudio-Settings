@@ -1,0 +1,9 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="swisscomui/src/main/res/layout/v2_series_detail_fragment.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+</application>
