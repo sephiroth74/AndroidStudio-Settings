@@ -4,13 +4,13 @@
     <property name="created">2020-12-07T15:47:14</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.2.0.17</property>
-    <property name="modified">2020-12-07T16:20:22</property>
+    <property name="modified">2020-12-07T16:36:38</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="AurulentSansMono Nerd Font Mono" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
