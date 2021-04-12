@@ -15,7 +15,7 @@
   </tool>
   <tool name="uninstall_first" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/uninstall_first.sh" />
+      <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio/uninstall_first.sh" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui" />
     </exec>
