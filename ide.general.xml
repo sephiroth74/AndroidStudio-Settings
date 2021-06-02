@@ -23,6 +23,7 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.instant.shutdown" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
