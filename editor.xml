@@ -12,8 +12,8 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="Fira Code Light" />
+    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_FAMILY" value="Source Code Pro" />
     <option name="LINE_SPACING" value="1.0" />
     <option name="USE_LIGATURES" value="true" />
   </component>
