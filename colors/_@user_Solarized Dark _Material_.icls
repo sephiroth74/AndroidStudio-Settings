@@ -4,7 +4,7 @@
     <property name="created">2021-06-08T17:40:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.18</property>
-    <property name="modified">2021-06-11T18:29:05</property>
+    <property name="modified">2021-06-11T18:48:42</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -112,7 +112,7 @@
     <option name="ScrollBar.thumbColor" value="d33682c0" />
     <option name="ScrollBar.trackColor" value="73642" />
     <option name="TAB_UNDERLINE" value="d33682" />
-    <option name="TAB_UNDERLINE_INACTIVE" value="d33682c0" />
+    <option name="TAB_UNDERLINE_INACTIVE" value="" />
     <option name="TEARLINE_COLOR" value="2d5059" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="244d4e" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="1a414a" />
@@ -4093,7 +4093,7 @@
     </option>
     <option name="TAB_SELECTED_INACTIVE">
       <value>
-        <option name="FOREGROUND" value="657b83" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
