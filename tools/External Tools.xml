@@ -23,21 +23,21 @@
   <tool name="Install ip1400 debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio/install_debug.sh" />
-      <option name="PARAMETERS" value="ip1400 debug" />
+      <option name="PARAMETERS" value="ip1400 debug 1" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio" />
     </exec>
   </tool>
   <tool name="Install ip1800 debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio/install_debug.sh" />
-      <option name="PARAMETERS" value="ip1800 debug" />
+      <option name="PARAMETERS" value="ip1800 debug 1" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio" />
     </exec>
   </tool>
   <tool name="Install ip2000 debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio/install_debug.sh" />
-      <option name="PARAMETERS" value="ip2000 debug" />
+      <option name="PARAMETERS" value="ip2000 debug 1" />
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio" />
     </exec>
   </tool>
