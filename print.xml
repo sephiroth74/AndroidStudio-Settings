@@ -1,5 +1,6 @@
 <application>
   <component name="PrintSettings">
+    <option name="FONT_NAME" value="BlexMono Nerd Font Mono" />
     <option name="FONT_SIZE" value="16" />
   </component>
 </application>

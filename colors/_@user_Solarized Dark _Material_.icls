@@ -4,12 +4,12 @@
     <property name="created">2021-06-08T17:40:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.18</property>
-    <property name="modified">2021-06-17T13:36:56</property>
+    <property name="modified">2021-09-15T12:09:41</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="BlexMono Nerd Font Mono" />
+    <option name="EDITOR_FONT_NAME" value="CaskaydiaCove Nerd Font" />
     <option name="EDITOR_FONT_SIZE" value="19" />
   </font>
   <font>
