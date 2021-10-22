@@ -4,7 +4,7 @@
     <property name="created">2021-06-08T17:40:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.18</property>
-    <property name="modified">2021-10-22T15:52:23</property>
+    <property name="modified">2021-10-22T16:21:13</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -48,26 +48,25 @@
     <option name="DOC_COMMENT_GUIDE" value="839496" />
     <option name="DOC_COMMENT_LINK" value="268bd2" />
     <option name="ERROR_HINT" value="611738" />
-    <option name="FILESTATUS_ADDED" value="859900" />
-    <option name="FILESTATUS_COPIED" value="2aa198" />
-    <option name="FILESTATUS_DELETED" value="b58900" />
-    <option name="FILESTATUS_HIJACKED" value="d33682" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b58900" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b58900" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_MERGED" value="6c71c4" />
-    <option name="FILESTATUS_MODIFIED" value="2aa198" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
-    <option name="FILESTATUS_OBSOLETE" value="b58900" />
-    <option name="FILESTATUS_RENAMED" value="268bd2" />
-    <option name="FILESTATUS_SWITCHED" value="268bd2" />
-    <option name="FILESTATUS_UNKNOWN" value="d33682" />
-    <option name="FILESTATUS_addedOutside" value="d33682" />
-    <option name="FILESTATUS_changelistConflict" value="cb4b16" />
-    <option name="FILESTATUS_modifiedOutside" value="6c71c4" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="c3e88d" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
+    <option name="FILESTATUS_MERGED" value="c792ea" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="c3e88d" />
+    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="1b4652" />
     <option name="GUTTER_BACKGROUND" value="2b36" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
