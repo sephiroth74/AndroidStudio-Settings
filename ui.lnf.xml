@@ -2,6 +2,7 @@
   <component name="UISettings">
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="600" />
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="2048" />
+    <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="29" />
