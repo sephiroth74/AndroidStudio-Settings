@@ -4,15 +4,12 @@
     <property name="created">2019-01-10T13:39:26</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.0.9</property>
-    <property name="modified">2019-04-02T12:01:15</property>
+    <property name="modified">2020-10-07T09:28:11</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="Roboto Mono for Powerline" />
-  <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Cousine for Powerline" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />

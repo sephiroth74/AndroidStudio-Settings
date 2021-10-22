@@ -74,6 +74,9 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextWindow">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>

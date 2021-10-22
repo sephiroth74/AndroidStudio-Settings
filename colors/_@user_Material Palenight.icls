@@ -4,16 +4,16 @@
     <property name="created">2020-03-02T15:38:26</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2020-10-12T16:39:14</property>
+    <property name="modified">2021-04-21T11:13:41</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="VictorMono Nerd Font" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
@@ -255,7 +255,7 @@
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7f00" />
+        <option name="FOREGROUND" value="4f5acc" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
@@ -265,7 +265,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="4f5ceb" />
+        <option name="FOREGROUND" value="5963be" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -329,7 +329,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CSS.KEYWORD" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="b2ccd6" />
@@ -982,8 +981,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -1134,12 +1131,12 @@
     </option>
     <option name="LOG_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="4a55bb" />
       </value>
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="5963be" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
@@ -2176,7 +2173,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="515772" />
+        <option name="FOREGROUND" value="9c9c9c" />
       </value>
     </option>
     <option name="OC.BLOCK_COMMENT">

@@ -24,6 +24,38 @@
         <option name="sourceMapEmbedSources" />
         <option name="sourceMapPrefix" />
       </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Android</id>
+              </State>
+              <State>
+                <id>CorrectnessLintAndroid</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>LintAndroid</id>
+              </State>
+              <State>
+                <id>Probable bugsJava</id>
+              </State>
+              <State>
+                <id>RELAX NG</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Android</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
       <component name="ProjectViewState">
         <option name="hideEmptyMiddlePackages" value="true" />
         <option name="showLibraryContents" value="true" />

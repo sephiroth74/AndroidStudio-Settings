@@ -244,6 +244,9 @@
     </filter>
   </component>
   <component name="NodeRendererSettings">
+    <Renderer ID="ToStringRenderer">
+      <option name="ENABLED" value="false" />
+    </Renderer>
     <Renderer ID="ClassRenderer">
       <option name="SHOW_FQ_TYPE_NAMES" value="true" />
     </Renderer>
