@@ -4,7 +4,7 @@
     <property name="created">2020-03-02T15:38:26</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.6.1.0</property>
-    <property name="modified">2021-04-21T11:13:41</property>
+    <property name="modified">2021-10-25T17:42:17</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <console-font>
@@ -26,9 +26,9 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="292d3e" />
-    <option name="FILESTATUS_ADDED" value="c3e88d" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="808080" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
@@ -40,8 +40,9 @@
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_SUPPRESSED" value="676e95" />
-    <option name="FILESTATUS_SWITCHED" value="c792ea" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
@@ -2305,7 +2306,6 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
