@@ -8,9 +8,9 @@
             <value value="192.168.1.2:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-10-29T18:31:02.976553Z" />
+        <lastOnlineTime value="2021-11-03T13:31:19.068653Z" />
         <type value="TV" />
-        <name value="Swisscom IP1800" />
+        <name value="Swisscom IP2000" />
         <target value="Android 8.0" />
         <api value="26" />
       </PhysicalDevice>
