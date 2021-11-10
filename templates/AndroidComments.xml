@@ -16,7 +16,7 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
-  <template name="region" value="    // ----------------------------------------------------&#10;// region $value$&#10;&#10;    // endregion" description="" toReformat="true" toShortenFQNames="true">
+  <template name="region" value="    // ----------------------------------------------------&#10;// region $value$&#10;&#10;    // endregion $value$" description="" toReformat="true" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="COMPLETION" value="true" />
