@@ -5,6 +5,19 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.104:5555" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2021-11-12T12:35:15.294157Z" />
+        <type value="TV" />
+        <name value="Swisscom TVBox" />
+        <target value="Android 7.0" />
+        <api value="24" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.105:5555" />
           </Key>
         </key>

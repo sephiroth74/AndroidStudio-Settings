@@ -5,6 +5,10 @@
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="ctrl meta minus" />
+  </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -36,6 +40,10 @@
   <action id="EditorTextStart">
     <keyboard-shortcut first-keystroke="meta home" />
     <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="meta multiply" />
+    <keyboard-shortcut first-keystroke="ctrl meta plus" />
   </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
