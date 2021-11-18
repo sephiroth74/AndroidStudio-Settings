@@ -13,7 +13,7 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="19" />
+    <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Roboto Mono Medium for Powerline" />
     <option name="FONT_REGULAR_SUB_FAMILY" value="Medium" />
     <option name="FONT_BOLD_SUB_FAMILY" value="Medium" />
