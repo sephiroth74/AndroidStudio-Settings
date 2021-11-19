@@ -1,11 +1,11 @@
-<scheme name="_@user_Material Oceanic" version="142" parent_scheme="Darcula">
+<scheme name="Material Oceanic (Alex)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-10T13:39:26</property>
+    <property name="created">2021-11-19T10:42:06</property>
     <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.4.0.9</property>
-    <property name="modified">2021-11-19T10:42:12</property>
-    <property name="originalScheme">Material Oceanic</property>
+    <property name="ideVersion">2021.2.1.5</property>
+    <property name="modified">2021-11-19T10:42:11</property>
+    <property name="originalScheme">_@user_Material Oceanic</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
