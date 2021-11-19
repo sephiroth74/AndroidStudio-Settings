@@ -4,11 +4,11 @@
     <property name="created">2017-12-22T10:11:24</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.5</property>
-    <property name="modified">2021-11-19T10:52:16</property>
+    <property name="modified">2021-11-19T11:11:10</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_SIZE" value="17" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="CARET_ROW_COLOR" value="444444" />
