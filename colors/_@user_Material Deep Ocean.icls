@@ -4,7 +4,7 @@
     <property name="created">2019-06-12T09:07:11</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.16</property>
-    <property name="modified">2021-11-19T10:31:47</property>
+    <property name="modified">2019-06-12T10:58:15</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -34,24 +34,12 @@
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="f111a" />
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
+    <option name="FILESTATUS_HIJACKED" value="" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="c3e88d" />
-    <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
     <option name="GUTTER_BACKGROUND" value="f111a" />
     <option name="INDENT_GUIDE" value="3b3f51" />
     <option name="INFORMATION_HINT" value="f111a" />
@@ -335,6 +323,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="CSS.KEYWORD" baseAttributes="" />
     <option name="CSS.PROPERTY_NAME">
       <value>
         <option name="FOREGROUND" value="b2ccd6" />
@@ -992,6 +981,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
@@ -1040,6 +1031,7 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="KOTLIN_ANNOTATION" baseAttributes="ANNOTATION_NAME_ATTRIBUTES" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -2315,6 +2307,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
+    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
