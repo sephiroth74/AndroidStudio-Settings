@@ -4,25 +4,16 @@
     <property name="created">2021-06-08T17:40:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.18</property>
-    <property name="modified">2021-12-03T12:23:08</property>
+    <property name="modified">2021-12-03T12:35:27</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Space Mono" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
