@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'RxJavaExtensions'" />
-    <option name="defaultScopeName" value="Project 'RxJavaExtensions'" />
-    <option name="SEARCH_SCOPE" value="Project 'RxJavaExtensions'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.kt, *.java</mask>
