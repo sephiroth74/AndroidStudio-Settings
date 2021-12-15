@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.105:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Swisscom IP1800" />
+        <target value="Android 8.0" />
+        <api value="26" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.104:5555" />
           </Key>
         </key>
@@ -17,23 +29,9 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.105:5555" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2021-11-18T15:11:23.843248Z" />
-        <type value="TV" />
-        <name value="Swisscom IP1800" />
-        <target value="Android 8.0" />
-        <api value="26" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.2:5555" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-11-04T11:28:09.388805Z" />
         <type value="TV" />
         <name value="Swisscom IP2000" />
         <target value="Android 8.0" />
