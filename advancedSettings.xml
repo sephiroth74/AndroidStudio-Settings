@@ -5,6 +5,8 @@
         <entry key="bigger.font.in.project.view" value="true" />
         <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="editor.skip.copy.and.cut.for.empty.selection" value="true" />
+        <entry key="vcs.commit.tool.window" value="false" />
+        <entry key="vcs.process.ignored" value="false" />
       </map>
     </option>
   </component>
