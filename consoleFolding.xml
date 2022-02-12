@@ -14,6 +14,7 @@
         <option value="VPP1@HDMI@" />
         <option value="while [PLAYING] with speed[1]" />
         <option value="zygote: Background concurrent copying GC freed" />
+        <option value="D/EosBaseBridge: firePlayInfo: ID 0" />
       </list>
     </option>
   </component>
