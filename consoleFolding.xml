@@ -11,11 +11,12 @@
         <option value="D/EosBaseBridge: firePlayInfo: ID 0" />
         <option value="eos:cron:mrvl] Unable to do write begin" />
         <option value="EosNativeBridge: firePlayInfo: ID" />
+        <option value="IonHeapBufferToRecords: Saw only garbage when skipping 'Table header' when parsing system-ion" />
         <option value="Updated (eos) duration to" />
         <option value="VPP1@HDMI@" />
         <option value="while [PLAYING] with speed[1]" />
         <option value="zygote: Background concurrent copying GC freed" />
-        <option value="IonHeapBufferToRecords: Saw only garbage when skipping 'Table header' when parsing system-ion" />
+        <option value="void mrvl::MediaSourceAlu::execute()" />
       </list>
     </option>
   </component>
