@@ -4,7 +4,7 @@
     <property name="created">2021-06-08T17:40:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.18</property>
-    <property name="modified">2022-03-09T08:38:57</property>
+    <property name="modified">2022-03-10T08:46:28</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <console-font>
@@ -423,6 +423,7 @@
       <value>
         <option name="FOREGROUND" value="7fdbca" />
         <option name="EFFECT_COLOR" value="7fdbca" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
