@@ -1,0 +1,10 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:it.sephiroth.android.app.expandablebutton" />
+        <option value="package:mine" />
+      </list>
+    </option>
+  </component>
+</application>
