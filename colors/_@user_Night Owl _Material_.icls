@@ -4,7 +4,7 @@
     <property name="created">2021-06-08T17:40:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.18</property>
-    <property name="modified">2022-03-17T13:50:51</property>
+    <property name="modified">2022-03-17T14:08:32</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1592,6 +1592,21 @@
       <value>
         <option name="FOREGROUND" value="637777" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="6779d4" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="6779d4" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_VERBOSE">
+      <value>
+        <option name="FOREGROUND" value="757474" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">

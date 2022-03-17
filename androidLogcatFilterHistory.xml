@@ -7,9 +7,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="MarkersViewModel" />
         <option value="tag~:MarkersViewModel|StreamCommercialFragment" />
         <option value="tag~:MarkersViewModel|StreamCommercialMarker" />
-        <option value="MarkersViewModel" />
         <option value="MarkersViewModel|StreamCommercialFragment" />
         <option value="package:mine " />
         <option value="package:mine MarkersViewModel|MarkersManager" />
