@@ -7,9 +7,11 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="MarkersViewModel" />
+        <option value="package:mine " />
+        <option value="package:mine MarkersViewModel|MarkersManager" />
         <option value="package:mine PauseCommercialFragment" />
         <option value="package:mine GT12" />
-        <option value="package:mine " />
         <option value="package:mine bearer" />
         <option value="package:it.sephiroth.android.app.expandablebutton" />
       </list>
