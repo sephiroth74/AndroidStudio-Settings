@@ -7,6 +7,12 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="message~:ExpandableButton | tag~:Expandable" />
+        <option value="message~:ExpandableButton | tag~:ExpandableButton" />
+        <option value="message~:ExpandableButton" />
+        <option value="tag~:ExpandableButton " />
+        <option value="package:mine -tag~:ExpandableButton " />
+        <option value="package:mine, -tag~:ExpandableButton " />
         <option value="-tag~:Backup package:mine " />
         <option value="-tag~:Backup" />
         <option value="package:mine " />
