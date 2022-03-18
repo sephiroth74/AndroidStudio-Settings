@@ -7,6 +7,8 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="-tag~:Backup package:mine " />
+        <option value="-tag~:Backup" />
         <option value="package:mine " />
         <option value="MarkersViewModel" />
         <option value="tag~:MarkersViewModel|StreamCommercialFragment" />

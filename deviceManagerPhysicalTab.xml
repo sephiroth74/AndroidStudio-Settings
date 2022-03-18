@@ -72,6 +72,17 @@
         <target value="Android 8.0" />
         <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-21d0684-vuCPuw._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Xiaomi 2109119DG" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
