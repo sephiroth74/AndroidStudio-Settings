@@ -5,13 +5,25 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.2:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Swisscom IP1800" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.105:5555" />
           </Key>
         </key>
         <type value="TV" />
         <name value="Swisscom IP1800" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -23,19 +35,7 @@
         <type value="TV" />
         <name value="Swisscom TVBox" />
         <target value="Android 7.0" />
-        <api value="24" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.2:5555" />
-          </Key>
-        </key>
-        <type value="TV" />
-        <name value="Swisscom IP2000" />
-        <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:24:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -46,7 +46,7 @@
         </key>
         <name value="OnePlus IN2023" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -58,7 +58,7 @@
         <type value="TV" />
         <name value="Swisscom IP1800" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -70,7 +70,7 @@
         <type value="TV" />
         <name value="Swisscom IP1800" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>

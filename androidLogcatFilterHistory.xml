@@ -7,11 +7,11 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="MarkersViewModel" />
         <option value="tag~:MarkersViewModel|StreamCommercialFragment" />
         <option value="tag~:MarkersViewModel|StreamCommercialMarker" />
         <option value="MarkersViewModel|StreamCommercialFragment" />
-        <option value="package:mine " />
         <option value="package:mine MarkersViewModel|MarkersManager" />
         <option value="package:mine PauseCommercialFragment" />
         <option value="package:mine GT12" />
