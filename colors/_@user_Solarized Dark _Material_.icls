@@ -4,7 +4,7 @@
     <property name="created">2021-06-08T17:40:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.18</property>
-    <property name="modified">2022-03-18T23:07:03</property>
+    <property name="modified">2022-03-19T16:45:01</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -14,7 +14,7 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="22" />
+    <option name="EDITOR_FONT_SIZE" value="19" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
@@ -23,7 +23,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="859900" />
@@ -1701,6 +1701,21 @@
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
         <option name="FOREGROUND" value="d3d3d3" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="50ff" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_VERBOSE">
+      <value>
+        <option name="FOREGROUND" value="616161" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
