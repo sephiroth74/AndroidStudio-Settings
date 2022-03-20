@@ -7,6 +7,7 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine message~:createAnimator" />
         <option value="message~:ExpandableButton | tag~:Expandable" />
         <option value="message~:ExpandableButton | tag~:ExpandableButton" />
         <option value="message~:ExpandableButton" />
