@@ -3,14 +3,15 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt, *.java" />
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
-    <mask>*.kt, *.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.kt, *.java</mask>
   </component>
 </application>
