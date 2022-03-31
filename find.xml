@@ -5,12 +5,12 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
-    <mask>*.kt, *.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.kt, *.java</mask>
   </component>
 </application>
