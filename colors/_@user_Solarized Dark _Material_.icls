@@ -4,7 +4,7 @@
     <property name="created">2021-06-08T17:40:34</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.18</property>
-    <property name="modified">2022-05-02T10:41:10</property>
+    <property name="modified">2022-05-02T10:58:39</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -872,7 +872,7 @@
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="3b5f6a" />
         <option name="BACKGROUND" value="73642" />
         <option name="EFFECT_COLOR" value="586e75" />
         <option name="EFFECT_TYPE" value="3" />
@@ -1235,8 +1235,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="183a26" />
+        <option name="BACKGROUND" value="1b462d" />
+        <option name="EFFECT_COLOR" value="2b36" />
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
       </value>
     </option>
