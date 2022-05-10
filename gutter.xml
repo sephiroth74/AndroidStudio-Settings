@@ -2,7 +2,8 @@
   <component name="LineMarkerSettings">
     <option name="providers">
       <map>
-        <entry key="RenderedDoc" value="true" />
+        <entry key="RenderedDoc" value="false" />
+        <entry key="com.android.tools.idea.compose.annotator.PreviewPickerLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.ExternalAnnotationLineMarkerProvider" value="true" />
         <entry key="com.intellij.codeInsight.InferredContractAnnotationsLineMarkerProvider" value="false" />
         <entry key="com.intellij.codeInsight.InferredNullabilityAnnotationsLineMarkerProvider" value="true" />
@@ -25,6 +26,11 @@
         <entry key="kotlin.overridden" value="true" />
         <entry key="kotlin.overriding" value="true" />
         <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureHtmlImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureMarkdownImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.editor.images.ConfigureTextHtmlImageLineMarkerProvider" value="true" />
+        <entry key="org.intellij.plugins.markdown.extensions.common.plantuml.PlantUMLCodeFenceDownloadLineMarkerProvider" value="false" />
+        <entry key="org.intellij.plugins.markdown.extensions.jcef.mermaid.MermaidCodeFenceDownloadLineMarkerProvider" value="false" />
       </map>
     </option>
   </component>
