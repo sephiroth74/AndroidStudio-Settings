@@ -4,7 +4,7 @@
     <property name="created">2022-05-19T09:59:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.2.1.14</property>
-    <property name="modified">2022-05-24T14:44:09</property>
+    <property name="modified">2022-05-24T14:55:43</property>
     <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <console-font>
@@ -1794,7 +1794,7 @@
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="979797" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
