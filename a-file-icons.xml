@@ -1,0 +1,10 @@
+<application>
+  <component name="AtomFileIconsConfig">
+    <option name="enabledIcons" value="false" />
+    <option name="hideFileIcons" value="true" />
+    <option name="isEnabledIcons" value="false" />
+    <option name="isHideFileIcons" value="true" />
+    <option name="accentColor" value="63a9f1" />
+    <option name="themedColor" value="000000" />
+  </component>
+</application>

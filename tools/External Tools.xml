@@ -1,0 +1,51 @@
+<toolSet name="External Tools">
+  <tool name="clang-format" description="Format file using clang-format" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/clang-format" />
+      <option name="PARAMETERS" value="-i $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="as system" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/as_system.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui" />
+    </exec>
+  </tool>
+  <tool name="uninstall_first" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio/uninstall_first.sh" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui" />
+    </exec>
+  </tool>
+  <tool name="Install ip1400 debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio/install_debug.sh" />
+      <option name="PARAMETERS" value="ip1400 debug 1" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio" />
+    </exec>
+  </tool>
+  <tool name="Install ip1800 debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio/install_debug.sh" />
+      <option name="PARAMETERS" value="ip1800 debug 1" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio" />
+    </exec>
+  </tool>
+  <tool name="Install ip2000 debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio/install_debug.sh" />
+      <option name="PARAMETERS" value="ip2000 debug 1" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/git/swisscom/swisscomtvui/scripts/androidstudio" />
+    </exec>
+  </tool>
+  <tool name="Deploy on Swisscom Box" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>

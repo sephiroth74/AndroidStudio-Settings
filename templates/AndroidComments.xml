@@ -1,0 +1,30 @@
+<templateSet group="AndroidComments">
+  <template name="blockcomment" value="    // ----------------------------------------------------&#10;// $value$" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="tojson" value="public java.lang.String toString() {&#10;#if ( $members.size() &gt; 0 )&#10;#set ( $i = 0 )&#10;    return &quot;{\&quot;_class\&quot;:\&quot;$classname\&quot;, &quot; +&#10;#foreach( $member in $members )&#10;#set ( $i = $i + 1 )&#10;#if ( $i == $members.size() )&#10;#set ( $postfix = &quot;+&quot; )&#10;#else&#10;#set ( $postfix = &quot;+ &quot;&quot;, &quot;&quot; + &quot; )&#10;#end&#10;#if ( $member.collection )&#10;    &quot;\&quot;$member.name\&quot;:&quot; + ($member.accessor == null ? &quot;null&quot; : java.util.Arrays.toString($member.accessor .toArray())) $postfix&#10;#elseif ( $member.objectArray )&#10;    &quot;\&quot;$member.name\&quot;:&quot; + java.util.Arrays.toString($member.accessor) $postfix&#10;#elseif ( $member.primitiveArray )&#10;    &quot;\&quot;$member.name\&quot;:&quot; + java.util.Arrays.toString($member.accessor) $postfix&#10;#elseif ( $member.object )&#10;    #if ($member.typeQualifiedName.contains(&quot;java.lang&quot;))&#10;    &quot;\&quot;$member.name\&quot;:&quot; + ($member.accessor == null ? &quot;null&quot; : &quot;\&quot;&quot; + $member.accessor + &quot;\&quot;&quot; ) $postfix&#10;    #else&#10;    &quot;\&quot;$member.name\&quot;:&quot; + ($member.accessor == null ? &quot;null&quot; : $member.accessor ) $postfix&#10;    #end&#10;#else&#10;    &quot;\&quot;$member.name\&quot;:\&quot;&quot; + $member.accessor + &quot;\&quot;&quot; $postfix&#10;#end&#10;#end&#10;    &quot;}&quot;;&#10;#else&#10;    return &quot;{\&quot;_class\&quot;:\&quot;$classname\&quot;}&quot;;&#10;#end&#10;}" description="" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="region" value="    // ----------------------------------------------------&#10;// region $value$&#10;&#10;    // endregion $value$" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_OBJECT_DECLARATION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+    </context>
+  </template>
+</templateSet>

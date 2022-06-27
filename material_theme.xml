@@ -1,0 +1,34 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
+    <option name="contrastMode" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="isHighlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="useProjectFrame" value="true" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="tabFontSize" value="19" />
+    <option name="highlightThickness" value="4" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="tabsHeight" value="28" />
+    <option name="accentColor" value="d33682" />
+    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
+    <option name="userId" value="-61046c78:169d83e1606:-8000" />
+    <option name="version" value="6.9.1" />
+  </component>
+</application>

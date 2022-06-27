@@ -1,0 +1,32 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="favorites">
+      <list>
+        <option value="package:mine" />
+      </list>
+    </option>
+    <option name="nonFavorites">
+      <list>
+        <option value="message~:ExpandableButton | tag~:Expandable" />
+        <option value="package:mine message~:createAnimator" />
+        <option value="message~:ExpandableButton | tag~:ExpandableButton" />
+        <option value="message~:ExpandableButton" />
+        <option value="tag~:ExpandableButton " />
+        <option value="package:mine -tag~:ExpandableButton " />
+        <option value="package:mine, -tag~:ExpandableButton " />
+        <option value="-tag~:Backup package:mine " />
+        <option value="-tag~:Backup" />
+        <option value="package:mine " />
+        <option value="MarkersViewModel" />
+        <option value="tag~:MarkersViewModel|StreamCommercialFragment" />
+        <option value="tag~:MarkersViewModel|StreamCommercialMarker" />
+        <option value="MarkersViewModel|StreamCommercialFragment" />
+        <option value="package:mine MarkersViewModel|MarkersManager" />
+        <option value="package:mine PauseCommercialFragment" />
+        <option value="package:mine GT12" />
+        <option value="package:mine bearer" />
+        <option value="package:it.sephiroth.android.app.expandablebutton" />
+      </list>
+    </option>
+  </component>
+</application>
