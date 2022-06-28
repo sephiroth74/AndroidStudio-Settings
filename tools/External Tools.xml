@@ -22,23 +22,23 @@
   </tool>
   <tool name="Install ip1400 debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/Volumes/GoogleDrive/My Drive/Backup/swisscom/androidstudio/install_debug.sh" />
+      <option name="COMMAND" value="$USER_HOME$/GoogleDrive/Backup/swisscom/androidstudio/install_debug.sh" />
       <option name="PARAMETERS" value="ip1400 debug 1" />
-      <option name="WORKING_DIRECTORY" value="/Volumes/GoogleDrive/My Drive/Backup/swisscom/androidstudio" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="Install ip1800 debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/Volumes/GoogleDrive/My Drive/Backup/swisscom/androidstudio/install_debug.sh" />
+      <option name="COMMAND" value="$USER_HOME$/GoogleDrive/Backup/swisscom/androidstudio/install_debug.sh" />
       <option name="PARAMETERS" value="ip1800 debug 1" />
-      <option name="WORKING_DIRECTORY" value="/Volumes/GoogleDrive/My Drive/Backup/swisscom/androidstudio" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="Install ip2000 debug" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="/Volumes/GoogleDrive/My Drive/Backup/swisscom/androidstudio/install_debug.sh" />
+      <option name="COMMAND" value="$USER_HOME$/GoogleDrive/Backup/swisscom/androidstudio/install_debug.sh" />
       <option name="PARAMETERS" value="ip2000 debug 1" />
-      <option name="WORKING_DIRECTORY" value="/Volumes/GoogleDrive/My Drive/Backup/swisscom/androidstudio" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="Deploy on Swisscom Box" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
