@@ -13,14 +13,15 @@
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="18" />
-    <option name="FONT_FAMILY" value="CaskaydiaCove Nerd Font Mono" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Book" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Regular" />
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="BitstreamVeraSansMono Nerd Font" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Roman" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
+    <option name="LINE_SPACING" value="1.1" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
