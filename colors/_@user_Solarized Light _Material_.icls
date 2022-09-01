@@ -4,7 +4,7 @@
     <property name="created">2022-05-19T09:59:02</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.2.1.14</property>
-    <property name="modified">2022-08-31T09:25:18</property>
+    <property name="modified">2022-09-01T16:44:44</property>
     <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <console-font>
@@ -502,7 +502,6 @@
       <value>
         <option name="FOREGROUND" value="268bd2" />
         <option name="EFFECT_COLOR" value="268bd2" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
