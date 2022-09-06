@@ -119,6 +119,18 @@
         <target value="Android 8.0" />
         <api value="26" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.101:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="synaptics platypus" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
