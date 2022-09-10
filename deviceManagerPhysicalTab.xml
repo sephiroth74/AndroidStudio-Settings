@@ -47,7 +47,7 @@
         <type value="TV" />
         <name value="Swisscom IP1800" />
         <target value="Android 8.0" />
-        <api value="androidversion:26:null:null:true" />
+        <api value="26" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
