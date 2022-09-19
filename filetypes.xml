@@ -5,11 +5,13 @@
       <mapping pattern="GroovyClassTransformation" type="AUTO_DETECTED" />
       <mapping pattern="IClassTransformer" type="AUTO_DETECTED" />
       <mapping pattern="AnnotatedPluginData" type="AUTO_DETECTED" />
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
