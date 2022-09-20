@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine ConfigProvider" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ConfigProvider" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine channel" />
         <option value="package:mine tag:BluetoothManager" />
-        <option value="package:mine" />
         <option value="package:mine BluetoothManager" />
         <option value="message~:ExpandableButton | tag~:Expandable" />
         <option value="package:mine message~:createAnimator" />
@@ -22,7 +23,6 @@
         <option value="tag~:MarkersViewModel|StreamCommercialMarker" />
         <option value="MarkersViewModel|StreamCommercialFragment" />
         <option value="package:mine MarkersViewModel|MarkersManager" />
-        <option value="package:mine PauseCommercialFragment" />
       </list>
     </option>
   </component>
