@@ -5,13 +5,25 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.8:5555" />
+          </Key>
+        </key>
+        <type value="TV" />
+        <name value="Swisscom IP2000" />
+        <target value="Android 8.0" />
+        <api value="androidversion:26:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="192.168.1.113:5555" />
           </Key>
         </key>
         <type value="TV" />
         <name value="Swisscom IP1800" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -23,19 +35,7 @@
         <type value="TV" />
         <name value="Swisscom IP1800" />
         <target value="Android 8.0" />
-        <api value="26" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.1.8:5555" />
-          </Key>
-        </key>
-        <type value="TV" />
-        <name value="Swisscom IP2000" />
-        <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -47,7 +47,7 @@
         <type value="TV" />
         <name value="Swisscom IP1800" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -117,7 +117,7 @@
         <type value="TV" />
         <name value="Swisscom IP2000" />
         <target value="Android 8.0" />
-        <api value="26" />
+        <api value="androidversion:26:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -129,7 +129,7 @@
         <type value="TV" />
         <name value="synaptics platypus" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
