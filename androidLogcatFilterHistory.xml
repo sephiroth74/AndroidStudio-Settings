@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.swisscom.aot.library.standalone" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="com.swisscom.aot.library.standalone" />
         <option value="package:mine " />
+        <option value="com.swisscom.aot.library.standalone" />
         <option value="package:com.swisscom.aot" />
         <option value="tag:BluetoothManager" />
         <option value="package:mine ConfigProvider" />
