@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="https" />
+    <option name="mostRecentlyUsed" value="channels" />
     <option name="nonFavorites">
       <list>
+        <option value="channels" />
         <option value="https" />
         <option value="EPGService" />
         <option value="https|EPGService" />
@@ -22,7 +23,6 @@
         <option value="tag~:ExpandableButton " />
         <option value="package:mine -tag~:ExpandableButton " />
         <option value="package:mine, -tag~:ExpandableButton " />
-        <option value="-tag~:Backup package:mine " />
       </list>
     </option>
   </component>
