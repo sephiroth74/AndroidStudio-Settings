@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="EPGService" />
     <option name="nonFavorites">
       <list>
+        <option value="EPGService" />
+        <option value="https|EPGService" />
+        <option value="https" />
         <option value="package:mine " />
         <option value="com.swisscom.aot.library.standalone" />
         <option value="package:com.swisscom.aot" />
@@ -20,9 +23,6 @@
         <option value="package:mine -tag~:ExpandableButton " />
         <option value="package:mine, -tag~:ExpandableButton " />
         <option value="-tag~:Backup package:mine " />
-        <option value="-tag~:Backup" />
-        <option value="MarkersViewModel" />
-        <option value="tag~:MarkersViewModel|StreamCommercialFragment" />
       </list>
     </option>
   </component>
