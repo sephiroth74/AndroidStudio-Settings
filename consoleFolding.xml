@@ -4,6 +4,7 @@
       <list>
         <option value="[1;35m[eos:source:mrvl] &lt;ID:0x0&gt; Stored" />
         <option value="[INFO:btif_config.cc(647)] hash_file: Disabled for multi-user" />
+        <option value="[INFO:btif_config.cc(689)] write_checksum_file: Disabled for multi-user, since config changed removing checksums" />
         <option value="Amp1@@[MODULE_DMX:internal_AlignCtrl():1549]" />
         <option value="com.swisscom.android.tv.library D/EosNativeBridge: firePlayInfo: ID 0" />
         <option value="com.swisscom.android.tv.library V/tvlib.LiveTvControl: beginTime=" />
@@ -21,7 +22,7 @@
         <option value="VPP1@HDMI@" />
         <option value="while [PLAYING] with speed[1]" />
         <option value="zygote: Background concurrent copying GC freed" />
-        <option value="[INFO:btif_config.cc(689)] write_checksum_file: Disabled for multi-user, since config changed removing checksums" />
+        <option value="Explicit concurrent copying GC freed" />
       </list>
     </option>
   </component>
