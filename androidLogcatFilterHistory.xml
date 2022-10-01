@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:com.swisscom.swisscomTv " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.swisscom.swisscomTv " />
         <option value="package:mine " />
         <option value="channels" />
         <option value="https" />
@@ -22,7 +23,6 @@
         <option value="message~:ExpandableButton" />
         <option value="tag~:ExpandableButton " />
         <option value="package:mine -tag~:ExpandableButton " />
-        <option value="package:mine, -tag~:ExpandableButton " />
       </list>
     </option>
   </component>
