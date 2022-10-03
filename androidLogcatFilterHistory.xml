@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="permission" />
         <option value="package:com.swisscom.swisscomTv " />
         <option value="channels" />
         <option value="https" />
@@ -22,7 +23,6 @@
         <option value="message~:ExpandableButton | tag~:ExpandableButton" />
         <option value="message~:ExpandableButton" />
         <option value="tag~:ExpandableButton " />
-        <option value="package:mine -tag~:ExpandableButton " />
       </list>
     </option>
   </component>
