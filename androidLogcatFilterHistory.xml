@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine sharedp" />
         <option value="tag:TvLibApplication tag:LibraryReceiver" />
         <option value="tag:TvLibApplication tag:" />
         <option value="tag: TvLibApplication or LibraryReceiver" />
@@ -22,7 +23,6 @@
         <option value="https" />
         <option value="EPGService" />
         <option value="https|EPGService" />
-        <option value="com.swisscom.aot.library.standalone" />
       </list>
     </option>
   </component>
