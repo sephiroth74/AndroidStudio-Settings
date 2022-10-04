@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="permission" />
         <option value="package:mine" />
         <option value="package:mine LibraryReceiver" />
-        <option value="package:mine " />
         <option value="level:ERROR " />
         <option value="tvlib" />
-        <option value="permission" />
         <option value="package:com.swisscom.swisscomTv " />
         <option value="channels" />
         <option value="https" />
