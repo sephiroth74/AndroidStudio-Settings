@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="work" />
+        <option value="worker" />
         <option value="permission" />
         <option value="package:mine" />
         <option value="package:mine LibraryReceiver" />
@@ -21,8 +23,6 @@
         <option value="package:mine channel" />
         <option value="package:mine tag:BluetoothManager" />
         <option value="package:mine BluetoothManager" />
-        <option value="message~:ExpandableButton | tag~:Expandable" />
-        <option value="package:mine message~:createAnimator" />
       </list>
     </option>
   </component>
