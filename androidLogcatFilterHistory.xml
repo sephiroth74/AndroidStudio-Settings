@@ -4,6 +4,12 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="tag:TvLibApplication tag:LibraryReceiver" />
+        <option value="tag:TvLibApplication tag:" />
+        <option value="tag: TvLibApplication or LibraryReceiver" />
+        <option value="tag: LibraryReceiver|" />
+        <option value="TvLibApplication|LibraryReceiver" />
+        <option value="TvLibApplication" />
         <option value="work" />
         <option value="worker" />
         <option value="permission" />
@@ -17,12 +23,6 @@
         <option value="EPGService" />
         <option value="https|EPGService" />
         <option value="com.swisscom.aot.library.standalone" />
-        <option value="package:com.swisscom.aot" />
-        <option value="tag:BluetoothManager" />
-        <option value="package:mine ConfigProvider" />
-        <option value="package:mine channel" />
-        <option value="package:mine tag:BluetoothManager" />
-        <option value="package:mine BluetoothManager" />
       </list>
     </option>
   </component>
