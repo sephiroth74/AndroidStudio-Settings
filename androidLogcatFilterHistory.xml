@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LibraryReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine LibraryReceiver" />
         <option value="package:mine " />
         <option value="level:ERROR " />
@@ -17,7 +17,6 @@
         <option value="package:com.swisscom.aot" />
         <option value="tag:BluetoothManager" />
         <option value="package:mine ConfigProvider" />
-        <option value="package:mine" />
         <option value="package:mine channel" />
         <option value="package:mine tag:BluetoothManager" />
         <option value="package:mine BluetoothManager" />
