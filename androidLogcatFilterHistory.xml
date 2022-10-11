@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine work" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine work" />
+        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine TvLibApplication" />
+        <option value="package:mine work" />
         <option value="package:mine RuwidoProvider" />
         <option value="package:mine sharedp" />
         <option value="tag:TvLibApplication tag:LibraryReceiver" />
@@ -16,13 +18,11 @@
         <option value="work" />
         <option value="worker" />
         <option value="permission" />
-        <option value="package:mine" />
         <option value="package:mine LibraryReceiver" />
         <option value="level:ERROR " />
         <option value="tvlib" />
         <option value="package:com.swisscom.swisscomTv " />
         <option value="channels" />
-        <option value="https" />
       </list>
     </option>
   </component>
