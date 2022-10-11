@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine work" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine work" />
+        <option value="package:mine " />
         <option value="package:mine RuwidoProvider" />
         <option value="package:mine sharedp" />
         <option value="tag:TvLibApplication tag:LibraryReceiver" />
