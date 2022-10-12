@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MainActivity" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="MainActivity" />
         <option value="package:mine " />
+        <option value="com.swisscom.scanexample.xml" />
+        <option value="MainActivity" />
         <option value="permission" />
         <option value="permission " />
         <option value="permission example" />
@@ -22,7 +23,6 @@
         <option value="TvLibApplication|LibraryReceiver" />
         <option value="TvLibApplication" />
         <option value="work" />
-        <option value="worker" />
       </list>
     </option>
   </component>
