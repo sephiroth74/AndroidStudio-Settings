@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="permission example" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="permission" />
+        <option value="permission " />
         <option value="permission example" />
         <option value="permission|example" />
-        <option value="permission" />
         <option value="message:permission" />
         <option value="package:mine" />
-        <option value="package:mine " />
         <option value="package:mine TvLibApplication" />
         <option value="package:mine work" />
         <option value="package:mine RuwidoProvider" />
@@ -22,7 +23,6 @@
         <option value="work" />
         <option value="worker" />
         <option value="package:mine LibraryReceiver" />
-        <option value="level:ERROR " />
       </list>
     </option>
   </component>
