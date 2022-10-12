@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="permission" />
+        <option value="message:permission" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine TvLibApplication" />
@@ -22,7 +23,6 @@
         <option value="level:ERROR " />
         <option value="tvlib" />
         <option value="package:com.swisscom.swisscomTv " />
-        <option value="channels" />
       </list>
     </option>
   </component>
