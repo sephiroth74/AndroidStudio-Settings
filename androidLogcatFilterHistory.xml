@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="permission" />
+    <option name="mostRecentlyUsed" value="permission example" />
     <option name="nonFavorites">
       <list>
+        <option value="permission example" />
+        <option value="permission|example" />
         <option value="permission" />
         <option value="message:permission" />
         <option value="package:mine" />
@@ -21,8 +23,6 @@
         <option value="worker" />
         <option value="package:mine LibraryReceiver" />
         <option value="level:ERROR " />
-        <option value="tvlib" />
-        <option value="package:com.swisscom.swisscomTv " />
       </list>
     </option>
   </component>
