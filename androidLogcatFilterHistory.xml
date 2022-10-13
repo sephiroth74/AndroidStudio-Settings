@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="com.swisscom" />
     <option name="nonFavorites">
       <list>
+        <option value="com.swisscom" />
         <option value="package:mine " />
         <option value="package:mine MainAc" />
         <option value="com.swisscom.scanexample.xml" />
@@ -22,7 +23,6 @@
         <option value="tag: TvLibApplication or LibraryReceiver" />
         <option value="tag: LibraryReceiver|" />
         <option value="TvLibApplication|LibraryReceiver" />
-        <option value="TvLibApplication" />
       </list>
     </option>
   </component>
