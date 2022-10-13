@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="com.swisscom" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="com.swisscom" />
         <option value="package:mine " />
+        <option value="com.swisscom" />
         <option value="package:mine MainAc" />
         <option value="com.swisscom.scanexample.xml" />
         <option value="MainActivity" />
