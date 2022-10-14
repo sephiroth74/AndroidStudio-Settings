@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LibraryStateEmitter" />
+    <option name="mostRecentlyUsed" value="package:mine tag:LibraryStateEmitter tag:MainActivity tag:LibraryEventEmitter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LibraryStateEmitter tag:MainActivity tag:LibraryEventEmitter" />
+        <option value="package:mine tag:LibraryStateEmitter tag:MainActivity " />
+        <option value="package:mine tag:LibraryStateEmitter" />
         <option value="package:mine LibraryStateEmitter" />
         <option value="package:mine" />
         <option value="package:mine tag:LibraryStateEmitter tag:MainActivity" />
@@ -20,9 +23,6 @@
         <option value="permission|example" />
         <option value="message:permission" />
         <option value="package:mine TvLibApplication" />
-        <option value="package:mine work" />
-        <option value="package:mine RuwidoProvider" />
-        <option value="package:mine sharedp" />
       </list>
     </option>
   </component>
