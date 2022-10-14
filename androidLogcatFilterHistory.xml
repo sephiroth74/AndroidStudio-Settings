@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MainService" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine MainService" />
         <option value="package:mine " />
+        <option value="package:mine initializer" />
+        <option value="package:mine MainService" />
         <option value="package:mine MainActivity" />
         <option value="com.swisscom" />
         <option value="package:mine MainAc" />
@@ -22,7 +23,6 @@
         <option value="package:mine sharedp" />
         <option value="tag:TvLibApplication tag:LibraryReceiver" />
         <option value="tag:TvLibApplication tag:" />
-        <option value="tag: TvLibApplication or LibraryReceiver" />
       </list>
     </option>
   </component>
