@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity tag:LibraryEventEmitter tag:LibraryStateEmitter tag:StateObserver" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:MainActivity tag:LibraryEventEmitter tag:LibraryStateEmitter tag:StateObserver" />
         <option value="package:mine tag:MainActivity tag:LibraryEventEmitter tag:LibraryStateEmitter" />
         <option value="package:mine tag:MainActivity tag:LibraryEventEmitter" />
@@ -10,7 +10,6 @@
         <option value="package:mine tag:LibraryStateEmitter tag:MainActivity " />
         <option value="package:mine tag:LibraryStateEmitter" />
         <option value="package:mine LibraryStateEmitter" />
-        <option value="package:mine" />
         <option value="package:mine tag:LibraryStateEmitter tag:MainActivity" />
         <option value="package:mine " />
         <option value="package:mine initializer" />
