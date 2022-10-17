@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="setDynamicFramerateEnabled" />
         <option value="package:mine" />
         <option value="package:mine tag:ConfigProvider" />
@@ -14,7 +15,6 @@
         <option value="package:mine tag:LibraryStateEmitter" />
         <option value="package:mine LibraryStateEmitter" />
         <option value="package:mine tag:LibraryStateEmitter tag:MainActivity" />
-        <option value="package:mine " />
         <option value="package:mine initializer" />
         <option value="package:mine MainService" />
         <option value="package:mine MainActivity" />
