@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="setDynamicFramerateEnabled" />
     <option name="nonFavorites">
       <list>
+        <option value="setDynamicFramerateEnabled" />
         <option value="package:mine" />
         <option value="package:mine tag:ConfigProvider" />
         <option value="package:mine tag:MainActivity tag:LibraryEventEmitter tag:LibraryStateEmitter tag:StateObserver" />
@@ -21,7 +23,6 @@
         <option value="com.swisscom.scanexample.xml" />
         <option value="MainActivity" />
         <option value="permission" />
-        <option value="permission " />
       </list>
     </option>
   </component>
