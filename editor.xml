@@ -8,6 +8,7 @@
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.swisscom.aot.library.commons" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
