@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="ConnectionStatusReceiver" />
         <option value="TvLibApplication" />
         <option value="standalone" />
         <option value="WorkConfigurationProvider" />
@@ -22,7 +23,6 @@
         <option value="package:mine MainService" />
         <option value="package:mine MainActivity" />
         <option value="com.swisscom" />
-        <option value="package:mine MainAc" />
       </list>
     </option>
   </component>
