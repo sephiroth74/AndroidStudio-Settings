@@ -4,9 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="standalone" />
         <option value="ConnectionStatusReceiver" />
         <option value="TvLibApplication" />
-        <option value="standalone" />
         <option value="WorkConfigurationProvider" />
         <option value="setDynamicFramerateEnabled" />
         <option value="package:mine" />
