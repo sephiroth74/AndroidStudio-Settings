@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine HdmiServiceHandler" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HdmiServiceHandler" />
         <option value="package:mine " />
         <option value="standalone" />
         <option value="ConnectionStatusReceiver" />
@@ -22,7 +23,6 @@
         <option value="package:mine initializer" />
         <option value="package:mine MainService" />
         <option value="package:mine MainActivity" />
-        <option value="com.swisscom" />
       </list>
     </option>
   </component>
