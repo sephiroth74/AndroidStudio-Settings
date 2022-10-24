@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine onCreate" />
+    <option name="mostRecentlyUsed" value="package:mine HdmiServiceHandler" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine HdmiServiceHandler" />
         <option value="package:mine onCreate" />
         <option value="package:mine " />
         <option value="HdmiServiceHandler" />
@@ -11,7 +12,6 @@
         <option value="package:mine tag:HdmiServiceHandler" />
         <option value="package:mine tag:HdmiServiceHandler tag:ContextUtil" />
         <option value="package:mine tag:HdmiServiceHandler tag:DataStoreManager" />
-        <option value="package:mine HdmiServiceHandler" />
         <option value="standalone" />
         <option value="ConnectionStatusReceiver" />
         <option value="TvLibApplication" />
