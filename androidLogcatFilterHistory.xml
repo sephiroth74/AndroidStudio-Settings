@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:HdmiServiceHandler tag:ContextUtil" />
+    <option name="mostRecentlyUsed" value="package:mine tag:HdmiServiceHandler" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HdmiServiceHandler" />
         <option value="package:mine tag:HdmiServiceHandler tag:ContextUtil" />
         <option value="package:mine tag:HdmiServiceHandler tag:DataStoreManager" />
         <option value="package:mine HdmiServiceHandler" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:LibraryStateEmitter" />
         <option value="package:mine LibraryStateEmitter" />
         <option value="package:mine tag:LibraryStateEmitter tag:MainActivity" />
-        <option value="package:mine initializer" />
       </list>
     </option>
   </component>
