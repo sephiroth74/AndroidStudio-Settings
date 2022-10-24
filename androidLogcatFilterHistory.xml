@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:HdmiServiceHandler tag:readTvInfoDisposable tag:reloadAndConcludeTvInfo" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="HdmiServiceHandler" />
+        <option value="package:mine HdmiServiceHandler" />
+        <option value="package:mine" />
         <option value="package:mine tag:HdmiServiceHandler tag:readTvInfoDisposable tag:reloadAndConcludeTvInfo" />
         <option value="package:mine tag:HdmiServiceHandler tag:readTvInfoDisposable" />
         <option value="package:mine tag:HdmiServiceHandler" />
         <option value="package:mine tag:MainActivity" />
-        <option value="package:mine HdmiServiceHandler" />
         <option value="package:mine onCreate" />
-        <option value="package:mine " />
-        <option value="HdmiServiceHandler" />
         <option value="LifecycleProvider" />
         <option value="HdmiHotplugHandler" />
         <option value="package:mine tag:HdmiServiceHandler tag:ContextUtil" />
@@ -20,7 +21,6 @@
         <option value="TvLibApplication" />
         <option value="WorkConfigurationProvider" />
         <option value="setDynamicFramerateEnabled" />
-        <option value="package:mine" />
         <option value="package:mine tag:ConfigProvider" />
         <option value="package:mine tag:MainActivity tag:LibraryEventEmitter tag:LibraryStateEmitter tag:StateObserver" />
       </list>
