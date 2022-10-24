@@ -1,14 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HdmiHotplugHandler" />
+    <option name="mostRecentlyUsed" value="package:mine onCreate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onCreate" />
+        <option value="package:mine " />
+        <option value="HdmiServiceHandler" />
+        <option value="LifecycleProvider" />
         <option value="HdmiHotplugHandler" />
         <option value="package:mine tag:HdmiServiceHandler" />
         <option value="package:mine tag:HdmiServiceHandler tag:ContextUtil" />
         <option value="package:mine tag:HdmiServiceHandler tag:DataStoreManager" />
         <option value="package:mine HdmiServiceHandler" />
-        <option value="package:mine " />
         <option value="standalone" />
         <option value="ConnectionStatusReceiver" />
         <option value="TvLibApplication" />
@@ -20,9 +23,6 @@
         <option value="package:mine tag:MainActivity tag:LibraryEventEmitter tag:LibraryStateEmitter" />
         <option value="package:mine tag:MainActivity tag:LibraryEventEmitter" />
         <option value="package:mine tag:LibraryStateEmitter tag:MainActivity tag:LibraryEventEmitter" />
-        <option value="package:mine tag:LibraryStateEmitter tag:MainActivity " />
-        <option value="package:mine tag:LibraryStateEmitter" />
-        <option value="package:mine LibraryStateEmitter" />
       </list>
     </option>
   </component>
