@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity" />
+    <option name="mostRecentlyUsed" value="package:mine tag:HdmiServiceHandler" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HdmiServiceHandler" />
         <option value="package:mine tag:MainActivity" />
         <option value="package:mine HdmiServiceHandler" />
         <option value="package:mine onCreate" />
@@ -10,7 +11,6 @@
         <option value="HdmiServiceHandler" />
         <option value="LifecycleProvider" />
         <option value="HdmiHotplugHandler" />
-        <option value="package:mine tag:HdmiServiceHandler" />
         <option value="package:mine tag:HdmiServiceHandler tag:ContextUtil" />
         <option value="package:mine tag:HdmiServiceHandler tag:DataStoreManager" />
         <option value="standalone" />
