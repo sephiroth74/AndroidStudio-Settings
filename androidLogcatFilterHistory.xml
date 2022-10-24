@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:HdmiServiceHandler" />
+    <option name="mostRecentlyUsed" value="package:mine tag:HdmiServiceHandler tag:readTvInfoDisposable tag:reloadAndConcludeTvInfo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:HdmiServiceHandler tag:readTvInfoDisposable tag:reloadAndConcludeTvInfo" />
+        <option value="package:mine tag:HdmiServiceHandler tag:readTvInfoDisposable" />
         <option value="package:mine tag:HdmiServiceHandler" />
         <option value="package:mine tag:MainActivity" />
         <option value="package:mine HdmiServiceHandler" />
@@ -21,8 +23,6 @@
         <option value="package:mine" />
         <option value="package:mine tag:ConfigProvider" />
         <option value="package:mine tag:MainActivity tag:LibraryEventEmitter tag:LibraryStateEmitter tag:StateObserver" />
-        <option value="package:mine tag:MainActivity tag:LibraryEventEmitter tag:LibraryStateEmitter" />
-        <option value="package:mine tag:MainActivity tag:LibraryEventEmitter" />
       </list>
     </option>
   </component>
