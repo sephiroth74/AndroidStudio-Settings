@@ -1,16 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine Reporting" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:mine Reporting" />
         <option value="package:mine " />
+        <option value="package:mine HdmiServiceHandler" />
+        <option value="package:mine" />
         <option value="package:mine Main" />
         <option value="package:mine LogCounterEventWorker" />
         <option value="package:mine tag:HdmiServiceHandler" />
         <option value="package:mine tag:LibraryReceiver" />
         <option value="LibraryReceiver" />
-        <option value="package:mine HdmiServiceHandler" />
         <option value="package:mine Mainser" />
         <option value="HdmiServiceHandler" />
         <option value="package:mine tag:HdmiServiceHandler tag:readTvInfoDisposable tag:reloadAndConcludeTvInfo" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:HdmiServiceHandler tag:ContextUtil" />
         <option value="package:mine tag:HdmiServiceHandler tag:DataStoreManager" />
         <option value="standalone" />
-        <option value="ConnectionStatusReceiver" />
       </list>
     </option>
   </component>
