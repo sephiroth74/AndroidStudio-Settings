@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity tag:DataStoreManager" />
+    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:MainActivity tag:DataStoreManager" />
         <option value="package:mine tag:MainActivity" />
+        <option value="package:mine tag:MainActivity tag:DataStoreManager" />
         <option value="package:mine DataStore" />
         <option value="package:mine Reporting" />
         <option value="package:mine ReportingReceiver" />
