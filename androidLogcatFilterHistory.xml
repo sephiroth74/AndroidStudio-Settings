@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Reporting" />
+    <option name="mostRecentlyUsed" value="package:mine DataStore" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine DataStore" />
         <option value="package:mine Reporting" />
         <option value="package:mine ReportingReceiver" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="LifecycleProvider" />
         <option value="HdmiHotplugHandler" />
         <option value="package:mine tag:HdmiServiceHandler tag:ContextUtil" />
-        <option value="package:mine tag:HdmiServiceHandler tag:DataStoreManager" />
       </list>
     </option>
   </component>
