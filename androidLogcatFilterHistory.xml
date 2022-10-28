@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActi tag:DataStoreManagerSample" />
+    <option name="mostRecentlyUsed" value="package:mine " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="MainA" />
+        <option value="tag:MainActivity tag:SimpleProvider" />
+        <option value="package:mine tag:MainActivity tag:SimpleProvider" />
+        <option value="package:mine tag:MainActi tag:SimpleProvider" />
         <option value="package:mine tag:MainActi tag:DataStoreManagerSample" />
         <option value="package:mine MainActi" />
         <option value="package:mine" />
@@ -11,7 +16,6 @@
         <option value="package:mine DataStore" />
         <option value="package:mine Reporting" />
         <option value="package:mine ReportingReceiver" />
-        <option value="package:mine " />
         <option value="package:mine HdmiServiceHandler" />
         <option value="package:mine Main" />
         <option value="package:mine LogCounterEventWorker" />
@@ -19,10 +23,6 @@
         <option value="package:mine tag:LibraryReceiver" />
         <option value="LibraryReceiver" />
         <option value="package:mine Mainser" />
-        <option value="HdmiServiceHandler" />
-        <option value="package:mine tag:HdmiServiceHandler tag:readTvInfoDisposable tag:reloadAndConcludeTvInfo" />
-        <option value="package:mine tag:HdmiServiceHandler tag:readTvInfoDisposable" />
-        <option value="package:mine onCreate" />
       </list>
     </option>
   </component>
