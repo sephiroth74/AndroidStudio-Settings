@@ -4,6 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag:ReportingReceiver tag:LogCounterEventWorker tag:HdmiServiceHandler" />
+        <option value="package:mine tag:ReportingReceiver tag:LogCounterEventWorker" />
+        <option value="package:mine tag:ReportingReceiver tag:" />
         <option value="MainA" />
         <option value="tag:MainActivity tag:SimpleProvider" />
         <option value="package:mine tag:MainActivity tag:SimpleProvider" />
@@ -20,9 +23,6 @@
         <option value="package:mine Main" />
         <option value="package:mine LogCounterEventWorker" />
         <option value="package:mine tag:HdmiServiceHandler" />
-        <option value="package:mine tag:LibraryReceiver" />
-        <option value="LibraryReceiver" />
-        <option value="package:mine Mainser" />
       </list>
     </option>
   </component>
