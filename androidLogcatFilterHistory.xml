@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver" />
+    <option name="mostRecentlyUsed" value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver tag:Worker" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver tag:Worker" />
+        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver tag:Job" />
         <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver" />
         <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService" />
         <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper" />
@@ -21,8 +23,6 @@
         <option value="MainA" />
         <option value="tag:MainActivity tag:SimpleProvider" />
         <option value="package:mine tag:MainActivity tag:SimpleProvider" />
-        <option value="package:mine tag:MainActi tag:SimpleProvider" />
-        <option value="package:mine tag:MainActi tag:DataStoreManagerSample" />
       </list>
     </option>
   </component>
