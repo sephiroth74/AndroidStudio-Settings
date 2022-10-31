@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MainActivity tag:ReportingReceiver tag:ReportingReceiver tag:WorkManagerUtil tag:LogCounterEventWorker" />
+    <option name="mostRecentlyUsed" value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver" />
+        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService" />
+        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper" />
+        <option value="package:mine tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper" />
+        <option value="package:mine tag:MainActivity tag:ReportingReceiver tag:ReportingReceiver tag:WorkManagerDelegate tag:LogCounterEventWorker" />
         <option value="package:mine tag:MainActivity tag:ReportingReceiver tag:ReportingReceiver tag:WorkManagerUtil tag:LogCounterEventWorker" />
         <option value="package:mine tag:MainActivity tag:ReportingReceiver tag:ReportingReceiver tag:WorkManagerUtil" />
         <option value="package:mine tag:MainActivity tag:ReportingReceiver tag:ReportingReceiver" />
@@ -18,11 +23,6 @@
         <option value="package:mine tag:MainActivity tag:SimpleProvider" />
         <option value="package:mine tag:MainActi tag:SimpleProvider" />
         <option value="package:mine tag:MainActi tag:DataStoreManagerSample" />
-        <option value="package:mine MainActi" />
-        <option value="package:mine" />
-        <option value="package:mine tag:MainActivity" />
-        <option value="package:mine tag:MainActivity tag:DataStoreManager" />
-        <option value="package:mine DataStore" />
       </list>
     </option>
   </component>
