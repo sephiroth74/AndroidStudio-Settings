@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:CounterEvent" />
+    <option name="mostRecentlyUsed" value="update_engine" />
     <option name="nonFavorites">
       <list>
+        <option value="update_engine" />
         <option value="package:mine tag~:CounterEvent" />
         <option value="package:mine " />
         <option value="tag:update_engine" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:MainActivity tag:ReportingReceiver tag:ReportingReceiver tag:WorkManagerUtil tag:LogCounterEventWorker" />
         <option value="package:mine tag:MainActivity tag:ReportingReceiver tag:ReportingReceiver tag:WorkManagerUtil" />
         <option value="package:mine tag:MainActivity tag:ReportingReceiver tag:ReportingReceiver" />
-        <option value="package:mine tag:MainActivity tag:ReportingReceiver" />
       </list>
     </option>
   </component>
