@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="update_engine" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:CounterEvent" />
     <option name="nonFavorites">
       <list>
-        <option value="update_engine" />
         <option value="package:mine tag~:CounterEvent" />
+        <option value="update_engine" />
         <option value="package:mine " />
         <option value="tag:update_engine" />
         <option value="tag:MainActivity tag:WorkManagerDelegate tag:BaseWorker tag~:CounterEvent" />
