@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver tag~:SQLiteStatements" />
+    <option name="mostRecentlyUsed" value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver tag~:SQLite" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver tag~:SQLite" />
         <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver tag~:SQLiteStatements" />
         <option value="level:ERROR " />
         <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver" />
@@ -22,7 +23,6 @@
         <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver tag:Job" />
         <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService" />
         <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper" />
-        <option value="package:mine tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper" />
       </list>
     </option>
   </component>
