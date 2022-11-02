@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver tag~:SQLiteStatements" />
+        <option value="level:ERROR " />
         <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver" />
         <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker" />
         <option value="package:mine tag~:CounterEvent" />
@@ -22,7 +23,6 @@
         <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService" />
         <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper" />
         <option value="package:mine tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper" />
-        <option value="package:mine tag:MainActivity tag:ReportingReceiver tag:ReportingReceiver tag:WorkManagerDelegate tag:LogCounterEventWorker" />
       </list>
     </option>
   </component>
