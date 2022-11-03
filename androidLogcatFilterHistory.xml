@@ -1,7 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity -message:LogCounterEventWorker tag~:LibraryReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity -message:LogCounterEventWorker tag~:LibraryReceiver" />
+        <option value="LibraryReceiver" />
+        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:WorkManagerDelegate tag~:MainActivity -message:LogCounterEventWorker tag~:LibraryReceiver" />
+        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:WorkManagerDelegate tag~:MainActivity tag~:BaseWorker -message:LogCounterEventWorker tag~:LibraryReceiver" />
+        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:WorkManagerDelegate tag~:MainActivity tag~:BaseWorker -message:LogCounterEventWorker" />
+        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:WorkManagerDelegate tag~:MainActivity tag~:BaseWorker" />
+        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:WorkManagerDelegate tag~:MainActivity " />
+        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:WorkManagerDelegate" />
+        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker" />
+        <option value="package:mine tag~:SyncClientSettingsWorker" />
         <option value="package:mine" />
         <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver tag~:SQLite" />
         <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver tag~:SQLiteStatements" />
@@ -12,16 +23,6 @@
         <option value="package:mine " />
         <option value="update_engine" />
         <option value="tag:update_engine" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:BaseWorker tag~:CounterEvent" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:BaseWorker tag:*CounterEvent*" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:BaseWorker tag:CachedCounterEvent tag:CounterEvent" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:BaseWorker tag:CachedCounterEvent" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:BaseWorker" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver tag:Worker" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService tag:ReportingReceiver tag:Job" />
-        <option value="tag:MainActivity tag:WorkManagerDelegate tag:LogCounterEventWorker tag:WorkerWrapper tag:SystemJobService" />
       </list>
     </option>
   </component>
