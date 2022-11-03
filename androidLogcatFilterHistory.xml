@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver tag:ContextUtil tag:StateObserver tag:LibraryEventEmitter tag:LibraryStateEmitter " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine tag:MainSampleActivity tag:LibraryStateEmitter tag:LibraryEventEmitter tag:StateObserver" />
+        <option value="package:mine tag:MainSampleActivity tag:LibraryStateEmitter tag:LibraryEventEmitter " />
+        <option value="package:mine tag:MainSampleActivity " />
+        <option value="package:mine tag:MainActivity " />
+        <option value="package:mine " />
+        <option value="package:mine tag:MainActivity  " />
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver tag:ContextUtil tag:StateObserver tag:LibraryEventEmitter tag:LibraryStateEmitter " />
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver tag:ContextUtil tag:StateObserver" />
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver tag:ContextUtil" />
@@ -16,13 +22,6 @@
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:WorkManagerDelegate tag~:MainActivity " />
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:WorkManagerDelegate" />
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker" />
-        <option value="package:mine tag~:SyncClientSettingsWorker" />
-        <option value="package:mine" />
-        <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver tag~:SQLite" />
-        <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver tag~:SQLiteStatements" />
-        <option value="level:ERROR " />
-        <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker tag~:LibraryReceiver" />
-        <option value="package:mine tag~:CounterEvent tag~:TimeChangedWorker" />
       </list>
     </option>
   </component>
