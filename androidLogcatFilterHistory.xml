@@ -1,10 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver message:ClientSettings" />
+    <option name="mostRecentlyUsed" value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver message:ClientSettings" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver" />
+        <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver message~:ClientSettings" />
+        <option value="ClientSettings:" />
+        <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver message:ClientSettings" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient" />
         <option value="package:mine tag:MainSampleActivity " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver tag:ContextUtil" />
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver" />
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity -message:LogCounterEventWorker tag~:LibraryReceiver" />
-        <option value="LibraryReceiver" />
-        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:WorkManagerDelegate tag~:MainActivity -message:LogCounterEventWorker tag~:LibraryReceiver" />
       </list>
     </option>
   </component>
