@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver tag:LibStateModel" />
+    <option name="mostRecentlyUsed" value="appservice" />
     <option name="nonFavorites">
       <list>
+        <option value="appservice" />
         <option value="package:mine" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver tag:LibStateModel" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver tag:ContextUtil tag:StateObserver tag:LibraryEventEmitter tag:LibraryStateEmitter " />
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver tag:ContextUtil tag:StateObserver" />
         <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver tag:ContextUtil" />
-        <option value="package:mine tag~:SyncClientSettingsWorker tag~:ClientSettingsSyncedDispatchWorker tag~:MainActivity tag~:LibraryReceiver" />
       </list>
     </option>
   </component>
