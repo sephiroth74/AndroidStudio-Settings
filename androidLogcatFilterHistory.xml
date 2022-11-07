@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver tag:LibStateModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver tag:LibStateModel" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver message~:ClientSettings" />
@@ -14,7 +15,6 @@
         <option value="package:mine " />
         <option value="package:mine sendBroadcastAsUser" />
         <option value="package:mine MainSam" />
-        <option value="package:mine" />
         <option value="package:mine tag:MainSampleActivity tag:LibraryStateEmitter tag:LibraryEventEmitter tag:StateObserver" />
         <option value="package:mine tag:MainSampleActivity tag:LibraryStateEmitter tag:LibraryEventEmitter " />
         <option value="package:mine tag:MainActivity " />
