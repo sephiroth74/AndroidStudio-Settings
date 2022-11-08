@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver tag:AppService" />
+        <option value="permission" />
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver" />
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity" />
         <option value="package:mine tag:PackageManagerDelegate" />
@@ -22,7 +23,6 @@
         <option value="package:mine sendBroadcastAsUser" />
         <option value="package:mine MainSam" />
         <option value="package:mine tag:MainSampleActivity tag:LibraryStateEmitter tag:LibraryEventEmitter tag:StateObserver" />
-        <option value="package:mine tag:MainSampleActivity tag:LibraryStateEmitter tag:LibraryEventEmitter " />
       </list>
     </option>
   </component>
