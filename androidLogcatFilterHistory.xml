@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="package:mine tag:PackageManagerDelegate" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:PackageManagerDelegate" />
         <option value="package:mine " />
         <option value="package:mine tag:PackageManagerDelegate tag:PackageManagerDelegateAndroidTest" />
-        <option value="package:mine tag:PackageManagerDelegate" />
         <option value="appservice" />
         <option value="package:mine" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver tag:LibStateModel" />
