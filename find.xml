@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'AndroidTV Lib'" />
-    <option name="defaultScopeName" value="Project 'AndroidTV Lib'" />
-    <option name="SEARCH_SCOPE" value="Project 'AndroidTV Lib'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.kt</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
