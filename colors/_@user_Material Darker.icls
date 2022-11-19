@@ -4,7 +4,7 @@
     <property name="created">2017-12-08T11:24:35</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.4</property>
-    <property name="modified">2022-11-16T19:17:41</property>
+    <property name="modified">2022-11-19T18:59:12</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="VictorMono Nerd Font Mono" />
@@ -52,7 +52,7 @@
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="676767" />
     <option name="SELECTED_TEARLINE_COLOR" value="616161" />
-    <option name="SELECTION_BACKGROUND" value="353535" />
+    <option name="SELECTION_BACKGROUND" value="716f6f" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="303030" />
