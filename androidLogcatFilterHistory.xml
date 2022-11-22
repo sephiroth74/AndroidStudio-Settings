@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:ERROR " />
+    <option name="mostRecentlyUsed" value="websocket" />
     <option name="nonFavorites">
       <list>
+        <option value="websocket" />
         <option value="level:ERROR " />
         <option value="error" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:PackageManagerDelegate tag:PackageManagerDelegateAndroidTest" />
         <option value="appservice" />
         <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver tag:LibStateModel" />
-        <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver" />
       </list>
     </option>
   </component>
