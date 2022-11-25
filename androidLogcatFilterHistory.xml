@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="appservice" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="appservice" />
         <option value="websocket" />
         <option value="level:ERROR " />
         <option value="error" />
-        <option value="package:mine " />
         <option value="authenticate" />
         <option value="rest" />
         <option value="package" />
