@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:swisscom" />
+        <option value="package~:swisscom" />
+        <option value="package:com.swisscom" />
         <option value="package:mine " />
         <option value="appservice" />
         <option value="websocket" />
@@ -10,7 +14,6 @@
         <option value="authenticate" />
         <option value="rest" />
         <option value="package" />
-        <option value="package:com.swisscom" />
         <option value="package:mine" />
         <option value="package:mine tag:AppService tag:AppReceiver" />
         <option value="package:mine CheckSta" />
@@ -20,8 +23,6 @@
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver" />
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity" />
         <option value="package:mine tag:PackageManagerDelegate" />
-        <option value="package:mine tag:PackageManagerDelegate tag:PackageManagerDelegateAndroidTest" />
-        <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver tag:LibStateModel" />
       </list>
     </option>
   </component>
