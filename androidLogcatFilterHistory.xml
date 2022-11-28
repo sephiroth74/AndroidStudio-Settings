@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="CompletableAppServiceSource" />
     <option name="nonFavorites">
       <list>
+        <option value="CompletableAppServiceSource" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="AppServiceInterfaceWrapper" />
@@ -21,7 +23,6 @@
         <option value="session" />
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver tag:AppService" />
         <option value="permission" />
-        <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver" />
       </list>
     </option>
   </component>
