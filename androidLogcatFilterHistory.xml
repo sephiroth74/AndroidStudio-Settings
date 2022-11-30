@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine MainActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine MainActivity" />
+        <option value="package:mine MainActiv" />
         <option value="package:mine " />
         <option value="package:mine TestClass" />
         <option value="package:mine AuthenticateWorker" />
@@ -20,8 +23,6 @@
         <option value="SingleAppServiceSource" />
         <option value="package~:swisscom" />
         <option value="package:com.swisscom" />
-        <option value="appservice" />
-        <option value="websocket" />
       </list>
     </option>
   </component>
