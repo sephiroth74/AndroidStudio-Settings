@@ -3,6 +3,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine AuthenticateWorker" />
+        <option value="package:mine WorkManagerDelegate" />
+        <option value="package:mine work" />
+        <option value="package:mine LibraryRecei" />
+        <option value="package:mine worker" />
         <option value="standalone" />
         <option value="pa" />
         <option value="com.swisscom.aot.library.standalone " />
@@ -17,11 +22,6 @@
         <option value="appservice" />
         <option value="websocket" />
         <option value="level:ERROR " />
-        <option value="error" />
-        <option value="authenticate" />
-        <option value="rest" />
-        <option value="package" />
-        <option value="package:mine tag:AppService tag:AppReceiver" />
       </list>
     </option>
   </component>
