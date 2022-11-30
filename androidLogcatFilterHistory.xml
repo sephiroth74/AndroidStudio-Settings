@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine MainActivity" />
+    <option name="mostRecentlyUsed" value="package:mine (once)" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine (once)" />
         <option value="package:mine MainActivity" />
         <option value="package:mine MainActiv" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:swisscom" />
         <option value="SingleAppServiceSource" />
         <option value="package~:swisscom" />
-        <option value="package:com.swisscom" />
       </list>
     </option>
   </component>
