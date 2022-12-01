@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine (once)" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine (once)" />
         <option value="package:mine MainActivity" />
         <option value="package:mine MainActiv" />
@@ -18,7 +19,6 @@
         <option value="com.swisscom.aot.library.standalone " />
         <option value="package:com.swisscom.aot.library.standalone " />
         <option value="CompletableAppServiceSource" />
-        <option value="package:mine" />
         <option value="AppServiceInterfaceWrapper" />
         <option value="package:swisscom" />
         <option value="SingleAppServiceSource" />
