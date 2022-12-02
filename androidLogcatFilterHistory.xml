@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibStateEmitter tag:LibStateModel tag:LibEventEmitter" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibStateEmitter tag:LibStateModel tag:LibEventEmitter" />
         <option value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibStateEmitter tag:LibStateModel" />
         <option value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibStateEmitter" />
@@ -14,7 +15,6 @@
         <option value="package:mine " />
         <option value="package:mine Main" />
         <option value="package:mine MainSampleActivity" />
-        <option value="package:mine" />
         <option value="package:mine (once)" />
         <option value="package:mine MainActivity" />
         <option value="package:mine MainActiv" />
