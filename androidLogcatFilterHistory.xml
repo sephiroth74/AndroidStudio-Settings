@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibEventEmitter" />
+    <option name="mostRecentlyUsed" value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibStateEmitter" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibStateEmitter" />
         <option value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibEventEmitter" />
         <option value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent " />
         <option value="package:mine tag:LibStateEmitter tag:LibEventEmitter tag:Main tag:TvLib tag:StbInterfaceListener" />
@@ -22,7 +23,6 @@
         <option value="package:mine LibraryRecei" />
         <option value="package:mine worker" />
         <option value="standalone" />
-        <option value="pa" />
       </list>
     </option>
   </component>
