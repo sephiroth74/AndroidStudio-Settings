@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Main" />
+    <option name="mostRecentlyUsed" value="package:mine tag:LibStateEmitter tag:LibEventEmitter tag:Main" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LibStateEmitter tag:LibEventEmitter tag:Main" />
+        <option value="package:mine " />
         <option value="package:mine Main" />
         <option value="package:mine MainSampleActivity" />
         <option value="package:mine" />
         <option value="package:mine (once)" />
         <option value="package:mine MainActivity" />
         <option value="package:mine MainActiv" />
-        <option value="package:mine " />
         <option value="package:mine TestClass" />
         <option value="package:mine AuthenticateWorker" />
         <option value="package:mine WorkManagerDelegate" />
@@ -22,7 +23,6 @@
         <option value="package:com.swisscom.aot.library.standalone " />
         <option value="CompletableAppServiceSource" />
         <option value="AppServiceInterfaceWrapper" />
-        <option value="package:swisscom" />
       </list>
     </option>
   </component>
