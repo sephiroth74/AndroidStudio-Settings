@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:LibraryReceiver " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LibraryReceiver " />
         <option value="package:mine " />
         <option value="be" />
         <option value="package:mine tag:ConfigProvider" />
@@ -21,7 +23,6 @@
         <option value="package:mine MainActiv" />
         <option value="package:mine TestClass" />
         <option value="package:mine AuthenticateWorker" />
-        <option value="package:mine WorkManagerDelegate" />
       </list>
     </option>
   </component>
