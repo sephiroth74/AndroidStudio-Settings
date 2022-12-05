@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker tag:AccountProviderUtil" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker tag:AccountProviderUtil" />
         <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker" />
         <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver " />
         <option value="package:mine tag:tvlib.contextutil " />
-        <option value="package:mine " />
         <option value="package:mine tag:LibraryReceiver" />
         <option value="package:mine tag:LibraryReceiver " />
         <option value="be" />
