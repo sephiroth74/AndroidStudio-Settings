@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="LibraryReceiver" />
         <option value="package:mine " />
         <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker tag:AccountProviderUtil" />
         <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:LibStateEmitter tag:LibEventEmitter tag:Main tag:TvLib" />
         <option value="package:mine tag:LibStateEmitter tag:LibEventEmitter tag:Main" />
         <option value="package:mine Main" />
-        <option value="package:mine MainSampleActivity" />
       </list>
     </option>
   </component>
