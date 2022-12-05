@@ -1,10 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:LibraryReceiver " />
+    <option name="mostRecentlyUsed" value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker tag:AccountProviderUtil" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:LibraryReceiver " />
+        <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker tag:AccountProviderUtil" />
+        <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker" />
+        <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver " />
+        <option value="package:mine tag:tvlib.contextutil " />
         <option value="package:mine " />
+        <option value="package:mine tag:LibraryReceiver" />
+        <option value="package:mine tag:LibraryReceiver " />
         <option value="be" />
         <option value="package:mine tag:ConfigProvider" />
         <option value="package:mine" />
@@ -18,11 +23,6 @@
         <option value="package:mine tag:LibStateEmitter tag:LibEventEmitter tag:Main" />
         <option value="package:mine Main" />
         <option value="package:mine MainSampleActivity" />
-        <option value="package:mine (once)" />
-        <option value="package:mine MainActivity" />
-        <option value="package:mine MainActiv" />
-        <option value="package:mine TestClass" />
-        <option value="package:mine AuthenticateWorker" />
       </list>
     </option>
   </component>
