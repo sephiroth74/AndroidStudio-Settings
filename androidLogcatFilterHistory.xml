@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:RefreshAppsWorker " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RefreshAppsWorker " />
+        <option value="package:mine tag:RefreshAppsWorker " />
+        <option value="package:mine RefreshAppsWorker" />
         <option value="package:mine " />
         <option value="level:error " />
         <option value="RefreshAppsWorker" />
@@ -19,9 +23,6 @@
         <option value="be" />
         <option value="package:mine tag:ConfigProvider" />
         <option value="package:mine" />
-        <option value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibStateEmitter tag:LibStateModel tag:LibEventEmitter" />
-        <option value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibStateEmitter tag:LibStateModel" />
-        <option value="package:mine tag:Main.TvLibState tag:Main.TvLibEvent  tag:LibStateEmitter" />
       </list>
     </option>
   </component>
