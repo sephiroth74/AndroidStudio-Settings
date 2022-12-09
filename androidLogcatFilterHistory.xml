@@ -1,12 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RefreshAppsWorker " />
+    <option name="mostRecentlyUsed" value="package:mine  tag:RefreshAppsWorker " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tag:RefreshAppsWorker " />
+        <option value="package:mine " />
         <option value="tag:RefreshAppsWorker " />
         <option value="package:mine tag:RefreshAppsWorker " />
         <option value="package:mine RefreshAppsWorker" />
-        <option value="package:mine " />
         <option value="level:error " />
         <option value="RefreshAppsWorker" />
         <option value="wakeUpSource" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:LibraryReceiver " />
         <option value="be" />
         <option value="package:mine tag:ConfigProvider" />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
