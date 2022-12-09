@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:Refresh" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Refresh" />
         <option value="package:mine " />
         <option value="package:mine  tag:RefreshAppsWorker " />
         <option value="tag:RefreshAppsWorker " />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:LibraryReceiver" />
         <option value="package:mine tag:LibraryReceiver " />
         <option value="be" />
-        <option value="package:mine tag:ConfigProvider" />
       </list>
     </option>
   </component>
