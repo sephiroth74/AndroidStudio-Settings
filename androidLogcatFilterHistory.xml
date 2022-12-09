@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag:RefreshAppsWorker " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  tag:RefreshAppsWorker " />
         <option value="package:mine " />
+        <option value="package:mine  tag:RefreshAppsWorker " />
         <option value="tag:RefreshAppsWorker " />
         <option value="package:mine tag:RefreshAppsWorker " />
         <option value="package:mine RefreshAppsWorker" />
