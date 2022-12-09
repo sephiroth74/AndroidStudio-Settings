@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Refresh" />
+    <option name="mostRecentlyUsed" value="tag:RefreshAppsWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RefreshAppsWorker" />
         <option value="tag:Refresh" />
         <option value="package:mine " />
         <option value="package:mine  tag:RefreshAppsWorker " />
@@ -14,7 +15,6 @@
         <option value="wakeUpSource" />
         <option value="tag:RefreshAppsWorker tag:LibraryReceiver tag:WorkManagerDelegate " />
         <option value="tag:RefreshAppsWorker tag:LibraryReceiver " />
-        <option value="tag:RefreshAppsWorker" />
         <option value="LibraryReceiver" />
         <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker tag:AccountProviderUtil" />
         <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker" />
