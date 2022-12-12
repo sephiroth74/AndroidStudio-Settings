@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity" />
+    <option name="mostRecentlyUsed" value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil " />
         <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity" />
         <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter " />
         <option value="tag:LibStateModel  tag:LibModel" />
@@ -22,7 +23,6 @@
         <option value="tag:RefreshAppsWorker tag:LibraryReceiver tag:WorkManagerDelegate " />
         <option value="tag:RefreshAppsWorker tag:LibraryReceiver " />
         <option value="LibraryReceiver" />
-        <option value="package:mine tag:tvlib.contextutil tag:LibStateModel tag:LibraryReceiver tag:RefreshAppsWorker tag:AccountProviderUtil" />
       </list>
     </option>
   </component>
