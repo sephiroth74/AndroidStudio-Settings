@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil " />
+    <option name="mostRecentlyUsed" value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface tag:AuthenticateWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface tag:AuthenticateWorker" />
+        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface" />
+        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil " />
+        <option value="package:mine " />
         <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil " />
         <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity" />
         <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter " />
@@ -12,7 +16,6 @@
         <option value="tag:RefreshAppsWorker tag:MainSampleActivity" />
         <option value="tag:RefreshAppsWorker" />
         <option value="tag:Refresh" />
-        <option value="package:mine " />
         <option value="package:mine  tag:RefreshAppsWorker " />
         <option value="tag:RefreshAppsWorker " />
         <option value="package:mine tag:RefreshAppsWorker " />
@@ -20,9 +23,6 @@
         <option value="level:error " />
         <option value="RefreshAppsWorker" />
         <option value="wakeUpSource" />
-        <option value="tag:RefreshAppsWorker tag:LibraryReceiver tag:WorkManagerDelegate " />
-        <option value="tag:RefreshAppsWorker tag:LibraryReceiver " />
-        <option value="LibraryReceiver" />
       </list>
     </option>
   </component>
