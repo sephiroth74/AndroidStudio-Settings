@@ -1,11 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="UserDelegate" />
+    <option name="mostRecentlyUsed" value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:retri" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:retri" />
+        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main" />
+        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy " />
+        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader " />
+        <option value="package:mine message:bootstrapURL" />
+        <option value="package:mine message:bootstrapUrl" />
+        <option value="package:mine " />
         <option value="UserDelegate" />
         <option value="tag:UserDelegate " />
-        <option value="package:mine " />
         <option value="package:mine tag:MainSampleActivity" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out tag:WorkManagerDelegate tag:AuthenticateWorker" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out tag:WorkManagerDelegate " />
@@ -17,12 +23,6 @@
         <option value="message:bearer" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker" />
         <option value="message:Bearer" />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker " />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface tag:AuthenticateWorker tag:LibErrorEventEmitter" />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface tag:AuthenticateWorker" />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface" />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil " />
-        <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil " />
       </list>
     </option>
   </component>
