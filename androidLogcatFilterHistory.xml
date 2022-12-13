@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface tag:AuthenticateWorker tag:LibErrorEventEmitter" />
+    <option name="mostRecentlyUsed" value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker" />
+        <option value="message:Bearer" />
+        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker " />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface tag:AuthenticateWorker tag:LibErrorEventEmitter" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface tag:AuthenticateWorker" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface" />
@@ -20,9 +23,6 @@
         <option value="package:mine  tag:RefreshAppsWorker " />
         <option value="tag:RefreshAppsWorker " />
         <option value="package:mine tag:RefreshAppsWorker " />
-        <option value="package:mine RefreshAppsWorker" />
-        <option value="level:error " />
-        <option value="RefreshAppsWorker" />
       </list>
     </option>
   </component>
