@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out tag:WorkManagerDelegate tag:AuthenticateWorker" />
+        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out tag:WorkManagerDelegate " />
+        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out tag:WorkManagerDelegate tag:w" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out " />
         <option value="tag:RetrieveChannelsWorker " />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy " />
@@ -15,14 +18,10 @@
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface tag:AuthenticateWorker" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil tag:AccountServiceInterface" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil " />
-        <option value="package:mine " />
         <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity tag:tvlib.ContextUtil " />
         <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter tag:MainSampleActivity" />
         <option value="tag:LibStateModel  tag:LibModel tag:LibStateEmitter tag:libeventemitter " />
         <option value="tag:LibStateModel  tag:LibModel" />
-        <option value="tag:LibStateModel  " />
-        <option value="package:mine tag:MainSampleActivity tag:libstatemodel tag:libmodel " />
-        <option value="tag:RefreshAppsWorker tag:MainSampleActivity" />
       </list>
     </option>
   </component>
