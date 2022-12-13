@@ -1,8 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:retri" />
+    <option name="mostRecentlyUsed" value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient " />
+        <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker" />
+        <option value="tag:RefreshAppsWorker tag:libraryreceiver " />
+        <option value="RestClient" />
+        <option value="package:mine tag:RetrieveChannelsWorker tag:LibraryReceiver tag:RestClient tag:WorkConfigurationProvider" />
+        <option value="package:mine tag:RetrieveChannelsWorker tag:LibraryReceiver tag:RestClient" />
+        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:RetrieveChannelsWorker tag:LibraryReceiver tag:RestClient" />
+        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:RetrieveChannelsWorker tag:LibraryReceiver " />
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:retri" />
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main" />
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy " />
@@ -15,14 +23,6 @@
         <option value="package:mine tag:MainSampleActivity" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out tag:WorkManagerDelegate tag:AuthenticateWorker" />
         <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out tag:WorkManagerDelegate " />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out tag:WorkManagerDelegate tag:w" />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out " />
-        <option value="tag:RetrieveChannelsWorker " />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy " />
-        <option value="bearer" />
-        <option value="message:bearer" />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker" />
-        <option value="message:Bearer" />
       </list>
     </option>
   </component>
