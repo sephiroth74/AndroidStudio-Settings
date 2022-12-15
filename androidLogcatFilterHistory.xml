@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient tag:TVLIB.EPGDAO " />
+    <option name="mostRecentlyUsed" value="tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient tag:TVLIB.EPGDAO " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient tag:TVLIB.EPGDAO " />
+        <option value="package:mine " />
         <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient tag:TVLIB.EPGDAO " />
         <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient " />
         <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker" />
@@ -18,11 +20,9 @@
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader " />
         <option value="package:mine message:bootstrapURL" />
         <option value="package:mine message:bootstrapUrl" />
-        <option value="package:mine " />
         <option value="UserDelegate" />
         <option value="tag:UserDelegate " />
         <option value="package:mine tag:MainSampleActivity" />
-        <option value="tag:LibStateModel  tag:LibStateModelEventHandler tag:RetrieveChannelsWorker tag:tvlib.DefaultPolicy tag:system.out tag:WorkManagerDelegate tag:AuthenticateWorker" />
       </list>
     </option>
   </component>
