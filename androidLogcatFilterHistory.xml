@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="bearer" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
+        <option value="package:mine  tag:" />
         <option value="bearer" />
         <option value="tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient tag:TVLIB.EPGDAO " />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader " />
         <option value="package:mine message:bootstrapURL" />
         <option value="package:mine message:bootstrapUrl" />
-        <option value="UserDelegate" />
-        <option value="tag:UserDelegate " />
       </list>
     </option>
   </component>
