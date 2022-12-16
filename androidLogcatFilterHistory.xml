@@ -1,15 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LibraryReceiver " />
+    <option name="mostRecentlyUsed" value="package:mine tag:LibraryReceiver " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:LibraryReceiver " />
+        <option value="package:mine " />
+        <option value="package:mine tag:LibraryReceiver tag:MY_CUSTOM_TAG" />
+        <option value="tag:LibraryReceiver tag:MY_CUSTOM_TAG " />
         <option value="tag:LibraryReceiver " />
         <option value="package:mine  tag:LibraryReceiver " />
         <option value="package:mine  " />
         <option value="package:mine  tag:" />
         <option value="bearer" />
         <option value="tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient tag:TVLIB.EPGDAO " />
-        <option value="package:mine " />
         <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient tag:TVLIB.EPGDAO " />
         <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient " />
         <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker" />
@@ -20,9 +23,6 @@
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:RetrieveChannelsWorker tag:LibraryReceiver tag:RestClient" />
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:RetrieveChannelsWorker tag:LibraryReceiver " />
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:retri" />
-        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main" />
-        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy " />
-        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader " />
       </list>
     </option>
   </component>
