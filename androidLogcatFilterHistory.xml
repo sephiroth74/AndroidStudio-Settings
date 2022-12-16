@@ -1,10 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:LibraryReceiver " />
+    <option name="mostRecentlyUsed" value="tag:PropertiesReceiver tag:MY_CUSTOM_TAG " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:LibraryReceiver " />
+        <option value="tag:PropertiesReceiver tag:MY_CUSTOM_TAG " />
+        <option value="tag:PropertiesReceiver" />
+        <option value="tag:MY_CUSTOM_TAG " />
         <option value="package:mine " />
+        <option value="package:mine tag:PropertiesReceiver tag:MY_CUSTOM_TAG " />
+        <option value="package:mine tag:LibraryReceiver " />
         <option value="package:mine tag:LibraryReceiver tag:MY_CUSTOM_TAG" />
         <option value="tag:LibraryReceiver tag:MY_CUSTOM_TAG " />
         <option value="tag:LibraryReceiver " />
@@ -19,10 +23,6 @@
         <option value="tag:RefreshAppsWorker tag:libraryreceiver " />
         <option value="RestClient" />
         <option value="package:mine tag:RetrieveChannelsWorker tag:LibraryReceiver tag:RestClient tag:WorkConfigurationProvider" />
-        <option value="package:mine tag:RetrieveChannelsWorker tag:LibraryReceiver tag:RestClient" />
-        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:RetrieveChannelsWorker tag:LibraryReceiver tag:RestClient" />
-        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:RetrieveChannelsWorker tag:LibraryReceiver " />
-        <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main tag:retri" />
       </list>
     </option>
   </component>
