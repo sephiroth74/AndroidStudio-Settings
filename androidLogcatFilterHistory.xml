@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
+    <option name="mostRecentlyUsed" value="tag:LibraryReceiver " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LibraryReceiver " />
+        <option value="package:mine  tag:LibraryReceiver " />
         <option value="package:mine  " />
         <option value="package:mine  tag:" />
         <option value="bearer" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy tag:userdelegate tag:main" />
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader tag:userproxy " />
         <option value="package:mine tag:loadpropertiesworker tag:PropertiesLoader " />
-        <option value="package:mine message:bootstrapURL" />
-        <option value="package:mine message:bootstrapUrl" />
       </list>
     </option>
   </component>
