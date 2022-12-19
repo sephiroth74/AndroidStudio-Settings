@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:RetrieveChannelsWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:RetrieveChannelsWorker" />
         <option value="package:mine " />
         <option value="tag:PropertiesReceiver tag:MY_CUSTOM_TAG " />
         <option value="workmana" />
@@ -21,7 +23,6 @@
         <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient tag:TVLIB.EPGDAO " />
         <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient " />
         <option value="tag:RefreshAppsWorker tag:libraryreceiver tag:RetrieveChannelsWorker" />
-        <option value="tag:RefreshAppsWorker tag:libraryreceiver " />
       </list>
     </option>
   </component>
