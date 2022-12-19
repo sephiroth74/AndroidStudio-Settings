@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HttpLoggingInterceptor" />
+    <option name="mostRecentlyUsed" value="bearer" />
     <option name="nonFavorites">
       <list>
-        <option value="HttpLoggingInterceptor" />
+        <option value="bearer" />
+        <option value="tag:workmanagerdelegate tag:RefreshAppsWorker tag:retrievechannelsworker " />
+        <option value="work" />
+        <option value="tag:workmanagerdelegate tag:RefreshAppsWorker" />
+        <option value="tag:workmanagerdelegate " />
+        <option value="RetrieveChannelsWorker" />
+        <option value="StrictPolicy" />
         <option value="package:mine " />
+        <option value="Authorization" />
+        <option value="token=" />
+        <option value="tag:LibStateModelEventHandler tag:WorkManagerDelegate tag:RetrieveChannelsWorker tag:TvLibApplication" />
+        <option value="tag:LibStateModelEventHandler tag:WorkManagerDelegate tag:RetrieveChannelsWorker" />
+        <option value="tag:LibStateModelEventHandler tag:WorkManagerDelegate " />
+        <option value="tag:RetrieveChannelsWorker" />
+        <option value="Policy" />
+        <option value="RestClient" />
+        <option value="HttpLoggingInterceptor" />
         <option value="Bearer" />
         <option value="Authorization: Bearer" />
         <option value="tag:RetrieveChannelsWorker tag:RestClient tag:tvlib.ZipUtil " />
-        <option value="tag:RetrieveChannelsWorker tag:RestClient " />
-        <option value="package:mine tag:RetrieveChannelsWorker tag:RestClient " />
-        <option value="package:mine tag:RetrieveChannelsWorker" />
-        <option value="tag:PropertiesReceiver tag:MY_CUSTOM_TAG " />
-        <option value="workmana" />
-        <option value="worker" />
-        <option value="tag:PropertiesReceiver" />
-        <option value="tag:MY_CUSTOM_TAG " />
-        <option value="package:mine tag:PropertiesReceiver tag:MY_CUSTOM_TAG " />
-        <option value="package:mine tag:LibraryReceiver " />
-        <option value="package:mine tag:LibraryReceiver tag:MY_CUSTOM_TAG" />
-        <option value="tag:LibraryReceiver tag:MY_CUSTOM_TAG " />
-        <option value="tag:LibraryReceiver " />
-        <option value="package:mine  tag:LibraryReceiver " />
-        <option value="package:mine  " />
       </list>
     </option>
   </component>
