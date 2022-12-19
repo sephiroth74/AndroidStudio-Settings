@@ -1,13 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RetrieveChannelsWorker tag:RestClient tag:tvlib.ZipUtil " />
+    <option name="mostRecentlyUsed" value="HttpLoggingInterceptor" />
     <option name="nonFavorites">
       <list>
+        <option value="HttpLoggingInterceptor" />
+        <option value="package:mine " />
+        <option value="Bearer" />
+        <option value="Authorization: Bearer" />
         <option value="tag:RetrieveChannelsWorker tag:RestClient tag:tvlib.ZipUtil " />
         <option value="tag:RetrieveChannelsWorker tag:RestClient " />
         <option value="package:mine tag:RetrieveChannelsWorker tag:RestClient " />
         <option value="package:mine tag:RetrieveChannelsWorker" />
-        <option value="package:mine " />
         <option value="tag:PropertiesReceiver tag:MY_CUSTOM_TAG " />
         <option value="workmana" />
         <option value="worker" />
@@ -20,9 +23,6 @@
         <option value="tag:LibraryReceiver " />
         <option value="package:mine  tag:LibraryReceiver " />
         <option value="package:mine  " />
-        <option value="package:mine  tag:" />
-        <option value="bearer" />
-        <option value="tag:libraryreceiver tag:RetrieveChannelsWorker tag:restclient tag:TVLIB.EPGDAO " />
       </list>
     </option>
   </component>
