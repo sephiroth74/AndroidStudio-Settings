@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:retrievechannelsworker tag:tvlibapplication " />
+    <option name="mostRecentlyUsed" value="tag:RetrieveChannelsWorker tag:RestClient " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RetrieveChannelsWorker tag:RestClient " />
+        <option value="tag:RetrieveChannelsWorker tag:RestClient tag:okhttp.OkHttpClient " />
+        <option value="tag:RetrieveChannelsWorker tag:RestClient" />
+        <option value="tag:RetrieveChannelsWorker " />
         <option value="tag:retrievechannelsworker tag:tvlibapplication " />
         <option value="tag:retrievechannelsworker " />
         <option value="AOT_UTIL" />
@@ -19,10 +23,6 @@
         <option value="tag:LibStateModelEventHandler tag:WorkManagerDelegate tag:RetrieveChannelsWorker tag:TvLibApplication" />
         <option value="tag:LibStateModelEventHandler tag:WorkManagerDelegate tag:RetrieveChannelsWorker" />
         <option value="tag:LibStateModelEventHandler tag:WorkManagerDelegate " />
-        <option value="tag:RetrieveChannelsWorker" />
-        <option value="Policy" />
-        <option value="RestClient" />
-        <option value="HttpLoggingInterceptor" />
       </list>
     </option>
   </component>
