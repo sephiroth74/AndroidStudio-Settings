@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="bearer" />
+    <option name="mostRecentlyUsed" value="AOT_UTIL" />
     <option name="nonFavorites">
       <list>
+        <option value="AOT_UTIL" />
         <option value="bearer" />
         <option value="tag:workmanagerdelegate tag:RefreshAppsWorker tag:retrievechannelsworker " />
         <option value="work" />
@@ -22,7 +23,6 @@
         <option value="HttpLoggingInterceptor" />
         <option value="Bearer" />
         <option value="Authorization: Bearer" />
-        <option value="tag:RetrieveChannelsWorker tag:RestClient tag:tvlib.ZipUtil " />
       </list>
     </option>
   </component>
