@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="bearer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="tag:WorkManagerDelegate" />
+        <option value="tag:RetrieveTvLineupsWorker" />
         <option value="bearer" />
         <option value="level:error " />
         <option value="tag:RetrieveChannelsWorker tag:RestClient " />
@@ -18,11 +20,8 @@
         <option value="tag:workmanagerdelegate " />
         <option value="RetrieveChannelsWorker" />
         <option value="StrictPolicy" />
-        <option value="package:mine " />
         <option value="Authorization" />
         <option value="token=" />
-        <option value="tag:LibStateModelEventHandler tag:WorkManagerDelegate tag:RetrieveChannelsWorker tag:TvLibApplication" />
-        <option value="tag:LibStateModelEventHandler tag:WorkManagerDelegate tag:RetrieveChannelsWorker" />
       </list>
     </option>
   </component>
