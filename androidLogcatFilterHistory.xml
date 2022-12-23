@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RetrieveChannelsWorker tag:RestClient tag:PropertiesReceiver" />
+    <option name="mostRecentlyUsed" value="tag:RetrieveChannelsWorker tag:RestClient tag:PropertiesReceiver tag:authenticateworker " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RetrieveChannelsWorker tag:RestClient tag:PropertiesReceiver tag:authenticateworker " />
         <option value="tag:RetrieveChannelsWorker tag:RestClient tag:PropertiesReceiver" />
         <option value="tag:RetrieveChannelsWorker tag:RestClient tag:Prop" />
         <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver" />
@@ -22,7 +23,6 @@
         <option value="AOT_UTIL" />
         <option value="tag:workmanagerdelegate tag:RefreshAppsWorker tag:retrievechannelsworker " />
         <option value="work" />
-        <option value="tag:workmanagerdelegate tag:RefreshAppsWorker" />
       </list>
     </option>
   </component>
