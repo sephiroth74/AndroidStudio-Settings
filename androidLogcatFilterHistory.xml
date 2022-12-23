@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:workmanagerdelegate tag:authenticateworker " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker " />
         <option value="package:mine " />
         <option value="tag:WorkManagerDelegate" />
         <option value="tag:RetrieveTvLineupsWorker" />
@@ -21,7 +23,6 @@
         <option value="RetrieveChannelsWorker" />
         <option value="StrictPolicy" />
         <option value="Authorization" />
-        <option value="token=" />
       </list>
     </option>
   </component>
