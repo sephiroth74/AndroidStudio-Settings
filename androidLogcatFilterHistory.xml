@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:workmanagerdelegate tag:authenticateworker " />
+    <option name="mostRecentlyUsed" value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver" />
+        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:Library" />
         <option value="package:mine tag:workmanagerdelegate tag:authenticateworker " />
         <option value="package:mine " />
         <option value="tag:WorkManagerDelegate" />
@@ -21,8 +23,6 @@
         <option value="tag:workmanagerdelegate tag:RefreshAppsWorker" />
         <option value="tag:workmanagerdelegate " />
         <option value="RetrieveChannelsWorker" />
-        <option value="StrictPolicy" />
-        <option value="Authorization" />
       </list>
     </option>
   </component>
