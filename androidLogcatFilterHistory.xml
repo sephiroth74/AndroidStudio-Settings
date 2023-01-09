@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker" />
+    <option name="mostRecentlyUsed" value="tag:ContextUtil tag:libstatemodel tag:libstateemitter tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:sqlite" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ContextUtil tag:libstatemodel tag:libstateemitter tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:sqlite" />
+        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:sqlite" />
+        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient " />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient  " />
@@ -20,9 +23,6 @@
         <option value="tag:LibStateEmitter" />
         <option value="package:mine tag:MainSampleActivity tag:AuthenticateWorker tag:UserDelegate" />
         <option value="package:com.swisscom.aot.library.standalone tag:restclient tag:MainSampleActivity tag:AuthenticateWorker" />
-        <option value="package:com.swisscom.aot.library.standalone tag:restclient tag:MainSampleActivity tag:" />
-        <option value="package:com.swisscom.aot.library.standalone tag:RetrieveChannelsWorker tag:restclient tag:MainSampleActivity" />
-        <option value="tag:MainSampleActivity" />
       </list>
     </option>
   </component>
