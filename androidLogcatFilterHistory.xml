@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker tag:LibraryReceiver" />
+    <option name="mostRecentlyUsed" value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker tag:LibraryReceiver tag:RestClient" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker tag:LibraryReceiver tag:RestClient" />
         <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker tag:LibraryReceiver" />
         <option value="package:mine " />
         <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker" />
@@ -22,7 +23,6 @@
         <option value="tag:RetrieveChannelsWorker tag:RestClient" />
         <option value="tag:RetrieveChannelsWorker " />
         <option value="tag:retrievechannelsworker tag:tvlibapplication " />
-        <option value="tag:retrievechannelsworker " />
       </list>
     </option>
   </component>
