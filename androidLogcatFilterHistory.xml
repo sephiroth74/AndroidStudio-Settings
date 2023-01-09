@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker" />
+    <option name="mostRecentlyUsed" value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker tag:LibraryReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker tag:LibraryReceiver" />
+        <option value="package:mine " />
         <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker" />
         <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy " />
         <option value="tag:RetrieveChannelsWorker tag:RestClient tag:PropertiesReceiver tag:authenticateworker " />
@@ -11,7 +13,6 @@
         <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver" />
         <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:Library" />
         <option value="package:mine tag:workmanagerdelegate tag:authenticateworker " />
-        <option value="package:mine " />
         <option value="tag:WorkManagerDelegate" />
         <option value="tag:RetrieveTvLineupsWorker" />
         <option value="bearer" />
@@ -22,7 +23,6 @@
         <option value="tag:RetrieveChannelsWorker " />
         <option value="tag:retrievechannelsworker tag:tvlibapplication " />
         <option value="tag:retrievechannelsworker " />
-        <option value="AOT_UTIL" />
       </list>
     </option>
   </component>
