@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context" />
+    <option name="mostRecentlyUsed" value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter " />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:tvlib.libstateemitter " />
@@ -22,7 +23,6 @@
         <option value="package:com.swisscom.aot.library.standalone tag:userproxy tag:authenticateworker tag:workmanagerdelegate tag:retrievetvlineupsworker tag:RestClient" />
         <option value="package:com.swisscom.aot.library.standalone tag:userproxy tag:authenticateworker tag:workmanagerdelegate tag:retrievetvlineupsworker " />
         <option value="package:com.swisscom.aot.library.standalone" />
-        <option value="package:com.swisscom.aot.library.standalone " />
       </list>
     </option>
   </component>
