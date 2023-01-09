@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.swisscom.aot.library.standalone tag:RetrieveChannelsWorker tag:restclient " />
+    <option name="mostRecentlyUsed" value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context" />
+        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter " />
+        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:tvlib.libstateemitter " />
+        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler " />
+        <option value="package:com.swisscom.aot.library.standalone package:com.swisscom.aot.library.sample  " />
+        <option value="package:mine " />
+        <option value="pa" />
+        <option value="package:mine tag:tvlib.LibStateEmitter tag:LibStateModel tag:MainSampleActivity" />
+        <option value="package:mine tag:tvlib.LibStateEmitter tag:LibStateModel " />
+        <option value="tag:LibStateEmitter" />
+        <option value="package:mine tag:MainSampleActivity tag:AuthenticateWorker tag:UserDelegate" />
+        <option value="package:com.swisscom.aot.library.standalone tag:restclient tag:MainSampleActivity tag:AuthenticateWorker" />
+        <option value="package:com.swisscom.aot.library.standalone tag:restclient tag:MainSampleActivity tag:" />
+        <option value="package:com.swisscom.aot.library.standalone tag:RetrieveChannelsWorker tag:restclient tag:MainSampleActivity" />
+        <option value="tag:MainSampleActivity" />
         <option value="package:com.swisscom.aot.library.standalone tag:RetrieveChannelsWorker tag:restclient " />
         <option value="package:com.swisscom.aot.library.standalone tag:userproxy tag:authenticateworker tag:workmanagerdelegate tag:retrievetvlineupsworker tag:RestClient" />
         <option value="package:com.swisscom.aot.library.standalone tag:userproxy tag:authenticateworker tag:workmanagerdelegate tag:retrievetvlineupsworker " />
         <option value="package:com.swisscom.aot.library.standalone" />
         <option value="package:com.swisscom.aot.library.standalone " />
-        <option value="package:mine " />
-        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker tag:LibraryReceiver tag:RestClient" />
-        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker tag:LibraryReceiver" />
-        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy tag:RetrieveTvLineupsWorker" />
-        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver tag:userproxy " />
-        <option value="tag:RetrieveChannelsWorker tag:RestClient tag:PropertiesReceiver tag:authenticateworker " />
-        <option value="tag:RetrieveChannelsWorker tag:RestClient tag:PropertiesReceiver" />
-        <option value="tag:RetrieveChannelsWorker tag:RestClient tag:Prop" />
-        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:PropertiesReceiver" />
-        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker tag:Library" />
-        <option value="package:mine tag:workmanagerdelegate tag:authenticateworker " />
-        <option value="tag:WorkManagerDelegate" />
-        <option value="tag:RetrieveTvLineupsWorker" />
-        <option value="bearer" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
