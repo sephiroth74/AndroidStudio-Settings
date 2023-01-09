@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.swisscom.aot.library.standalone tag:userproxy tag:authenticateworker tag:workmanagerdelegate tag:retrievetvlineupsworker tag:RestClient" />
+    <option name="mostRecentlyUsed" value="package:com.swisscom.aot.library.standalone tag:RetrieveChannelsWorker tag:restclient " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.swisscom.aot.library.standalone tag:RetrieveChannelsWorker tag:restclient " />
         <option value="package:com.swisscom.aot.library.standalone tag:userproxy tag:authenticateworker tag:workmanagerdelegate tag:retrievetvlineupsworker tag:RestClient" />
         <option value="package:com.swisscom.aot.library.standalone tag:userproxy tag:authenticateworker tag:workmanagerdelegate tag:retrievetvlineupsworker " />
         <option value="package:com.swisscom.aot.library.standalone" />
@@ -22,7 +23,6 @@
         <option value="tag:RetrieveTvLineupsWorker" />
         <option value="bearer" />
         <option value="level:error " />
-        <option value="tag:RetrieveChannelsWorker tag:RestClient " />
       </list>
     </option>
   </component>
