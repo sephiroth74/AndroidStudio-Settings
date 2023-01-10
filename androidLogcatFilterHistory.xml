@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ContextUtil tag:libstatemodel tag:libstateemitter tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:sqlite" />
+    <option name="mostRecentlyUsed" value="package:com.swisscom.aot.library.standalone" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.swisscom.aot.library.standalone" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstateemitter tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:sqlite" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:sqlite" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:tvlib.LibStateEmitter tag:LibStateModel " />
         <option value="tag:LibStateEmitter" />
         <option value="package:mine tag:MainSampleActivity tag:AuthenticateWorker tag:UserDelegate" />
-        <option value="package:com.swisscom.aot.library.standalone tag:restclient tag:MainSampleActivity tag:AuthenticateWorker" />
       </list>
     </option>
   </component>
