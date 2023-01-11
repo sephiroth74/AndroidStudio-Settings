@@ -1,15 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:userdelegate tag:restclient tag:http" />
+    <option name="mostRecentlyUsed" value="tag:PropertiesReceiver tag:AOT_UTILS_" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:PropertiesReceiver tag:AOT_UTILS_" />
+        <option value="tag:PropertiesReceiver tag:AOT_UTILS_120334.5213" />
+        <option value="tag:PropertiesReceiver " />
+        <option value="package:mine" />
+        <option value="package:mine tag:PropertiesReceiver " />
+        <option value="package:mine tag:PropertiesReceiver" />
         <option value="package:mine tag:userdelegate tag:restclient tag:http" />
         <option value="package:mine tag:userdelegate tag:restclient " />
         <option value="package:mine tag:userdelegate " />
         <option value="package:mine tag:UserDelegate " />
         <option value="package:mine " />
         <option value="package:mine tag:WorkManagerDelegate " />
-        <option value="package:mine" />
         <option value="package:mine tag:MainSampleActivity" />
         <option value="package:com.swisscom.aot.library.standalone" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstateemitter tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:sqlite" />
@@ -18,11 +23,6 @@
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient " />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient  " />
-        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy " />
-        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity" />
-        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context" />
-        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter " />
-        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:tvlib.libstateemitter " />
       </list>
     </option>
   </component>
