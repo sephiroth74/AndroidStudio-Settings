@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:PropertiesReceiver tag:AOT_UTILS_" />
+    <option name="mostRecentlyUsed" value="tag:retrievechannelsworker  " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:retrievechannelsworker  " />
+        <option value="tag:userdelegate tag:userproxy tag:http" />
         <option value="tag:PropertiesReceiver tag:AOT_UTILS_" />
         <option value="tag:PropertiesReceiver tag:AOT_UTILS_120334.5213" />
         <option value="tag:PropertiesReceiver " />
@@ -21,8 +23,6 @@
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:sqlite" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker tag:" />
         <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient tag:RetrieveChannelsWorker" />
-        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient " />
-        <option value="tag:ContextUtil tag:libstatemodel tag:libstatemodeleventhandler tag:libstateemitter tag:Context tag:MainSampleActivity tag:workmanagerdelegate tag:authenticateworker tag:userdelegate tag:userproxy tag:restclient  " />
       </list>
     </option>
   </component>
