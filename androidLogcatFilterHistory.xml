@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:retrievechannelsworker " />
+    <option name="mostRecentlyUsed" value="tag:sql " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:sql " />
+        <option value="package:mine tag:sqlitelog " />
         <option value="package:mine tag:retrievechannelsworker " />
         <option value="tag:authenticateworker tag:retrievechannelsworker " />
         <option value="tag:retrievechannelsworker " />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:UserDelegate " />
         <option value="package:mine " />
         <option value="package:mine tag:WorkManagerDelegate " />
-        <option value="package:mine tag:MainSampleActivity" />
-        <option value="package:com.swisscom.aot.library.standalone" />
       </list>
     </option>
   </component>
