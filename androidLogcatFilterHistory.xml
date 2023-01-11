@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:sql " />
+    <option name="mostRecentlyUsed" value="tag:retrievetvlineupsworker " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:retrievetvlineupsworker " />
+        <option value="tag:mainsampleactivity  tag:epgrepository" />
+        <option value="package:mine tag:mainsampleactivity " />
+        <option value="package:mine " />
+        <option value="package:mine tag:mainsampleactivity tag:authenticateworker tag:propertiesreceiver " />
+        <option value="package:mine tag:mainsampleactivity tag:authenticateworker " />
+        <option value="package:mine tag:" />
+        <option value="tag:authenticateworker " />
+        <option value="package:mine tag:epgrepository tag:mainsampleactivity tag:authenticateworker tag:restclient tag:http" />
+        <option value="package:mine tag:epgrepository tag:mainsampleactivity tag:authenticateworker tag:restclient " />
+        <option value="package:mine tag:epgrepository tag:mainsampleactivity tag:authenticateworker " />
+        <option value="package:mine tag:epgrepository tag:mainsampleactivity" />
         <option value="tag:sql " />
         <option value="package:mine tag:sqlitelog " />
         <option value="package:mine tag:retrievechannelsworker " />
         <option value="tag:authenticateworker tag:retrievechannelsworker " />
         <option value="tag:retrievechannelsworker " />
-        <option value="tag:authenticateworker " />
         <option value="tag:retrievechannelsworker  " />
         <option value="tag:userdelegate tag:userproxy tag:http" />
         <option value="tag:PropertiesReceiver tag:AOT_UTILS_" />
-        <option value="tag:PropertiesReceiver tag:AOT_UTILS_120334.5213" />
-        <option value="tag:PropertiesReceiver " />
-        <option value="package:mine" />
-        <option value="package:mine tag:PropertiesReceiver " />
-        <option value="package:mine tag:PropertiesReceiver" />
-        <option value="package:mine tag:userdelegate tag:restclient tag:http" />
-        <option value="package:mine tag:userdelegate tag:restclient " />
-        <option value="package:mine tag:userdelegate " />
-        <option value="package:mine tag:UserDelegate " />
-        <option value="package:mine " />
-        <option value="package:mine tag:WorkManagerDelegate " />
       </list>
     </option>
   </component>
