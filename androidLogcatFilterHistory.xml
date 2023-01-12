@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:tvlib.EpgRepository " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine tag:tvlib.EpgRepository " />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent tag:propertiesreceiver tag:retrievechannelsworker " />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent tag:propertiesreceiver" />
@@ -13,7 +13,6 @@
         <option value="tag:retrievetvlineupsworker " />
         <option value="tag:mainsampleactivity  tag:epgrepository" />
         <option value="package:mine tag:mainsampleactivity " />
-        <option value="package:mine " />
         <option value="package:mine tag:mainsampleactivity tag:authenticateworker tag:propertiesreceiver " />
         <option value="package:mine tag:mainsampleactivity tag:authenticateworker " />
         <option value="package:mine tag:" />
