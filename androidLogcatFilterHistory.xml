@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent tag:propertiesreceiver tag:retrievechannelsworker " />
+        <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent tag:propertiesreceiver" />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent" />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate" />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg" />
@@ -21,8 +23,6 @@
         <option value="package:mine tag:epgrepository tag:mainsampleactivity" />
         <option value="tag:sql " />
         <option value="package:mine tag:sqlitelog " />
-        <option value="package:mine tag:retrievechannelsworker " />
-        <option value="tag:authenticateworker tag:retrievechannelsworker " />
       </list>
     </option>
   </component>
