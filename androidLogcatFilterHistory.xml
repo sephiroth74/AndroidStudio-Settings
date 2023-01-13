@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvlib.plainconverters " />
+    <option name="mostRecentlyUsed" value="tag:libstatemodel " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:libstatemodel " />
         <option value="tag:tvlib.plainconverters " />
         <option value="tag:retrievechannelsworker " />
         <option value="tag:tvlib.PlainConverters " />
@@ -22,7 +23,6 @@
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate" />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg" />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity " />
-        <option value="tag:retrievetvlineupsworker " />
       </list>
     </option>
   </component>
