@@ -1,14 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:libstatemodel " />
+    <option name="mostRecentlyUsed" value="tag:EventBus tag:libstatemodel " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:EventBus tag:libstatemodel " />
+        <option value="tag:EventBus " />
+        <option value="package:mine " />
+        <option value="tag:RetrieveChannelsWorker " />
+        <option value="tag:libstateevent " />
+        <option value="tag:retrievechannelsworker " />
+        <option value="tag:sqlitelog " />
         <option value="tag:libstatemodel " />
         <option value="tag:tvlib.plainconverters " />
-        <option value="tag:retrievechannelsworker " />
         <option value="tag:tvlib.PlainConverters " />
         <option value="tag:PlainConverters" />
-        <option value="package:mine " />
         <option value="tag:sql tag:PropertiesLoader " />
         <option value="tag:sql" />
         <option value="package:mine tag:LoadPropertiesWorker" />
@@ -18,11 +23,6 @@
         <option value="tag:propertiesreceiver " />
         <option value="package:mine tag:tvlib.EpgRepository " />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent tag:propertiesreceiver tag:retrievechannelsworker " />
-        <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent tag:propertiesreceiver" />
-        <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent" />
-        <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate" />
-        <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg" />
-        <option value="tag:retrievetvlineupsworker tag:mainsampleactivity " />
       </list>
     </option>
   </component>
