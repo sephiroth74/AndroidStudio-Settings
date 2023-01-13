@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:libstate" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="package:mine tag:libstate" />
         <option value="tag:EventBus tag:libstatemodel " />
         <option value="tag:EventBus " />
@@ -22,7 +23,6 @@
         <option value="tag:authenticateworker tag:restclient " />
         <option value="tag:propertiesreceiver tag:AOT_CLS_" />
         <option value="tag:propertiesreceiver " />
-        <option value="package:mine tag:tvlib.EpgRepository " />
       </list>
     </option>
   </component>
