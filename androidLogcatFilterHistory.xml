@@ -1,13 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:authenticateworker tag:restclient tag:retrievechannelsworker " />
+    <option name="mostRecentlyUsed" value="tag:tvlib.plainconverters " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib.plainconverters " />
+        <option value="tag:retrievechannelsworker " />
+        <option value="tag:tvlib.PlainConverters " />
+        <option value="tag:PlainConverters" />
+        <option value="package:mine " />
+        <option value="tag:sql tag:PropertiesLoader " />
+        <option value="tag:sql" />
+        <option value="package:mine tag:LoadPropertiesWorker" />
         <option value="tag:authenticateworker tag:restclient tag:retrievechannelsworker " />
         <option value="tag:authenticateworker tag:restclient " />
         <option value="tag:propertiesreceiver tag:AOT_CLS_" />
         <option value="tag:propertiesreceiver " />
-        <option value="package:mine " />
         <option value="package:mine tag:tvlib.EpgRepository " />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent tag:propertiesreceiver tag:retrievechannelsworker " />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg tag:libstate tag:libevent tag:propertiesreceiver" />
@@ -16,13 +23,6 @@
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity tag:epg" />
         <option value="tag:retrievetvlineupsworker tag:mainsampleactivity " />
         <option value="tag:retrievetvlineupsworker " />
-        <option value="tag:mainsampleactivity  tag:epgrepository" />
-        <option value="package:mine tag:mainsampleactivity " />
-        <option value="package:mine tag:mainsampleactivity tag:authenticateworker tag:propertiesreceiver " />
-        <option value="package:mine tag:mainsampleactivity tag:authenticateworker " />
-        <option value="package:mine tag:" />
-        <option value="tag:authenticateworker " />
-        <option value="package:mine tag:epgrepository tag:mainsampleactivity tag:authenticateworker tag:restclient tag:http" />
       </list>
     </option>
   </component>
