@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Work" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="retrieve" />
         <option value="Work" />
         <option value="work" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="tag:sql tag:PropertiesLoader " />
         <option value="tag:sql" />
         <option value="package:mine tag:LoadPropertiesWorker" />
-        <option value="tag:authenticateworker tag:restclient tag:retrievechannelsworker " />
       </list>
     </option>
   </component>
