@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="visibility" />
         <option value="retrieve" />
         <option value="Work" />
         <option value="work" />
@@ -22,7 +23,6 @@
         <option value="tag:PlainConverters" />
         <option value="tag:sql tag:PropertiesLoader " />
         <option value="tag:sql" />
-        <option value="package:mine tag:LoadPropertiesWorker" />
       </list>
     </option>
   </component>
