@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="state" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:retrievechannelsworker tag:libstatemodel " />
+        <option value="tag:retrievechannelsworker " />
+        <option value="libState" />
         <option value="state" />
         <option value="package:mine " />
         <option value="visibility" />
@@ -16,13 +19,10 @@
         <option value="tag:EventBus " />
         <option value="tag:RetrieveChannelsWorker " />
         <option value="tag:libstateevent " />
-        <option value="tag:retrievechannelsworker " />
         <option value="tag:sqlitelog " />
         <option value="tag:libstatemodel " />
         <option value="tag:tvlib.plainconverters " />
         <option value="tag:tvlib.PlainConverters " />
-        <option value="tag:PlainConverters" />
-        <option value="tag:sql tag:PropertiesLoader " />
       </list>
     </option>
   </component>
