@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="parsed in" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="tag:RestClient" />
+        <option value="message:" />
+        <option value="message:parsed in" />
         <option value="parsed in" />
         <option value="tag:retrievechannelsworker tag:restclient tag:tvproxy tag:LibraryReceiver " />
         <option value="tag:retrievechannelsworker tag:restclient tag:tvproxy " />
@@ -12,7 +15,6 @@
         <option value="tag:work tag:libstatemodel tag:MainSampleActivity" />
         <option value="tag:work tag:libstatemodel " />
         <option value="tag:work" />
-        <option value="package:mine " />
         <option value="tag:retrievechannelsworker tag:libstatemodel " />
         <option value="tag:retrievechannelsworker " />
         <option value="libState" />
@@ -20,9 +22,6 @@
         <option value="visibility" />
         <option value="retrieve" />
         <option value="Work" />
-        <option value="work" />
-        <option value="package:mine" />
-        <option value="level:error " />
       </list>
     </option>
   </component>
