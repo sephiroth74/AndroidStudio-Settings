@@ -1,7 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:restclient tag:LibraryReceiver " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:restclient tag:LibraryReceiver " />
+        <option value="okhttp" />
+        <option value="bootstrapPostRequestJson" />
+        <option value="Parsed in" />
+        <option value="package:mine tag:RestClient " />
+        <option value="package:mine message:parsed" />
         <option value="package:mine " />
         <option value="tag:RestClient" />
         <option value="message:" />
@@ -16,12 +23,6 @@
         <option value="tag:work tag:libstatemodel " />
         <option value="tag:work" />
         <option value="tag:retrievechannelsworker tag:libstatemodel " />
-        <option value="tag:retrievechannelsworker " />
-        <option value="libState" />
-        <option value="state" />
-        <option value="visibility" />
-        <option value="retrieve" />
-        <option value="Work" />
       </list>
     </option>
   </component>
