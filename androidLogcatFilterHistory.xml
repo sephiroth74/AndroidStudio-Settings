@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine tag:RestClient " />
         <option value="package:mine" />
         <option value="package:mine tag:libraryreceiver tag:RestClient tag:BootstrapResponse" />
         <option value="package:mine tag:libraryreceiver tag:RestClient tag:Boot" />
@@ -13,7 +14,6 @@
         <option value="tag:restclient tag:LibraryReceiver " />
         <option value="okhttp" />
         <option value="bootstrapPostRequestJson" />
-        <option value="package:mine tag:RestClient " />
         <option value="package:mine message:parsed" />
         <option value="tag:RestClient" />
         <option value="message:" />
