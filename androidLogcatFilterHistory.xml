@@ -3,6 +3,10 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine tag:libraryreceiver tag:RestClient tag:BootstrapResponse" />
+        <option value="package:mine tag:libraryreceiver tag:RestClient tag:Boot" />
+        <option value="package:mine tag:libraryreceiver tag:RestClient " />
         <option value="Parsed in" />
         <option value="package:mine tag:restclient " />
         <option value="tag:restclient " />
@@ -18,10 +22,6 @@
         <option value="tag:retrievechannelsworker tag:restclient tag:tvproxy tag:LibraryReceiver " />
         <option value="tag:retrievechannelsworker tag:restclient tag:tvproxy " />
         <option value="tag:Worker message:Parsed" />
-        <option value="tag:RetrieveChannelsWorker message:Parsed in" />
-        <option value="message:ERROR_MSG" />
-        <option value="tag:work tag:libstatemodel tag:MainSampleActivity" />
-        <option value="tag:work tag:libstatemodel " />
       </list>
     </option>
   </component>
