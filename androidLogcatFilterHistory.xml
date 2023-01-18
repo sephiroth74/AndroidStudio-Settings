@@ -1,11 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LibStateModelEventHandler tag:BaseWorker tag:WorkManagerDelegate tag:WorkManager" />
+    <option name="mostRecentlyUsed" value="tag:BaseWorker tag:LibStateModelEventHandler tag:LiveData" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:WorkManagerDelegate tag:WorkManager" />
-        <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:WorkManagerDelegate " />
+        <option value="tag:BaseWorker tag:LibStateModelEventHandler tag:LiveData" />
+        <option value="tag:BaseWorker tag:LibStateModelEventHandler" />
+        <option value="package:mine " />
+        <option value="tag:BaseWorker tag:LiveData" />
+        <option value="tag:RestClient message:Parsed" />
+        <option value="package:mine tag:RestClient " />
+        <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:LiveDa" />
+        <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:LiveData" />
         <option value="tag:LibStateModelEventHandler tag:BaseWorker" />
+        <option value="package:mine tag:RestClient message:Parsed" />
+        <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:WorkManagerDelegate tag:WorkManager" />
+        <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:WorkManagerDelegate tag:WorkManager tag:RetrieveTvLineupsWorker" />
+        <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:WorkManagerDelegate " />
         <option value="BaseWorker" />
         <option value="service_base" />
         <option value="completed in" />
@@ -13,16 +23,6 @@
         <option value="websocket" />
         <option value="level:ERROR " />
         <option value="error" />
-        <option value="package:mine " />
-        <option value="authenticate" />
-        <option value="rest" />
-        <option value="package" />
-        <option value="package:com.swisscom" />
-        <option value="package:mine" />
-        <option value="package:mine tag:AppService tag:AppReceiver" />
-        <option value="package:mine CheckSta" />
-        <option value="session" />
-        <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver tag:AppService" />
       </list>
     </option>
   </component>
