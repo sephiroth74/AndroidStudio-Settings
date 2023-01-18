@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:BaseWorker tag:LibStateModelEventHandler tag:LiveData" />
+    <option name="mostRecentlyUsed" value="tag:RestClient tag:VisibilityRestritionValidator" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RestClient tag:VisibilityRestritionValidator" />
+        <option value="tag:RestClient" />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler tag:LiveData" />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler" />
         <option value="package:mine " />
@@ -21,8 +23,6 @@
         <option value="completed in" />
         <option value="Work" />
         <option value="websocket" />
-        <option value="level:ERROR " />
-        <option value="error" />
       </list>
     </option>
   </component>
