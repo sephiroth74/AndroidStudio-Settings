@@ -26,6 +26,7 @@
   <action id="CompareTwoFiles" />
   <action id="Diff.UpdatedFiles" />
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="EditorDecreaseFontSizeGlobal" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift meta back_space" />
   </action>
@@ -33,6 +34,7 @@
     <keyboard-shortcut first-keystroke="meta alt down" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="EditorIncreaseFontSizeGlobal" />
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta end" />
     <keyboard-shortcut first-keystroke="meta down" />

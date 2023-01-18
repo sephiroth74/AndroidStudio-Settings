@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="websocket" />
+    <option name="mostRecentlyUsed" value="BaseWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="BaseWorker" />
+        <option value="service_base" />
+        <option value="completed in" />
+        <option value="Work" />
         <option value="websocket" />
         <option value="level:ERROR " />
         <option value="error" />
@@ -19,10 +23,6 @@
         <option value="permission" />
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver" />
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity" />
-        <option value="package:mine tag:PackageManagerDelegate" />
-        <option value="package:mine tag:PackageManagerDelegate tag:PackageManagerDelegateAndroidTest" />
-        <option value="appservice" />
-        <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver tag:LibStateModel" />
       </list>
     </option>
   </component>
