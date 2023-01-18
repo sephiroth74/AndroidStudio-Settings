@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BaseWorker" />
+    <option name="mostRecentlyUsed" value="tag:LibStateModelEventHandler tag:BaseWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LibStateModelEventHandler tag:BaseWorker" />
         <option value="BaseWorker" />
         <option value="service_base" />
         <option value="completed in" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver tag:AppService" />
         <option value="permission" />
         <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver" />
-        <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity" />
       </list>
     </option>
   </component>
