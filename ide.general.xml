@@ -25,7 +25,7 @@
     <entry key="ide.instant.shutdown" value="false" />
     <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
     <entry key="ide.images.show.chessboard" value="true" />
-    <entry key="ide.experimental.ui" value="false" />
+    <entry key="gradle.version.catalogs.dynamic.support" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
