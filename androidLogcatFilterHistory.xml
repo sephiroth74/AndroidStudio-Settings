@@ -1,28 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="createWork" />
+    <option name="mostRecentlyUsed" value="websocket" />
     <option name="nonFavorites">
       <list>
-        <option value="createWork" />
-        <option value="package:mine" />
-        <option value="package:mine (once)" />
-        <option value="package:mine MainActivity" />
-        <option value="package:mine MainActiv" />
+        <option value="websocket" />
+        <option value="level:ERROR " />
+        <option value="error" />
         <option value="package:mine " />
-        <option value="package:mine TestClass" />
-        <option value="package:mine AuthenticateWorker" />
-        <option value="package:mine WorkManagerDelegate" />
-        <option value="package:mine work" />
-        <option value="package:mine LibraryRecei" />
-        <option value="package:mine worker" />
-        <option value="standalone" />
-        <option value="pa" />
-        <option value="com.swisscom.aot.library.standalone " />
-        <option value="package:com.swisscom.aot.library.standalone " />
-        <option value="CompletableAppServiceSource" />
-        <option value="AppServiceInterfaceWrapper" />
-        <option value="package:swisscom" />
-        <option value="SingleAppServiceSource" />
+        <option value="authenticate" />
+        <option value="rest" />
+        <option value="package" />
+        <option value="package:com.swisscom" />
+        <option value="package:mine" />
+        <option value="package:mine tag:AppService tag:AppReceiver" />
+        <option value="package:mine CheckSta" />
+        <option value="session" />
+        <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver tag:AppService" />
+        <option value="permission" />
+        <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity tag:AppReceiver" />
+        <option value="package:mine tag:PackageManagerDelegate tag:MainAppServiceActivity" />
+        <option value="package:mine tag:PackageManagerDelegate" />
+        <option value="package:mine tag:PackageManagerDelegate tag:PackageManagerDelegateAndroidTest" />
+        <option value="appservice" />
+        <option value="package:mine tag:MainSampleActivity tag:TvLibClient tag:TvLibBase tag:LibraryReceiver tag:LibStateModel" />
       </list>
     </option>
   </component>
