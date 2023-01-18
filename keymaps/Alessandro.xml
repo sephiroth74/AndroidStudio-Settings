@@ -1,4 +1,4 @@
-<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
+<keymap version="1" name="Alessandro" parent="Eclipse (Mac OS X)">
   <action id="CodotaLookup">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
