@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RestClient tag:RefreshAppsWorker " />
+    <option name="mostRecentlyUsed" value="tag:RestClient tag:RefreshAppsWorker tag:AppsProxy " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RestClient tag:RefreshAppsWorker tag:AppsProxy " />
         <option value="tag:RestClient tag:RefreshAppsWorker " />
         <option value="tag:RestClient " />
         <option value="tag:RestClient tag:AppsProxy" />
@@ -22,7 +23,6 @@
         <option value="tag:BaseWorker tag:LiveData" />
         <option value="tag:RestClient message:Parsed" />
         <option value="package:mine tag:RestClient " />
-        <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:LiveDa" />
       </list>
     </option>
   </component>
