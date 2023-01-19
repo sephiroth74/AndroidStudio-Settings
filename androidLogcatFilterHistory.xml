@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:restclient " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="tag:refreshappsworker " />
         <option value="tag:restclient " />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler tag:JobSchedulerImpl " />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler" />
@@ -13,7 +14,6 @@
         <option value="tag:RestClient tag:VisibilityRestritionValidator tag:RefreshAppsWorker " />
         <option value="tag:RestClient tag:VisibilityRestritionValidator" />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler tag:LiveData" />
-        <option value="package:mine " />
         <option value="tag:BaseWorker tag:LiveData" />
         <option value="tag:RestClient message:Parsed" />
         <option value="package:mine tag:RestClient " />
@@ -22,7 +22,6 @@
         <option value="tag:LibStateModelEventHandler tag:BaseWorker" />
         <option value="package:mine tag:RestClient message:Parsed" />
         <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:WorkManagerDelegate tag:WorkManager" />
-        <option value="tag:LibStateModelEventHandler tag:BaseWorker tag:WorkManagerDelegate tag:WorkManager tag:RetrieveTvLineupsWorker" />
       </list>
     </option>
   </component>
