@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:restclient " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:restclient " />
         <option value="package:mine " />
         <option value="tag:refreshappsworker " />
-        <option value="tag:restclient " />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler tag:JobSchedulerImpl " />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler" />
         <option value="tag:BaseWorker " />
