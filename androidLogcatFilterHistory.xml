@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LibraryReceiver tag:RefreshAppsWorker tag:WorkManagerDelegate  " />
+    <option name="mostRecentlyUsed" value="tag:LibraryReceiver tag:RefreshAppsWorker " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LibraryReceiver tag:RefreshAppsWorker " />
+        <option value="tag:LibraryReceiver" />
+        <option value="tag:LibraryReceiver tag:RefreshAppsWorker tag:RestClient " />
         <option value="tag:LibraryReceiver tag:RefreshAppsWorker tag:WorkManagerDelegate  " />
         <option value="package:mine tag:LibraryReceiver " />
         <option value="package:mine " />
@@ -20,9 +23,6 @@
         <option value="tag:BaseWorker tag:LibStateModelEventHandler" />
         <option value="tag:BaseWorker " />
         <option value="tag:RestClient tag:BaseWorker " />
-        <option value="tag:RestClient  " />
-        <option value="tag:RestClient tag:VisibilityRestritionValidator tag:RefreshAppsWorker " />
-        <option value="tag:RestClient tag:VisibilityRestritionValidator" />
       </list>
     </option>
   </component>
