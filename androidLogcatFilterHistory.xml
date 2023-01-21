@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:refreshappsworker tag:tvlib.RestClient " />
+    <option name="mostRecentlyUsed" value="intent" />
     <option name="nonFavorites">
       <list>
+        <option value="intent" />
         <option value="tag:refreshappsworker tag:tvlib.RestClient " />
         <option value="tag:refreshappsworker " />
         <option value="tag:LibraryReceiver tag:RefreshAppsWorker " />
@@ -22,7 +23,6 @@
         <option value="tag:restclient " />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler tag:JobSchedulerImpl " />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler" />
-        <option value="tag:BaseWorker " />
       </list>
     </option>
   </component>
