@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="DiagnosticsWrkr" />
+    <option name="mostRecentlyUsed" value="tag:RestClient " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RestClient " />
         <option value="DiagnosticsWrkr" />
         <option value="intent" />
         <option value="ASSIST" />
@@ -18,7 +19,6 @@
         <option value="tag:RefreshAppsWorker" />
         <option value="tag:RestClient tag:RefreshAppsWorker tag:AppsProxy " />
         <option value="tag:RestClient tag:RefreshAppsWorker " />
-        <option value="tag:RestClient " />
         <option value="tag:RestClient tag:AppsProxy" />
         <option value="tag:RestClient" />
         <option value="tag:restclient tag:AppsProxy" />
