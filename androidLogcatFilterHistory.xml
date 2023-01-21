@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="intent" />
+        <option value="ASSIST" />
         <option value="tag:refreshappsworker tag:tvlib.RestClient " />
         <option value="tag:refreshappsworker " />
         <option value="tag:LibraryReceiver tag:RefreshAppsWorker " />
@@ -22,7 +23,6 @@
         <option value="tag:restclient tag:AppsProxy" />
         <option value="tag:restclient " />
         <option value="tag:BaseWorker tag:LibStateModelEventHandler tag:JobSchedulerImpl " />
-        <option value="tag:BaseWorker tag:LibStateModelEventHandler" />
       </list>
     </option>
   </component>
