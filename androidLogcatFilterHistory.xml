@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog" />
+    <option name="mostRecentlyUsed" value="tag:RestClient tag:RetrieveTvChannelsWorker tag:MainSampleActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RestClient tag:RetrieveTvChannelsWorker tag:MainSampleActivity" />
+        <option value="tag:RestClient" />
+        <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog tag:MainSampleActivity" />
         <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog" />
         <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy " />
         <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProxy " />
@@ -20,9 +23,6 @@
         <option value="package:mine tag:LibraryReceiver " />
         <option value="package:mine " />
         <option value="tag:WorkManagerDelegate tag:AuthenticateWorker " />
-        <option value="tag:RefreshAppsWorker" />
-        <option value="tag:RestClient tag:RefreshAppsWorker tag:AppsProxy " />
-        <option value="tag:RestClient tag:RefreshAppsWorker " />
       </list>
     </option>
   </component>
