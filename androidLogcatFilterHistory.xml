@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LibStateModel tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy" />
+    <option name="mostRecentlyUsed" value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper" />
+        <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy" />
         <option value="tag:LibStateModel tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy" />
         <option value="tag:LibStateModel tag:RestClient tag:RefreshFavouriteAppsWorker " />
         <option value="intent" />
@@ -21,8 +23,6 @@
         <option value="tag:RestClient tag:RetrieveAppsWorker" />
         <option value="tag:RestClient " />
         <option value="DiagnosticsWrkr" />
-        <option value="ASSIST" />
-        <option value="tag:refreshappsworker tag:tvlib.RestClient " />
       </list>
     </option>
   </component>
