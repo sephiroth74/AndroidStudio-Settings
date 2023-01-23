@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:operatorauthservice tag:LibraryReceiver tag:katniss" />
+    <option name="mostRecentlyUsed" value="tag:com.example.integration.assistant tag:katniss" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:com.example.integration.assistant tag:katniss" />
+        <option value="com.example.integration.assistant" />
+        <option value="tag:katniss" />
+        <option value="tag:MainSampleActivity " />
+        <option value="tag:operatorauthservice tag:LibraryReceiver tag:katniss tag:MainSampleActivity " />
         <option value="tag:operatorauthservice tag:LibraryReceiver tag:katniss" />
         <option value="tag:operatorauthservice tag:LibraryReceiver" />
         <option value="Intent" />
@@ -18,11 +23,6 @@
         <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper tag:TvlibAppCatalog" />
         <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper" />
         <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy" />
-        <option value="tag:LibStateModel tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy" />
-        <option value="tag:LibStateModel tag:RestClient tag:RefreshFavouriteAppsWorker " />
-        <option value="intent" />
-        <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog tag:MainSampleActivity tag:LibState tag:AppClientTokenEmitter tag:RefreshFavouriteAppsWorker" />
-        <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog tag:MainSampleActivity tag:LibState tag:AppClientTokenEmitter" />
       </list>
     </option>
   </component>
