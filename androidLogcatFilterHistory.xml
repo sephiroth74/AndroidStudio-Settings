@@ -1,8 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper tag:TvlibAppCatalog tag:addAppAsFavourite" />
+    <option name="mostRecentlyUsed" value="tag:operatorauthservice tag:LibraryReceiver tag:katniss" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:operatorauthservice tag:LibraryReceiver tag:katniss" />
+        <option value="tag:operatorauthservice tag:LibraryReceiver" />
+        <option value="Intent" />
+        <option value="tag:operatorauthservice " />
+        <option value="tag:OperatorAuthService tag:LibraryReceiver" />
+        <option value="tag:OperatorAuthService" />
+        <option value="level:error " />
+        <option value="tag:com.example.integration.assistant tag:LibraryReceiver " />
+        <option value="tag:OperatorAuthService tag:LibraryReceiver " />
+        <option value="OperatorAuthService" />
+        <option value="tag: OperatorAuthService" />
         <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper tag:TvlibAppCatalog tag:addAppAsFavourite" />
         <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper tag:TvlibAppCatalog" />
         <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper" />
@@ -12,17 +23,6 @@
         <option value="intent" />
         <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog tag:MainSampleActivity tag:LibState tag:AppClientTokenEmitter tag:RefreshFavouriteAppsWorker" />
         <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog tag:MainSampleActivity tag:LibState tag:AppClientTokenEmitter" />
-        <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog tag:MainSampleActivity tag:LibState" />
-        <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog tag:MainSampleActivity tag:LibStateEmitter" />
-        <option value="tag:RestClient tag:MainSampleActivity tag:AppsProviderProxy  tag:TvlibAppCatalog" />
-        <option value="tag:RestClient tag:RetrieveTvChannelsWorker tag:MainSampleActivity tag:appsproviderproxy " />
-        <option value="tag:RestClient tag:RetrieveTvChannelsWorker tag:MainSampleActivity" />
-        <option value="tag:RestClient" />
-        <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog tag:MainSampleActivity" />
-        <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy tag:TvlibAppCatalog" />
-        <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProviderProxy " />
-        <option value="tag:RestClient tag:RetrieveAppsWorker tag:AppsProxy " />
-        <option value="tag:RestClient tag:RetrieveAppsWorker" />
       </list>
     </option>
   </component>
