@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AOT_UTILS_164356.8322" />
+    <option name="mostRecentlyUsed" value="tag:OperatorAuthService tag:LibraryReceiver tag:MainSampleActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:OperatorAuthService tag:LibraryReceiver tag:MainSampleActivity" />
+        <option value="tag:OperatorAuthService tag:LibraryReceiver " />
+        <option value="tag: Operator" />
         <option value="tag:AOT_UTILS_164356.8322" />
         <option value="intent" />
         <option value="tag:com.example.integration.assistant tag:katniss" />
@@ -18,11 +21,8 @@
         <option value="tag:OperatorAuthService" />
         <option value="level:error " />
         <option value="tag:com.example.integration.assistant tag:LibraryReceiver " />
-        <option value="tag:OperatorAuthService tag:LibraryReceiver " />
         <option value="OperatorAuthService" />
         <option value="tag: OperatorAuthService" />
-        <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper tag:TvlibAppCatalog tag:addAppAsFavourite" />
-        <option value="tag:LibState tag:RestClient tag:RefreshFavouriteAppsWorker tag:AppsProviderProxy tag:AppServiceInterfaceWrapper tag:TvlibAppCatalog" />
       </list>
     </option>
   </component>
