@@ -4,7 +4,7 @@
     <property name="created">2017-12-08T11:24:35</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.4</property>
-    <property name="modified">2023-01-22T11:31:19</property>
+    <property name="modified">2023-01-23T09:03:56</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1223,7 +1223,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="696969" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
@@ -3722,7 +3722,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="fffbf7" />
+        <option name="EFFECT_COLOR" value="636363" />
         <option name="ERROR_STRIPE_COLOR" value="4f4f4f" />
       </value>
     </option>
