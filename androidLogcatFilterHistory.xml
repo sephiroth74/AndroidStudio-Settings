@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:OperatorAuthService tag:LibraryReceiver tag:MainSampleActivity" />
+    <option name="mostRecentlyUsed" value="tag:operatorauthservice " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:operatorauthservice " />
         <option value="tag:OperatorAuthService tag:LibraryReceiver tag:MainSampleActivity" />
         <option value="tag:OperatorAuthService tag:LibraryReceiver " />
         <option value="tag: Operator" />
@@ -16,7 +17,6 @@
         <option value="tag:operatorauthservice tag:LibraryReceiver tag:katniss" />
         <option value="tag:operatorauthservice tag:LibraryReceiver" />
         <option value="Intent" />
-        <option value="tag:operatorauthservice " />
         <option value="tag:OperatorAuthService tag:LibraryReceiver" />
         <option value="tag:OperatorAuthService" />
         <option value="level:error " />
