@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="intent" />
     <option name="nonFavorites">
       <list>
-        <option value="intent" />
         <option value="tag:RestClient tag:LibState tag:OperatorAuthService tag:MainActivity" />
+        <option value="intent" />
         <option value="tag:RestClient tag:LibState tag:OperatorAuthService" />
         <option value="tag:RestClient tag:LibState" />
         <option value="package:com.swisscom" />
