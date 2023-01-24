@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="intent" />
+    <option name="mostRecentlyUsed" value="tag:restclient " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:restclient " />
         <option value="tag:RestClient tag:LibState tag:OperatorAuthService tag:MainActivity" />
         <option value="intent" />
         <option value="tag:RestClient tag:LibState tag:OperatorAuthService" />
@@ -22,7 +23,6 @@
         <option value="tag:operatorauthservice tag:LibraryReceiver tag:katniss" />
         <option value="tag:operatorauthservice tag:LibraryReceiver" />
         <option value="Intent" />
-        <option value="tag:OperatorAuthService tag:LibraryReceiver" />
       </list>
     </option>
   </component>
