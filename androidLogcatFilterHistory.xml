@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:operatorauthservice " />
+    <option name="mostRecentlyUsed" value="tag:RestClient tag:LibState" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RestClient tag:LibState" />
+        <option value="package:com.swisscom" />
+        <option value="package:com.swisscom.aot.ui" />
         <option value="tag:operatorauthservice " />
         <option value="tag:OperatorAuthService tag:LibraryReceiver tag:MainSampleActivity" />
         <option value="tag:OperatorAuthService tag:LibraryReceiver " />
@@ -20,9 +23,6 @@
         <option value="tag:OperatorAuthService tag:LibraryReceiver" />
         <option value="tag:OperatorAuthService" />
         <option value="level:error " />
-        <option value="tag:com.example.integration.assistant tag:LibraryReceiver " />
-        <option value="OperatorAuthService" />
-        <option value="tag: OperatorAuthService" />
       </list>
     </option>
   </component>
