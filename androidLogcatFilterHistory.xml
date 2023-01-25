@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvchannelslistactivity " />
+    <option name="mostRecentlyUsed" value="tag:tvchannelslistactivity tag:restclient " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvchannelslistactivity tag:restclient " />
         <option value="tag:tvchannelslistactivity " />
         <option value="com.swisscom.aot.library.sample" />
         <option value="tag:restclient tag:tvproxy tag:TvChannelsListActivity" />
@@ -22,7 +23,6 @@
         <option value="tag:com.example.integration.assistant tag:katniss" />
         <option value="com.example.integration.assistant" />
         <option value="tag:katniss" />
-        <option value="tag:MainSampleActivity " />
       </list>
     </option>
   </component>
