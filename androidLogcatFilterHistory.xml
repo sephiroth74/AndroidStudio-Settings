@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibraryFileProvider" />
+    <option name="mostRecentlyUsed" value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibraryFileProvider tag:System.err" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibraryFileProvider tag:System.err" />
         <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibraryFileProvider" />
         <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibFileProvider" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:com.swisscom" />
         <option value="package:com.swisscom.aot.ui" />
         <option value="tag:operatorauthservice " />
-        <option value="tag:OperatorAuthService tag:LibraryReceiver tag:MainSampleActivity" />
       </list>
     </option>
   </component>
