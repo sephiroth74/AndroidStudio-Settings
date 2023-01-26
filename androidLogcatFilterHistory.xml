@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:eos " />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
         <option value="package:mine tag:eos " />
         <option value="package:mine " />
         <option value="arm" />
@@ -22,7 +23,6 @@
         <option value="tag:restclient " />
         <option value="tag:RestClient tag:LibState tag:OperatorAuthService tag:MainActivity" />
         <option value="intent" />
-        <option value="tag:RestClient tag:LibState tag:OperatorAuthService" />
       </list>
     </option>
   </component>
