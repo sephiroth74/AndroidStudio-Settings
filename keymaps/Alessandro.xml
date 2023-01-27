@@ -1,4 +1,9 @@
 <keymap version="1" name="Alessandro" parent="Eclipse (Mac OS X)">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta #10000f2" />
+  </action>
   <action id="CodotaLookup">
     <keyboard-shortcut first-keystroke="meta alt k" />
   </action>
@@ -57,6 +62,11 @@
   </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="meta g" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta #10000e0" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
