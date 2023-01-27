@@ -4,7 +4,7 @@
     <property name="created">2017-12-08T11:24:35</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.4</property>
-    <property name="modified">2023-01-26T23:49:34</property>
+    <property name="modified">2023-01-27T15:42:18</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1395,6 +1395,28 @@
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
         <option name="FOREGROUND" value="5455ff" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_ASSERT">
+      <value>
+        <option name="FOREGROUND" value="ff6b68" />
+        <option name="BACKGROUND" value="362b23" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_DEBUG">
+      <value>
+        <option name="FOREGROUND" value="5353bb" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_INFO">
+      <value>
+        <option name="FOREGROUND" value="d9d8d8" />
+      </value>
+    </option>
+    <option name="LOGCAT_V2_MESSAGE_VERBOSE">
+      <value>
+        <option name="FOREGROUND" value="818080" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
