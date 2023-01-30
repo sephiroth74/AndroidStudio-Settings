@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:RestClient tag:TvChannelEntityContainer" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RestClient tag:TvChannelEntityContainer" />
+        <option value="tag:RestClient " />
         <option value="package:mine " />
         <option value="tag:eos tag:EosPlayer  " />
         <option value="tag:eos " />
@@ -20,8 +23,6 @@
         <option value="tag:tvchannelslistactivity tag:restclient" />
         <option value="tag:tvchannelslistactivity tag:restclient " />
         <option value="tag:tvchannelslistactivity " />
-        <option value="com.swisscom.aot.library.sample" />
-        <option value="tag:restclient tag:tvproxy tag:TvChannelsListActivity" />
       </list>
     </option>
   </component>
