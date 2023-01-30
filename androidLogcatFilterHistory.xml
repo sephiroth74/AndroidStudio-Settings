@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:eos tag:EosPlayer  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="tag:eos tag:EosPlayer  " />
         <option value="tag:eos " />
-        <option value="package:mine " />
         <option value="package:mine tag:restclient tag:LibStateModel  tag:eos " />
         <option value="package:mine tag:restclient tag:LibStateModel  " />
         <option value="level:error " />
