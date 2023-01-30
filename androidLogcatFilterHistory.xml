@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:eos" />
+    <option name="mostRecentlyUsed" value="package:swisscom" />
     <option name="nonFavorites">
       <list>
+        <option value="package:swisscom" />
         <option value="tag:eos" />
         <option value="package:mine " />
         <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:PlaybackManager tag:eoscontrol " />
@@ -22,7 +23,6 @@
         <option value="level:error " />
         <option value="package:mine tag:eos " />
         <option value="arm" />
-        <option value="tag:restclient tag:libstate tag:System.err tag:PlayerView" />
       </list>
     </option>
   </component>
