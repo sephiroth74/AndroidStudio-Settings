@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:eosplayer " />
+    <option name="mostRecentlyUsed" value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:eosplayer tag:EosControl" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:eosplayer tag:EosControl" />
         <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:eosplayer " />
         <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag" />
         <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity " />
@@ -22,7 +23,6 @@
         <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibraryFileProvider tag:System.err" />
         <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibraryFileProvider" />
         <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibFileProvider" />
-        <option value="tag:tvchannelslistactivity tag:restclient tag:libstate" />
       </list>
     </option>
   </component>
