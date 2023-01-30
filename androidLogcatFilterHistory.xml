@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:eosplayer tag:EosControl" />
+    <option name="mostRecentlyUsed" value="tag:eos" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:eos" />
+        <option value="package:mine " />
+        <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:PlaybackManager tag:eoscontrol " />
+        <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:eosplayer tag:Eos tag:PlaybackManager" />
+        <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:eosplayer tag:Eos" />
         <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:eosplayer tag:EosControl" />
         <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag:eosplayer " />
         <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity tag" />
@@ -10,7 +15,6 @@
         <option value="tag:RestClient tag:TvChannelEntityContainer tag:SamplePlayerActivity" />
         <option value="tag:RestClient tag:TvChannelEntityContainer" />
         <option value="tag:RestClient " />
-        <option value="package:mine " />
         <option value="tag:eos tag:EosPlayer  " />
         <option value="tag:eos " />
         <option value="package:mine tag:restclient tag:LibStateModel  tag:eos " />
@@ -19,10 +23,6 @@
         <option value="package:mine tag:eos " />
         <option value="arm" />
         <option value="tag:restclient tag:libstate tag:System.err tag:PlayerView" />
-        <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibraryFileProvider tag:System.err tag:PlayerView" />
-        <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibraryFileProvider tag:System.err" />
-        <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibraryFileProvider" />
-        <option value="tag:tvchannelslistactivity tag:restclient tag:libstate tag:LibFileProvider" />
       </list>
     </option>
   </component>
