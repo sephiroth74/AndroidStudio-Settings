@@ -1,16 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:EosPlayer tag:tvlib" />
+    <option name="mostRecentlyUsed" value="tag:tvlib" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib" />
+        <option value="tag:RetrieveTvChannelsWorker" />
         <option value="tag:EosPlayer tag:tvlib" />
         <option value="tag:Eos tag:tvlib" />
         <option value="package:mine " />
-        <option value="tag:tvlib" />
         <option value="tag:tvlib.eoscontrol " />
         <option value="tag:Eos" />
         <option value="tag:EosPlayer " />
-        <option value="tag:RetrieveTvChannelsWorker" />
         <option value="tag:tvlib tag:PlaybackStreamProvider tag:eos " />
         <option value="tag:tvlib tag:PlaybackStreamProvider" />
         <option value="tag:EosControl " />
