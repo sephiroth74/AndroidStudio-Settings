@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvlib" />
+    <option name="mostRecentlyUsed" value="tag:tvlib tag:SamplePlayerActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib tag:SamplePlayerActivity" />
+        <option value="tag:tvlib tag:Sa" />
         <option value="tag:tvlib" />
+        <option value="tag:tvlib tag:SamplePlayerActivity " />
         <option value="tag:tvlib tag:TvLibPlayback tag:exo" />
         <option value="tag:tvlib tag:TvLibPlayback" />
         <option value="tag:tvlib tag:tvlibplayback" />
@@ -20,9 +23,6 @@
         <option value="tag:tvlib.eoscontrol " />
         <option value="tag:Eos" />
         <option value="tag:EosPlayer " />
-        <option value="tag:tvlib tag:PlaybackStreamProvider tag:eos " />
-        <option value="tag:tvlib tag:PlaybackStreamProvider" />
-        <option value="tag:EosControl " />
       </list>
     </option>
   </component>
