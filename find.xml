@@ -13,5 +13,6 @@
     <mask>*.kt, *.java</mask>
     <mask>*.kts</mask>
     <mask>*.kt</mask>
+    <mask>*.aidl</mask>
   </component>
 </application>
