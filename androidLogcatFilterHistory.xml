@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:tvlib" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib" />
         <option value="tag:tvlib tag:System.err tag:RadioChannelsListActivity" />
         <option value="tag:tvlib tag:System.err tag:sqlitelog tag:RadioChannelsListActivity" />
         <option value="beginning" />
         <option value="tag:tvlib tag:System.err tag:sqlitelog " />
         <option value="tag:tvlib tag:System.err tag:sqlite" />
         <option value="tag:tvlib tag:System.err " />
-        <option value="tag:tvlib" />
         <option value="tag:RetrieveTvChannelsWorker" />
         <option value="tag:EosPlayer tag:tvlib" />
         <option value="tag:Eos tag:tvlib" />
