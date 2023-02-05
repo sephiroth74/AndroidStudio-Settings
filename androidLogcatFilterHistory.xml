@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Mainac" />
+    <option name="mostRecentlyUsed" value="tag:objectbox" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:objectbox" />
         <option value="Mainac" />
         <option value="package:mine " />
         <option value="package:com.example.db" />
@@ -22,7 +23,6 @@
         <option value="tag:RetrieveTvChannelsWorker tag:tvlib" />
         <option value="tag:RetrieveTvChannelsWorker tag:sqlitelog " />
         <option value="tag:RetrieveTvChannelsWorker " />
-        <option value="tag:MainSam" />
       </list>
     </option>
   </component>
