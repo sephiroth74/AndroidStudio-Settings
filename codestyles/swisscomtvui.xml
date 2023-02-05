@@ -1,7 +1,7 @@
 <code_scheme name="swisscomtvui" version="173">
   <option name="RIGHT_MARGIN" value="200" />
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-  <option name="SOFT_MARGINS" value="132,200" />
+  <option name="SOFT_MARGINS" value="200" />
   <AndroidXmlCodeStyleSettings>
     <option name="VALUE_RESOURCE_FILE_SETTINGS">
       <value>
@@ -127,7 +127,6 @@
   </Objective-C>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <ADDITIONAL_INDENT_OPTIONS fileType="java">
     <option name="TAB_SIZE" value="8" />
