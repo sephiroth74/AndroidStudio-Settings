@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="tag:tvlib tag:MainSample" />
         <option value="package:mine " />
+        <option value="tag:tvlib tag:MainSample" />
         <option value="package:mine tag:object " />
         <option value="tag:tvlib" />
         <option value="tag:tvlib tag:MainSample tag:RetrieveTvLineupsWorker" />
