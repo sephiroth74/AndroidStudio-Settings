@@ -1,14 +1,20 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvlib" />
+    <option name="mostRecentlyUsed" value="tag:objectbox tag:MainService tag:ClientActivity " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:tvlib" />
-        <option value="tag:tvlib tag:MainSample" />
+        <option value="tag:objectbox tag:MainService tag:ClientActivity " />
+        <option value="tag:objectbox. tag:MainService tag:ClientActivity message:boxStore" />
+        <option value="tag:objectbox. tag:MainService tag:ClientActivity " />
+        <option value="tag:objectbox." />
+        <option value="tag:objectbox" />
+        <option value="tag:objectb" />
+        <option value="tag:objectbox tag:ClientActivity tag:Mainservice" />
         <option value="tag:objectbox tag:ClientActivity " />
         <option value="tag:objectbox tag:MainClientApplication tag:ClientActivity" />
+        <option value="tag:tvlib" />
+        <option value="tag:tvlib tag:MainSample" />
         <option value="tag:objectbox tag:MainClientApplication" />
-        <option value="tag:objectbox" />
         <option value="package:com.example.client" />
         <option value="tag:objectbox tag:MainActivity " />
         <option value="Mainac" />
@@ -17,12 +23,6 @@
         <option value="package:mine tag:object " />
         <option value="tag:tvlib tag:MainSample tag:RetrieveTvLineupsWorker" />
         <option value="tag:MainSampleActivity tag:tvlib" />
-        <option value="re" />
-        <option value="tag:MainSampleActivity" />
-        <option value="tag:tvlib tag:sql tag:RetrieveTvChannelsWorker tag:MainSampleActivity " />
-        <option value="tag:tvlib tag:sql tag:RetrieveTvChannelsWorker tag:System.out " />
-        <option value="tag:tvlib tag:sql tag:RetrieveTvChannelsWorker " />
-        <option value="tag:tvlib tag:sql" />
       </list>
     </option>
   </component>
