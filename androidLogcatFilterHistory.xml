@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:com.example.db" />
         <option value="tag:tvlib tag:MainSample" />
         <option value="package:mine tag:object " />
         <option value="tag:tvlib" />
@@ -21,7 +22,6 @@
         <option value="tag:RetrieveTvChannelsWorker " />
         <option value="tag:MainSam" />
         <option value="tag:tvlib tag:RetrieveTvChannelsWorker " />
-        <option value="tag:RetrieveTv" />
       </list>
     </option>
   </component>
