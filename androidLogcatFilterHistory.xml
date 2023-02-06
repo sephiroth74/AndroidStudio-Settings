@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:objectbox tag:MainService tag:ClientActivity " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:objectbox tag:MainService tag:ClientActivity " />
+        <option value="tag:objectbox tag:MainService " />
+        <option value="tag:objectbox" />
         <option value="tag:objectbox tag:MainService tag:ClientActivity tag:System" />
         <option value="tag:objectbox tag:MainService tag:ClientActivity" />
-        <option value="tag:objectbox tag:MainService tag:ClientActivity " />
         <option value="tag:objectbox. tag:MainService tag:ClientActivity message:boxStore" />
         <option value="tag:objectbox. tag:MainService tag:ClientActivity " />
         <option value="tag:objectbox." />
-        <option value="tag:objectbox" />
         <option value="tag:objectb" />
         <option value="tag:objectbox tag:ClientActivity tag:Mainservice" />
         <option value="tag:objectbox tag:ClientActivity " />
@@ -22,7 +23,6 @@
         <option value="Mainac" />
         <option value="package:mine " />
         <option value="package:com.example.db" />
-        <option value="package:mine tag:object " />
       </list>
     </option>
   </component>
