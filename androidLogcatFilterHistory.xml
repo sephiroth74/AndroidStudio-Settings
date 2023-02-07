@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:ConnectionStateMonitor" />
+    <option name="mostRecentlyUsed" value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleActivity" />
+        <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleAct" />
+        <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable" />
+        <option value="tag:ConnectionStateMonitor tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable" />
+        <option value="tag:ConnectionStateMonitor tag:SystemInfoServiceInterface" />
         <option value="tag:ConnectionStateMonitor" />
         <option value="tag:GalaxyDelegate " />
         <option value=" " />
@@ -18,11 +23,6 @@
         <option value="tag:tvlib tag:LibraryReceiver " />
         <option value="tag:objectbox" />
         <option value="tag:objectbox tag:System.err tag:JavaBinder tag:Box" />
-        <option value="tag:objectbox tag:System.err tag:" />
-        <option value="tag:objectbox tag:System.err" />
-        <option value="tag:objectbox  " />
-        <option value="tag:objectbox tag:MainService tag:ClientActivity " />
-        <option value="tag:objectbox tag:MainService " />
       </list>
     </option>
   </component>
