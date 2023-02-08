@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SampleReplayActivity tag:tvlib" />
+    <option name="mostRecentlyUsed" value="tag:tvlib tag:SampleReplay" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib tag:SampleReplay" />
         <option value="tag:SampleReplayActivity tag:tvlib" />
         <option value="tag:tvlib" />
         <option value="tag:WorkManager tag:BaseWorker " />
@@ -22,7 +23,6 @@
         <option value="tag:tvlib. tag:LibraryReceiver tag:RetrieveTvChannelsWorker tag:PlainConverters tag:sampleplayeractivity " />
         <option value="tag:tvlib. tag:LibraryReceiver tag:RetrieveTvChannelsWorker tag:PlainConverters" />
         <option value="tag:PlainConverters" />
-        <option value="tag:tvlib. tag:LibraryReceiver tag:RetrieveTvChannelsWorker " />
       </list>
     </option>
   </component>
