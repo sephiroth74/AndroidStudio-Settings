@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:WorkManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:WorkManager" />
         <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleActivity tag:getWorkInfosForUniqueWorkFlowable" />
         <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleActivity" />
         <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleAct" />
@@ -22,7 +23,6 @@
         <option value="tag:tvlib. tag:LibraryReceiver tag:RetrieveTvChannelsWorker " />
         <option value="tag:tvlib tag:LibraryReceiver tag:RetrieveTvChannelsWorker " />
         <option value="tag:tvlib tag:LibraryReceiver " />
-        <option value="tag:objectbox" />
       </list>
     </option>
   </component>
