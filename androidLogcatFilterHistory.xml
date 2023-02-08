@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:WorkManager tag:BaseWorker " />
+    <option name="mostRecentlyUsed" value="tag:tvlib" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib" />
         <option value="tag:WorkManager tag:BaseWorker " />
         <option value="tag:WorkManager" />
         <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleActivity tag:getWorkInfosForUniqueWorkFlowable" />
@@ -15,7 +16,6 @@
         <option value="tag:GalaxyDelegate " />
         <option value=" " />
         <option value="tag:galaxydelegate " />
-        <option value="tag:tvlib" />
         <option value="tag:tvlib tag:CheckConnectionStatusWorker" />
         <option value="tag:tvlib. tag:LibraryReceiver tag:sampleplayeractivity " />
         <option value="tag:tvlib. tag:LibraryReceiver tag:RetrieveTvChannelsWorker tag:PlainConverters tag:sampleplayeractivity " />
