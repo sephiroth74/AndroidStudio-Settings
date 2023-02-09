@@ -4,7 +4,7 @@
     <property name="created">2017-12-08T11:24:35</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.4</property>
-    <property name="modified">2023-02-08T12:31:52</property>
+    <property name="modified">2023-02-09T16:05:30</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -569,6 +569,7 @@
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="80cbc4" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
@@ -1406,7 +1407,7 @@
     </option>
     <option name="LOGCAT_V2_MESSAGE_DEBUG">
       <value>
-        <option name="FOREGROUND" value="5353bb" />
+        <option name="FOREGROUND" value="5f8ac2" />
       </value>
     </option>
     <option name="LOGCAT_V2_MESSAGE_INFO">

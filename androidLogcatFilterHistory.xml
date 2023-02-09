@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvlib tag:SampleReplayActivity" />
+    <option name="mostRecentlyUsed" value="tag:tvlib tag:SampleReplay" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib tag:SampleReplay" />
         <option value="tag:tvlib tag:SampleReplayActivity" />
         <option value="tag:tvlib tag:REplayActivity" />
         <option value="tag:tvlib tag:SampleReplayActivity " />
         <option value="tag:tvlib tag:MainSampleActivity" />
-        <option value="tag:tvlib tag:SampleReplay" />
         <option value="tag:SampleReplayActivity tag:tvlib" />
         <option value="tag:tvlib" />
         <option value="tag:WorkManager tag:BaseWorker " />
