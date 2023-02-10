@@ -4,7 +4,7 @@
     <property name="created">2017-12-08T11:24:35</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.0.4</property>
-    <property name="modified">2023-02-09T16:05:30</property>
+    <property name="modified">2023-02-10T09:16:14</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -597,7 +597,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="7e7e7e" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -708,7 +708,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="838383" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -3751,8 +3751,8 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="212c32" />
-        <option name="BACKGROUND" value="484309" />
+        <option name="FOREGROUND" value="939394" />
+        <option name="BACKGROUND" value="57520f" />
         <option name="ERROR_STRIPE_COLOR" value="c55450" />
       </value>
     </option>
