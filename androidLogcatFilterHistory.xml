@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:player. tag:SampleReplay" />
+    <option name="mostRecentlyUsed" value="tag:player." />
     <option name="nonFavorites">
       <list>
+        <option value="tag:player." />
+        <option value="package:mine " />
         <option value="tag:player. tag:SampleReplay" />
         <option value="tag:tvlib tag:SampleReplay" />
         <option value="tag:tvlib tag:SampleReplayActivity" />
@@ -21,8 +23,6 @@
         <option value="tag:ConnectionStateMonitor tag:SystemInfoServiceInterface" />
         <option value="tag:ConnectionStateMonitor" />
         <option value="tag:GalaxyDelegate " />
-        <option value=" " />
-        <option value="tag:galaxydelegate " />
       </list>
     </option>
   </component>
