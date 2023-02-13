@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:player." />
+    <option name="mostRecentlyUsed" value="tag:player tag:tvlib tag:SamplePlayerActivity tag:AOT_UTILS tag:propertiesreceiver  " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:player tag:tvlib tag:SamplePlayerActivity tag:AOT_UTILS tag:propertiesreceiver  " />
+        <option value="  " />
+        <option value="tag:player tag:tvlib tag:SamplePlayerActivity tag:AOT_UTILS_095249.5621 tag:propertiesreceiver  " />
+        <option value="tag:player tag:tvlib tag:SamplePlayerActivity " />
+        <option value="tag:player tag:tvlib" />
         <option value="tag:player." />
         <option value="package:mine " />
         <option value="tag:player. tag:SampleReplay" />
@@ -18,11 +23,6 @@
         <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleActivity tag:getWorkInfosForUniqueWorkFlowable" />
         <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleActivity" />
         <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleAct" />
-        <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable" />
-        <option value="tag:ConnectionStateMonitor tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable" />
-        <option value="tag:ConnectionStateMonitor tag:SystemInfoServiceInterface" />
-        <option value="tag:ConnectionStateMonitor" />
-        <option value="tag:GalaxyDelegate " />
       </list>
     </option>
   </component>
