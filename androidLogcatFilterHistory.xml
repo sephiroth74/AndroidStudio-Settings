@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:player. tag:SampleReplayActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:player. tag:SampleReplayActivity" />
+        <option value="tag" />
         <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime tag:SubtitleView" />
         <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime tag:SubtitleView tag:eos" />
         <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime tag:SubtitleView tag" />
@@ -21,8 +23,6 @@
         <option value="tag:player." />
         <option value="package:mine " />
         <option value="tag:player. tag:SampleReplay" />
-        <option value="tag:tvlib tag:SampleReplay" />
-        <option value="tag:tvlib tag:SampleReplayActivity" />
       </list>
     </option>
   </component>
