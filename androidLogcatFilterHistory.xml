@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:player tag:tvlib tag:SamplePlayerActivity tag:AOT_UTILS tag:propertiesreceiver  " />
+    <option name="mostRecentlyUsed" value="tag:player tag:tvlib tag:SamplePlayerActivity tag:AOT_UTILS tag:propertiesreceiver  tag:AndroidRuntime" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:player tag:tvlib tag:SamplePlayerActivity tag:AOT_UTILS tag:propertiesreceiver  tag:AndroidRuntime" />
         <option value="tag:player tag:tvlib tag:SamplePlayerActivity tag:AOT_UTILS tag:propertiesreceiver  " />
         <option value="  " />
         <option value="tag:player tag:tvlib tag:SamplePlayerActivity tag:AOT_UTILS_095249.5621 tag:propertiesreceiver  " />
@@ -22,7 +23,6 @@
         <option value="tag:WorkManager" />
         <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleActivity tag:getWorkInfosForUniqueWorkFlowable" />
         <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleActivity" />
-        <option value="tag:SystemInfoServiceInterface tag:getWorkInfosForWorkUUIDFlowable tag:MainSampleAct" />
       </list>
     </option>
   </component>
