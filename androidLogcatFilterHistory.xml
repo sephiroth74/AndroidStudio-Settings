@@ -4,6 +4,10 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime tag:SubtitleView" />
+        <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime tag:SubtitleView tag:eos" />
+        <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime tag:SubtitleView tag" />
+        <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime tag:SubtitleView " />
+        <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime tag:SubtitleView tag:EosPlayer" />
         <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime " />
         <option value="tag:player. tag:tvlib. tag:samplereplayactivity " />
         <option value="tag:player. tag:tvlib tag:SamplePlayerActivity tag:AOT_UTILS tag:propertiesreceiver  tag:AndroidRuntime tag:SampleReplayActivity " />
@@ -19,10 +23,6 @@
         <option value="tag:player. tag:SampleReplay" />
         <option value="tag:tvlib tag:SampleReplay" />
         <option value="tag:tvlib tag:SampleReplayActivity" />
-        <option value="tag:tvlib tag:REplayActivity" />
-        <option value="tag:tvlib tag:SampleReplayActivity " />
-        <option value="tag:tvlib tag:MainSampleActivity" />
-        <option value="tag:SampleReplayActivity tag:tvlib" />
       </list>
     </option>
   </component>
