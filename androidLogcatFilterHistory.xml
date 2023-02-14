@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="VMX" />
+    <option name="mostRecentlyUsed" value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:eos" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:eos" />
         <option value="VMX" />
         <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:eos level:warn " />
-        <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:eos" />
         <option value="tag:player. tag:SampleReplayActivity tag:tvlib." />
         <option value="tag:player. tag:SampleReplayActivity" />
         <option value="tag" />
