@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag: TeletextDialog tag:TeletextService tag:TeletextView tag:SamplePlayerActivity " />
+    <option name="mostRecentlyUsed" value="tag:playback. tag:SampleReplayActivity tag:eos" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:playback. tag:SampleReplayActivity tag:eos" />
+        <option value="tag:playback. tag:SampleReplayActivity tag:eosplayer " />
         <option value="tag: TeletextDialog tag:TeletextService tag:TeletextView tag:SamplePlayerActivity " />
         <option value="tag: TeletextDialog tag:TeletextService tag:TeletextView " />
         <option value="tag: TeletextDialog tag:TeletextService " />
@@ -21,8 +23,6 @@
         <option value="VMX" />
         <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:eos level:warn " />
         <option value="tag:player. tag:SampleReplayActivity" />
-        <option value="tag" />
-        <option value="tag:player. tag:tvlib. tag:samplereplayactivity tag:AndroidRuntime tag:SubtitleView" />
       </list>
     </option>
   </component>
