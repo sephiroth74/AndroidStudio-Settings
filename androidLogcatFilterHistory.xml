@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Subtitle" />
+    <option name="mostRecentlyUsed" value="tag:tvlib" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib" />
         <option value="tag:Subtitle" />
         <option value="tag:SubtitleService" />
         <option value="tag:playback. tag:SampleReplayActivity tag:player.SubtitleView tag:SubtitleService" />
@@ -22,7 +23,6 @@
         <option value="ound char for" />
         <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:AndroidRuntime tag:teletext tag:SamplePlayerActivity tag:restclient" />
         <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:AndroidRuntime tag:teletext tag:SamplePlayerActivity" />
-        <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:AndroidRuntime tag:teletext t" />
       </list>
     </option>
   </component>
