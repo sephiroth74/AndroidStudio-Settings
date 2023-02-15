@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:playback. tag:SampleReplayActivity tag:subtitleview " />
+    <option name="mostRecentlyUsed" value="tag:Subtitle" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Subtitle" />
+        <option value="tag:SubtitleService" />
+        <option value="tag:playback. tag:SampleReplayActivity tag:player.SubtitleView tag:SubtitleService" />
+        <option value="tag:playback. tag:SampleReplayActivity tag:player.SubtitleView " />
+        <option value="tag:playback. tag:SampleReplayActivity tag:SubtitleView tag:tvlib." />
         <option value="tag:playback. tag:SampleReplayActivity tag:subtitleview " />
         <option value="tag:playback. tag:SampleReplayActivity tag:subtitle" />
         <option value="tag:playback. tag:SampleReplayActivity" />
@@ -18,11 +23,6 @@
         <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:AndroidRuntime tag:teletext tag:SamplePlayerActivity tag:restclient" />
         <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:AndroidRuntime tag:teletext tag:SamplePlayerActivity" />
         <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:AndroidRuntime tag:teletext t" />
-        <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:AndroidRuntime tag:teletext" />
-        <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:AndroidRuntime " />
-        <option value="tag:player. tag:SampleReplayActivity tag:tvlib." />
-        <option value="tag:player. tag:SampleReplayActivity tag:tvlib. tag:eos" />
-        <option value="tag:player. tag:SampleReplayActivity tag:tvlib. " />
       </list>
     </option>
   </component>
