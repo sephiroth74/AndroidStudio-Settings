@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:restclient tag:RetrieveTvChannelsWorker tag:AndroidRuntime tag:tvlib." />
+    <option name="mostRecentlyUsed" value="tag:restclient tag:RetrieveTvChannelsWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:restclient tag:RetrieveTvChannelsWorker" />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:AndroidRuntime tag:tvlib." />
         <option value="RetrieveTvChannelsWorker" />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:AndroidRuntime tag:Work " />
@@ -11,7 +12,6 @@
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:LibraryReceiver tag:AndroidRuntime tag:Work tag:AuthenticateWorker" />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:LibraryReceiver tag:AndroidRuntime tag:Work" />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:LibraryReceiver" />
-        <option value="tag:restclient tag:RetrieveTvChannelsWorker" />
         <option value="tag:tvlib" />
         <option value="tag:subtitle tag:SampleReplayActivity tag:AndroidRuntime tag:playback." />
         <option value="tag:subtitle tag:SampleReplayActivity tag:AndroidRuntime" />
