@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository tag:TvChannel" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository tag:TvChannel tag:tvlib.RetrieveRadioChannelsWorker " />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository tag:TvChannel" />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository" />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib." />
@@ -22,7 +23,6 @@
         <option value="tag:subtitle tag:REplayActivity " />
         <option value="tag:subtitle tag:REplayActivity tag:tvlib." />
         <option value="tag:subtitle tag:REplayActivity" />
-        <option value="tag:subtitle" />
       </list>
     </option>
   </component>
