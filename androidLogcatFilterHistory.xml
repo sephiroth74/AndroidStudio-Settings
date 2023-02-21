@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice " />
+    <option name="mostRecentlyUsed" value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice tag:sampleplayeractivity tag:AndroidRuntime" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice tag:sampleplayeractivity tag:AndroidRuntime" />
+        <option value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice tag:sampleplayeractivity " />
         <option value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice " />
         <option value="tag:tvlib.  tag:System.err tag:player." />
         <option value="tag:tvlib.  tag:System.err tag:RetrieveTvChannelsWorker " />
@@ -21,8 +23,6 @@
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:LibraryReceiver tag:AndroidRuntime tag:Work tag:AuthenticateWorker tag:USerDelegate" />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:LibraryReceiver tag:AndroidRuntime tag:Work tag:AuthenticateWorker" />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:LibraryReceiver tag:AndroidRuntime tag:Work" />
-        <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:LibraryReceiver" />
-        <option value="tag:tvlib" />
       </list>
     </option>
   </component>
