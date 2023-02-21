@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvlib." />
+    <option name="mostRecentlyUsed" value="tag:tvlib. tag:FilePropertiesLoader  " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tvlib. tag:FilePropertiesLoader  " />
+        <option value="tag:tvlib. tag:FilePropertiesLoader tag:PropertiesModel tag:FilePropertiesLoader " />
+        <option value="tag:tvlib. tag:FilePropertiesLoader tag:PropertiesModel" />
+        <option value="tag:tvlib. tag:FilePropertiesLoader" />
         <option value="tag:tvlib." />
         <option value="tvlib-aot.properties" />
         <option value="aot-" />
@@ -19,10 +23,6 @@
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository tag:TvChannel tag:tvlib.RetrieveRadioChannelsWorker " />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository tag:TvChannel" />
         <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository" />
-        <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib." />
-        <option value="tag:restclient tag:RetrieveTvChannelsWorker" />
-        <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:AndroidRuntime tag:tvlib." />
-        <option value="RetrieveTvChannelsWorker" />
       </list>
     </option>
   </component>
