@@ -1,6 +1,6 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice tag:samplehbbtvactivity  tag:AndroidRuntime" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice tag:samplehbbtvactivity  tag:AndroidRuntime" />
