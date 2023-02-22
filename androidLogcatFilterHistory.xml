@@ -1,9 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tvlib. " />
+    <option name="mostRecentlyUsed" value="tag:tl." />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl." />
+        <option value="tag:tvlib. tag:sql tag:WM" />
+        <option value="tag:tvlib. tag:sql" />
         <option value="tag:tvlib. " />
+        <option value="tag:tvlib. tag:WM-DiagnosticsWrkr" />
+        <option value="tag:tvlib. tag:Work" />
         <option value="tag:tvlib. tag:FilePropertiesLoader  " />
         <option value="tag:tvlib. tag:FilePropertiesLoader tag:PropertiesModel tag:FilePropertiesLoader " />
         <option value="tag:tvlib. tag:FilePropertiesLoader tag:PropertiesModel" />
@@ -18,11 +23,6 @@
         <option value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice " />
         <option value="tag:tvlib.  tag:System.err tag:player." />
         <option value="tag:tvlib.  tag:System.err tag:RetrieveTvChannelsWorker " />
-        <option value="tag:tvlib.  tag:System.err " />
-        <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository tag:TvChannel tag:tvlib.  tag:System.err " />
-        <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository tag:TvChannel tag:tvlib.RetrieveRadioChannelsWorker  tag:System.err " />
-        <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository tag:TvChannel tag:tvlib.RetrieveRadioChannelsWorker " />
-        <option value="tag:restclient tag:RetrieveTvChannelsWorker tag:tvlib.TvRepository tag:TvChannel" />
       </list>
     </option>
   </component>
