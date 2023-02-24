@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:ObjectParserUtil" />
+        <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter" />
         <option value="tag:tl. " />
         <option value="tag:tl. tag:WM-DiagnosticsWrkr" />
         <option value="tag:tl. tag:WM-" />
@@ -21,8 +23,6 @@
         <option value="aot-" />
         <option value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice tag:samplehbbtvactivity  tag:AndroidRuntime" />
         <option value="package:mine " />
-        <option value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice tag:sampleplayeractivity tag:AndroidRuntime" />
-        <option value="tag:tvlib.  tag:System.err tag:player. tag:player.hbbtvservice tag:sampleplayeractivity " />
       </list>
     </option>
   </component>
