@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql" />
+        <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql tag:System.out " />
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sqlitestatements " />
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter" />
         <option value="tag:tl. tag:ObjectParserUtil" />
@@ -22,7 +23,6 @@
         <option value="tag:tvlib. tag:FilePropertiesLoader" />
         <option value="tag:tvlib." />
         <option value="tvlib-aot.properties" />
-        <option value="aot-" />
       </list>
     </option>
   </component>
