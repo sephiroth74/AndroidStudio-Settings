@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql" />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:ObjectParserUtil" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:ObjectParserUtil" />
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql" />
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql tag:System.out " />
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sqlitestatements " />
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter" />
-        <option value="tag:tl. tag:ObjectParserUtil" />
         <option value="tag:tl. " />
         <option value="tag:tl. tag:WM-DiagnosticsWrkr" />
         <option value="tag:tl. tag:WM-" />
