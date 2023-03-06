@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:ObjectParserUtil" />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out tag:livestreamresolver " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out tag:livestreamresolver " />
+        <option value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out " />
+        <option value="tag:tl. tag:ObjectParserUtil tag:pl." />
         <option value="tag:tl. tag:ObjectParserUtil" />
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql" />
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql tag:System.out " />
@@ -20,9 +23,6 @@
         <option value="tag:tvlib. tag:FilePropertiesLoader  " />
         <option value="tag:tvlib. tag:FilePropertiesLoader tag:PropertiesModel tag:FilePropertiesLoader " />
         <option value="tag:tvlib. tag:FilePropertiesLoader tag:PropertiesModel" />
-        <option value="tag:tvlib. tag:FilePropertiesLoader" />
-        <option value="tag:tvlib." />
-        <option value="tvlib-aot.properties" />
       </list>
     </option>
   </component>
