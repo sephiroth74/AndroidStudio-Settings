@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:pl." />
+    <option name="mostRecentlyUsed" value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel" />
+        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:portfolio" />
+        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel " />
+        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager " />
+        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager" />
+        <option value="tag:BootActivity tag:WebSocketService " />
+        <option value="tag:BootActivity" />
+        <option value="BootActivity" />
+        <option value="tag: BootActivity" />
         <option value="tag:tl. tag:pl." />
         <option value="tag:tl. tag:pl. " />
         <option value="tag:tl. tag:pl.  tag:Intent" />
@@ -14,15 +23,6 @@
         <option value="tag:tl. tag:ObjectParserUtil tag:pl." />
         <option value="tag:tl. tag:ObjectParserUtil" />
         <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql" />
-        <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql tag:System.out " />
-        <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sqlitestatements " />
-        <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter" />
-        <option value="tag:tl. " />
-        <option value="tag:tl. tag:WM-DiagnosticsWrkr" />
-        <option value="tag:tl. tag:WM-" />
-        <option value="tag:tl." />
-        <option value="tag:tvlib. tag:sql tag:WM" />
-        <option value="tag:tvlib. tag:sql" />
       </list>
     </option>
   </component>
