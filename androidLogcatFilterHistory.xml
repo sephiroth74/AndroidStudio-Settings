@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel tag:tl.ContextUtil " />
+    <option name="mostRecentlyUsed" value="SQL" />
     <option name="nonFavorites">
       <list>
+        <option value="SQL" />
+        <option value="SQLiteDatabaseLockedException" />
+        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel tag:tl.ContextUtil SQLiteDatabaseLockedException" />
         <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel tag:tl.ContextUtil " />
         <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel" />
         <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:portfolio" />
@@ -20,9 +23,6 @@
         <option value="tag:tl. tag:pl.  tag:SampleRecordingActivity " />
         <option value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out tag:livestreamresolver  tag:SampleRecordingActivity " />
         <option value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out tag:livestreamresolver " />
-        <option value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out " />
-        <option value="tag:tl. tag:ObjectParserUtil tag:pl." />
-        <option value="tag:tl. tag:ObjectParserUtil" />
       </list>
     </option>
   </component>
