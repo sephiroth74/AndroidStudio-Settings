@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:pl.  tag:SampleRecordingActivity " />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:pl.  " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:pl.  " />
         <option value="tag:tl. tag:pl.  tag:SampleRecordingActivity " />
         <option value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out tag:livestreamresolver  tag:SampleRecordingActivity " />
         <option value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out tag:livestreamresolver " />
@@ -22,7 +23,6 @@
         <option value="tag:tvlib. " />
         <option value="tag:tvlib. tag:WM-DiagnosticsWrkr" />
         <option value="tag:tvlib. tag:Work" />
-        <option value="tag:tvlib. tag:FilePropertiesLoader  " />
       </list>
     </option>
   </component>
