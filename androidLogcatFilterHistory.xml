@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel" />
+    <option name="mostRecentlyUsed" value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel tag:tl.ContextUtil " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel tag:tl.ContextUtil " />
         <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel" />
         <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:portfolio" />
         <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel " />
@@ -22,7 +23,6 @@
         <option value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out " />
         <option value="tag:tl. tag:ObjectParserUtil tag:pl." />
         <option value="tag:tl. tag:ObjectParserUtil" />
-        <option value="tag:tl. tag:ObjectParserUtil tag:DurarionAdapter tag:sql" />
       </list>
     </option>
   </component>
