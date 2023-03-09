@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService" />
+    <option name="mostRecentlyUsed" value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl.LibraryReceiver" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl.LibraryReceiver" />
+        <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl.Li" />
         <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService" />
-        <option value="tag:tl.WebSocketService " />
         <option value="tag:tl." />
+        <option value="tag:tl.WebSocketService " />
         <option value="tag:tl.WebSocketService" />
         <option value="tag:tl.Web" />
         <option value="SQL" />
@@ -21,8 +23,6 @@
         <option value="tag:BootActivity" />
         <option value="BootActivity" />
         <option value="tag: BootActivity" />
-        <option value="tag:tl. tag:pl." />
-        <option value="tag:tl. tag:pl. " />
       </list>
     </option>
   </component>
