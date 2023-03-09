@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:tl." />
+        <option value="tag:tl.Web" />
         <option value="SQL" />
         <option value="SQLiteDatabaseLockedException" />
         <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel tag:tl.ContextUtil SQLiteDatabaseLockedException" />
@@ -22,7 +23,6 @@
         <option value="tag:tl. tag:pl.  tag:Intent" />
         <option value="tag:tl. tag:pl.  " />
         <option value="tag:tl. tag:pl.  tag:SampleRecordingActivity " />
-        <option value="tag:tl. tag:ObjectParserUtil tag:pl. tag:System.out tag:livestreamresolver  tag:SampleRecordingActivity " />
       </list>
     </option>
   </component>
