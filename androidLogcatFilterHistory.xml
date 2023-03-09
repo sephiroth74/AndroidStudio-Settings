@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl." />
+    <option name="mostRecentlyUsed" value="tag:tl.WebSocketService" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl.WebSocketService" />
         <option value="tag:tl." />
         <option value="tag:tl.Web" />
         <option value="SQL" />
@@ -22,7 +23,6 @@
         <option value="tag:tl. tag:pl. " />
         <option value="tag:tl. tag:pl.  tag:Intent" />
         <option value="tag:tl. tag:pl.  " />
-        <option value="tag:tl. tag:pl.  tag:SampleRecordingActivity " />
       </list>
     </option>
   </component>
