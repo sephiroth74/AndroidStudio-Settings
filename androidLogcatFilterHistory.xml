@@ -1,6 +1,6 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl.LibraryReceiver" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl.LibraryReceiver" />
