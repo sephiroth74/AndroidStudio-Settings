@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:AndroidRuntime tag:System.out tag:NotificationDemoActivity tag:libstate" />
+    <option name="mostRecentlyUsed" value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.propertiesprovider:getloadedpropertyasync " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.propertiesprovider:getloadedpropertyasync " />
+        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState" />
+        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel " />
+        <option value="tag:tl. tag:AndroidRuntime tag:System.out  tag:libstate" />
         <option value="tag:tl. tag:AndroidRuntime tag:System.out tag:NotificationDemoActivity tag:libstate" />
         <option value="tag:tl. tag:AndroidRuntime tag:System.out tag:NotificationDemoActivity" />
         <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl. tag:AndroidRuntime tag:System.out tag:NotificationDemoActivity" />
@@ -19,10 +23,6 @@
         <option value="SQL" />
         <option value="SQLiteDatabaseLockedException" />
         <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel tag:tl.ContextUtil SQLiteDatabaseLockedException" />
-        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel tag:tl.ContextUtil " />
-        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel" />
-        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:portfolio" />
-        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel " />
       </list>
     </option>
   </component>
