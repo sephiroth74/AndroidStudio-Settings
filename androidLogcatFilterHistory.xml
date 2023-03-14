@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.propertiesprovider:getloadedpropertyasync " />
+    <option name="mostRecentlyUsed" value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader " />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.propertiesprovider:getloadedpropertyasync " />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState" />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel " />
@@ -22,7 +23,6 @@
         <option value="tag:tl.Web" />
         <option value="SQL" />
         <option value="SQLiteDatabaseLockedException" />
-        <option value="tag:BootActivity tag:WebSocketService tag:CompanionCommandManager tag:libstatemodel tag:PortfolioModel tag:tl.ContextUtil SQLiteDatabaseLockedException" />
       </list>
     </option>
   </component>
