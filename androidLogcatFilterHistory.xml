@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl." />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="tag:tvlib" />
         <option value="tag:tl." />
         <option value="tag:tl.SystemPropertiesDelegate" />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:tl." />
@@ -21,8 +23,6 @@
         <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl. tag:AndroidRuntime " />
         <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl." />
         <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl.LibraryReceiver" />
-        <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl.Li" />
-        <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService" />
       </list>
     </option>
   </component>
