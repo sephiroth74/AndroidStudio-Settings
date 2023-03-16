@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="tag:tl." />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl." />
         <option value="level:error " />
         <option value="tag:tvlib" />
-        <option value="tag:tl." />
         <option value="tag:tl.SystemPropertiesDelegate" />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:tl." />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:MY_CUSTOM_TAG tag:tl." />
