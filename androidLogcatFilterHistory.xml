@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:system.out tag:System.err " />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil" />
+        <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtils " />
+        <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService" />
+        <option value="tag:tl. tag:system.out tag:System.err" />
+        <option value="tag:tl. tag:system.out tag:System.err BOOT_COMPLETE" />
         <option value="tag:tl. tag:system.out tag:System.err " />
         <option value="tag:tl." />
         <option value="level:error " />
@@ -18,11 +23,6 @@
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel " />
         <option value="tag:tl. tag:AndroidRuntime tag:System.out  tag:libstate" />
         <option value="tag:tl. tag:AndroidRuntime tag:System.out tag:NotificationDemoActivity tag:libstate" />
-        <option value="tag:tl. tag:AndroidRuntime tag:System.out tag:NotificationDemoActivity" />
-        <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl. tag:AndroidRuntime tag:System.out tag:NotificationDemoActivity" />
-        <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl. tag:AndroidRuntime tag:System.out " />
-        <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl. tag:AndroidRuntime " />
-        <option value="tag:tl.WebSocketService tag:tl.SystemService tag:tl.AlarmService tag:tl." />
       </list>
     </option>
   </component>
