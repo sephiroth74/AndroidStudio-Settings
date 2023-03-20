@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil" />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:wm" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:wm" />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil" />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtils " />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService" />
@@ -22,7 +23,6 @@
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState" />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel " />
         <option value="tag:tl. tag:AndroidRuntime tag:System.out  tag:libstate" />
-        <option value="tag:tl. tag:AndroidRuntime tag:System.out tag:NotificationDemoActivity tag:libstate" />
       </list>
     </option>
   </component>
