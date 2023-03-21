@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:EvaluatePbaWorker tag:WorkManagerDelegate tag:Work" />
+    <option name="mostRecentlyUsed" value="tag:SystemPropertiesDelegate tag:tl.futureserviceconnection " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:SystemPropertiesDelegate tag:tl.futureserviceconnection " />
+        <option value="tag:SystemPropertiesDelegate tag:AndroidUtilitiesServiceConnection" />
+        <option value="tag:SystemPropertiesDelegate" />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:EvaluatePbaWorker tag:WorkManagerDelegate tag:Work" />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:EvaluatePbaWorker tag:WorkManagerDelegate " />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:WM-DiagnosticsWrkr" />
@@ -20,9 +23,6 @@
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:tl." />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:MY_CUSTOM_TAG tag:tl." />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:MY_CUSTOM_TAG tag:tl" />
-        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:MY_CUSTOM_TAG " />
-        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader " />
-        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.propertiesprovider:getloadedpropertyasync " />
       </list>
     </option>
   </component>
