@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:WM-DiagnosticsWrkr" />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:EvaluatePbaWorker tag:WorkManagerDelegate tag:Work" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:EvaluatePbaWorker tag:WorkManagerDelegate tag:Work" />
+        <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:EvaluatePbaWorker tag:WorkManagerDelegate " />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:WM-DiagnosticsWrkr" />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:wm" />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil" />
@@ -21,8 +23,6 @@
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:MY_CUSTOM_TAG " />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader " />
         <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.propertiesprovider:getloadedpropertyasync " />
-        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState" />
-        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel " />
       </list>
     </option>
   </component>
