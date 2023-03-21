@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:SystemPropertiesDelegate tag:tl.futureserviceconnection " />
+    <option name="mostRecentlyUsed" value="tag:tl.systempropertiesdelegate " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl.systempropertiesdelegate " />
+        <option value="tag:tl. " />
+        <option value="tag:tl.ServiceConnection " />
+        <option value="tag:tl." />
+        <option value="level:error " />
+        <option value="tag:SystemPropertiesDelegate tag:AndroidUtilitiesServiceConnection  tag:tl.serviceconnection " />
+        <option value="tag:SystemPropertiesDelegate tag:AndroidUtilitiesServiceConnection  tag:tl. " />
+        <option value="tag:SystemPropertiesDelegate tag:AndroidUtilitiesServiceConnection  tag:tl.baseserviceconnection " />
+        <option value="tag:SystemPropertiesDelegate tag:AndroidUtilitiesServiceConnection  " />
         <option value="tag:SystemPropertiesDelegate tag:tl.futureserviceconnection " />
         <option value="tag:SystemPropertiesDelegate tag:AndroidUtilitiesServiceConnection" />
         <option value="tag:SystemPropertiesDelegate" />
@@ -14,15 +23,6 @@
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtils " />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService" />
         <option value="tag:tl. tag:system.out tag:System.err" />
-        <option value="tag:tl. tag:system.out tag:System.err BOOT_COMPLETE" />
-        <option value="tag:tl. tag:system.out tag:System.err " />
-        <option value="tag:tl." />
-        <option value="level:error " />
-        <option value="tag:tvlib" />
-        <option value="tag:tl.SystemPropertiesDelegate" />
-        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:tl." />
-        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:MY_CUSTOM_TAG tag:tl." />
-        <option value="tag:tl.ConfigurationRepository tag:tl.PropertyContentProvider tag:tl.propertiesprovider tag:libstatemodel tag:LibState tag:tl.PropertiesLoader tag:MY_CUSTOM_TAG tag:tl" />
       </list>
     </option>
   </component>
