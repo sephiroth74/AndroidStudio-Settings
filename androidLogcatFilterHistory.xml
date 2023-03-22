@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl.systempropertiesdelegate tag:pl.eoscontrol tag:AndroidRuntime tag:system.err " />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:pl.eoscontrol tag:AndroidRuntime tag:system.err " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:pl.eoscontrol tag:AndroidRuntime tag:system.err " />
         <option value="tag:tl.systempropertiesdelegate tag:pl.eoscontrol tag:AndroidRuntime tag:system.err " />
         <option value="tag:tl.systempropertiesdelegate tag:pl.eoscontrol " />
         <option value="tag:tl.systempropertiesdelegate " />
@@ -22,7 +23,6 @@
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:WM-DiagnosticsWrkr" />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil tag:wm" />
         <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtil" />
-        <option value="tag:tl. tag:system.out tag:System.err tag:SystemUIService tag:AndroidUtils " />
       </list>
     </option>
   </component>
