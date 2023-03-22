@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="tag:tl." />
+        <option value="tag:tl.serviceconnection " />
         <option value="tag:tl. tag:tl.propertiesproviderproxy " />
         <option value="tag:tl. tag:tl.propertiesproviderproxy tag:strictmode " />
         <option value="tag:tl. tag:tl.propertiesproviderproxy tag:strict " />
@@ -22,7 +23,6 @@
         <option value="tag:tl. tag:pl.eoscontrol tag:AndroidRuntime tag:system.err " />
         <option value="tag:tl.systempropertiesdelegate tag:pl.eoscontrol tag:AndroidRuntime tag:system.err " />
         <option value="tag:tl.systempropertiesdelegate tag:pl.eoscontrol " />
-        <option value="tag:tl.systempropertiesdelegate " />
       </list>
     </option>
   </component>
