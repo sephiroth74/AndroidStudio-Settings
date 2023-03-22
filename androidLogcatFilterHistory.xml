@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:sendheartbeatworker$companion " />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:sendheartbeatworker$companion tag:Work" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:sendheartbeatworker$companion tag:Work" />
         <option value="tag:tl. tag:sendheartbeatworker$companion " />
         <option value="tag:tl." />
         <option value="AndroidUtilitiesServiceConnection" />
@@ -22,7 +23,6 @@
         <option value="tag:tl. tag:pl. tag:AndroidRuntime tag:system.err tag:strictmode tag:getClientVersionAsync " />
         <option value="tag:tl. tag:pl. tag:AndroidRuntime tag:system.err tag:strictmode " />
         <option value="tag:tl. tag:pl. tag:AndroidRuntime tag:system.err " />
-        <option value="tag:tl. tag:pl.eoscontrol tag:AndroidRuntime tag:system.err " />
       </list>
     </option>
   </component>
