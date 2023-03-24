@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" tag:tl." />
+    <option name="mostRecentlyUsed" value=" tag:reportingreceiver " />
     <option name="nonFavorites">
       <list>
+        <option value=" tag:reportingreceiver " />
+        <option value=" tag:tl. tag:reportingreceiver " />
         <option value=" tag:tl." />
         <option value=" tag:tl.SendTechnicalCountersWorker " />
         <option value="tag:tl. tag:sendheartbeatwSendTechnicalCountersWorkerorker$companion tag:Work" />
@@ -21,8 +23,6 @@
         <option value="tag:loadedProperties tag:getClientVersionAsync tag:getUserAgentAsync tag:tl. tag:PropertiesProviderProxy " />
         <option value="tag:loadedProperties tag:getClientVersionAsync tag:getUserAgentAsync tag:tl." />
         <option value="tag:loadedProperties tag:getClientVersionAsync tag:getUserAgentAsync" />
-        <option value="tag:loadedProperties tag:getClientVersionAsync" />
-        <option value="tag:loadedProperties" />
       </list>
     </option>
   </component>
