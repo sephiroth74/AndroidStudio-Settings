@@ -1,8 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl." />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager" />
+        <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out " />
+        <option value="tag:tl." />
+        <option value="&#10; tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. reporttag:SamplePlayerActivity " />
+        <option value="tag:tl&#10; tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. reporttag:SamplePlayerActivity " />
+        <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. tag:SamplePlayerActivity &#10; tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. reporttag:SamplePlayerActivity " />
+        <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. tag:SamplePlayerActivity " />
+        <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. tag:SamplePlayerActivity tag:pl." />
+        <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. tag:SamplePlayerActivity" />
         <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl." />
         <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin" />
         <option value=" tag:LogCounterEventWorker" />
@@ -14,15 +23,6 @@
         <option value=" tag:tl.SendTechnicalCountersWorker " />
         <option value="tag:tl. tag:sendheartbeatwSendTechnicalCountersWorkerorker$companion tag:Work" />
         <option value="tag:tl. tag:sendheartbeatworker$companion tag:Work" />
-        <option value="tag:tl. tag:sendheartbeatworker$companion " />
-        <option value="tag:tl." />
-        <option value="AndroidUtilitiesServiceConnection" />
-        <option value="tag:tl. " />
-        <option value="tag:tl.serviceconnection " />
-        <option value="tag:tl. tag:tl.propertiesproviderproxy " />
-        <option value="tag:tl. tag:tl.propertiesproviderproxy tag:strictmode " />
-        <option value="tag:tl. tag:tl.propertiesproviderproxy tag:strict " />
-        <option value="tag:tl. tag:tl.propertiesproviderproxy tag:tl.StrictPolicy " />
       </list>
     </option>
   </component>
