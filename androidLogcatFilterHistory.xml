@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" tag:reportingreceiver " />
+    <option name="mostRecentlyUsed" value=" tag:tl." />
     <option name="nonFavorites">
       <list>
+        <option value=" tag:tl." />
         <option value=" tag:reportingreceiver " />
         <option value=" tag:tl. tag:reportingreceiver " />
-        <option value=" tag:tl." />
         <option value=" tag:tl.SendTechnicalCountersWorker " />
         <option value="tag:tl. tag:sendheartbeatwSendTechnicalCountersWorkerorker$companion tag:Work" />
         <option value="tag:tl. tag:sendheartbeatworker$companion tag:Work" />
