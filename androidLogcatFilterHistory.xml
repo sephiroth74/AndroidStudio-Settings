@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl." />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:pl." />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:pl." />
         <option value="tag:tl." />
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager" />
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager tag:sqlite" />
@@ -22,7 +23,6 @@
         <option value=" tag:tl.countersagent tag:reportingreceiver " />
         <option value=" tag:tl." />
         <option value=" tag:reportingreceiver " />
-        <option value=" tag:tl. tag:reportingreceiver " />
       </list>
     </option>
   </component>
