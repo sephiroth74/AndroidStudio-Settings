@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager tag:sqlite" />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager tag:sqlite" />
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager" />
+        <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager tag:sqlite" />
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager tag:*" />
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager tag:WM" />
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out " />
