@@ -6,6 +6,7 @@
         <option value="[INFO:btif_config.cc(647)] hash_file: Disabled for multi-user" />
         <option value="[INFO:btif_config.cc(689)] write_checksum_file: Disabled for multi-user, since config changed removing checksums" />
         <option value="Amp1@@[MODULE_DMX:internal_AlignCtrl():1549]" />
+        <option value="AOUTCOM return not ok" />
         <option value="com.swisscom.android.tv.library D/EosNativeBridge: firePlayInfo: ID 0" />
         <option value="com.swisscom.android.tv.library V/tvlib.LiveTvControl: beginTime=" />
         <option value="com.swisscom.android.tv.library V/tvlib.VodControl: Updated (eos) duration to" />
@@ -15,6 +16,7 @@
         <option value="D/EosBaseBridge: firePlayInfo: ID 0" />
         <option value="eos:cron:mrvl] Unable to do write begin" />
         <option value="EosNativeBridge: firePlayInfo: ID" />
+        <option value="Explicit concurrent copying GC freed" />
         <option value="IonHeapBufferToRecords: Saw only garbage when skipping 'Table header' when parsing system-ion" />
         <option value="MediaTime mrvl::MediaSourceRtsp::__getDuration()" />
         <option value="Updated (eos) duration to" />
@@ -22,7 +24,7 @@
         <option value="VPP1@HDMI@" />
         <option value="while [PLAYING] with speed[1]" />
         <option value="zygote: Background concurrent copying GC freed" />
-        <option value="Explicit concurrent copying GC freed" />
+        <option value="AOUTCOM pa:3 AudioLocalPtsMgr_AoutGetInPtsTag" />
       </list>
     </option>
   </component>

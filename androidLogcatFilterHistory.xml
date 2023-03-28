@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com." />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.swisscom.aot.ui " />
         <option value="package:com." />
         <option value="package:com.swisscom.aot.ui package:com.swisscom.aot.library.standalone" />
         <option value="tag:OperatorAuthService tag:ActivityManager " />
         <option value="tag:OperatorAuthService" />
         <option value="package:com.swisscom.aot.ui package:com.swisscom.aot.library.standalone " />
         <option value="package:com.swisscom.aot.ui tag:ActivityManager" />
-        <option value="package:com.swisscom.aot.ui " />
         <option value="tag:tl. tag:pl." />
         <option value="tag:tl." />
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager" />
