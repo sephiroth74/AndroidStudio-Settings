@@ -1,9 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="katniss" />
+    <option name="mostRecentlyUsed" value="tag:Mainactivity tag:companion" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:Mainactivity tag:companion" />
         <option value="katniss" />
+        <option value="tag:tl." />
+        <option value="setSystemLanguage" />
         <option value="tag:Companion tag:MainActivity tag:Operator tag:LanguageSettingsFragmen" />
         <option value="tag:Companion tag:MainActivity tag:Operator tag:tl." />
         <option value="tag:Companion tag:MainActivity tag:Operator" />
@@ -20,9 +23,6 @@
         <option value="tag:MainActivity tag:OperatorAuthService" />
         <option value="tag:MainActivity " />
         <option value="tag:MainActivity" />
-        <option value="tag:companioncommandmanager tag:MainActivity" />
-        <option value="tag:companioncommandmanager tag:" />
-        <option value="tag:companion" />
       </list>
     </option>
   </component>
