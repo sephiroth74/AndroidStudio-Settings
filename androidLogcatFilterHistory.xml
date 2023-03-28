@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:companioncommandmanager tag:MainActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:companioncommandmanager tag:MainActivity" />
+        <option value="tag:companioncommandmanager tag:" />
+        <option value="tag:companion" />
         <option value="package:com.swisscom.aot.ui " />
         <option value="package:com." />
         <option value="package:com.swisscom.aot.ui package:com.swisscom.aot.library.standalone" />
@@ -20,9 +23,6 @@
         <option value="&#10; tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. reporttag:SamplePlayerActivity " />
         <option value="tag:tl&#10; tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. reporttag:SamplePlayerActivity " />
         <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. tag:SamplePlayerActivity &#10; tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. reporttag:SamplePlayerActivity " />
-        <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. tag:SamplePlayerActivity " />
-        <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. tag:SamplePlayerActivity tag:pl." />
-        <option value=" tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. tag:SamplePlayerActivity" />
       </list>
     </option>
   </component>
