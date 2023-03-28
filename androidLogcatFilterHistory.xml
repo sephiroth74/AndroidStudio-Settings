@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:MainActivity" />
+    <option name="mostRecentlyUsed" value="tag:MainActivity tag:OperatorAuthService" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:MainActivity tag:OperatorAuthService" />
+        <option value="tag:MainActivity " />
         <option value="tag:MainActivity" />
         <option value="tag:companioncommandmanager tag:MainActivity" />
         <option value="tag:companioncommandmanager tag:" />
@@ -21,8 +23,6 @@
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager tag:*" />
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out tag:ActivityManager tag:WM" />
         <option value="tag:tl. tag:androidruntime tag:system.err tag:system.out " />
-        <option value="&#10; tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. reporttag:SamplePlayerActivity " />
-        <option value="tag:tl&#10; tag:LogCounterEventWorker tag:reportingreceiver tag:LiveTvReportable tag:ReportPlugin tag:tl. reporttag:SamplePlayerActivity " />
       </list>
     </option>
   </component>
