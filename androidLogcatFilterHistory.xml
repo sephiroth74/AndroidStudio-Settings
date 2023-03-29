@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err" />
+    <option name="mostRecentlyUsed" value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err tag:RecordingsServiceInterface tag:TvLibRecycleBin tag:RecycleBinProviderProxy tag:HttpResponseException" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err tag:RecordingsServiceInterface tag:TvLibRecycleBin tag:RecycleBinProviderProxy tag:HttpResponseException" />
+        <option value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err tag:RecordingsServiceInterface tag:TvLibRecycleBin tag:RecycleBinProviderProxy" />
+        <option value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err tag:RecordingsServiceInterface tag:TvLibRecycleBin" />
+        <option value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err tag:RecordingsServiceInterface" />
         <option value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err" />
         <option value="package:mine " />
         <option value="tag:MainActivity tag:compaion tag:Mainactivity tag:ActivityManager " />
@@ -19,10 +23,6 @@
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss tag:tl. tag:OperatorAuthService tag:ActivityManager" />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss tag:tl. tag:OperatorAuthService" />
         <option value="tag:Mainactivity tag:companion tag:tl. tag:operator" />
-        <option value="tag:Mainactivity tag:companion tag:tl." />
-        <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss tag:tl." />
-        <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss" />
-        <option value="tvguide" />
       </list>
     </option>
   </component>
