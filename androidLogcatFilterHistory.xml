@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:Mainactivity tag:companion tag:tl." />
+    <option name="mostRecentlyUsed" value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss tag:tl. tag:OperatorAuthService tag:ActivityManager" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss tag:tl. tag:OperatorAuthService tag:ActivityManager" />
+        <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss tag:tl. tag:OperatorAuthService" />
+        <option value="tag:Mainactivity tag:companion tag:tl. tag:operator" />
         <option value="tag:Mainactivity tag:companion tag:tl." />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss tag:tl." />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss" />
@@ -20,9 +23,6 @@
         <option value="tag:Companion tag:MainActivity tag:Operator tag:LanguageSettingsFragmen" />
         <option value="tag:Companion tag:MainActivity tag:Operator tag:tl." />
         <option value="tag:Companion tag:MainActivity tag:Operator" />
-        <option value="tag:Companion tag:MainActivity" />
-        <option value="tag:Companion" />
-        <option value="tag:MainActivity tag:Companion tag:Operator tag:katniss tag:ActivityManager" />
       </list>
     </option>
   </component>
