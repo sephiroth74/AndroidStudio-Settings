@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.swisscom.aot.ui " />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.swisscom.aot.ui " />
         <option value="tag:WorkManagerDelegate tag:SystemInfoServiceInterface" />
+        <option value="package:mine " />
+        <option value="package:com.swisscom.aot.ui " />
         <option value="tag:WorkManagerDelegate" />
         <option value="tag:Mainactivity tag:companion tag:tl. tag:operator tag:Workmanagerdelegate" />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss tag:tl. tag:OperatorAuthService tag:ActivityManager" />
@@ -22,7 +22,6 @@
         <option value="tag:CompanionCommandManager" />
         <option value="tag:Mainactivity tag:companion" />
         <option value="katniss" />
-        <option value="tag:tl." />
       </list>
     </option>
   </component>
