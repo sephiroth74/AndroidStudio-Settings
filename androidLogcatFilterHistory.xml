@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:EventBus tag:MediaSessionModel" />
+    <option name="mostRecentlyUsed" value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss" />
+        <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel" />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:EventBus tag:MediaSessionModel" />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:EventBus " />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity" />
@@ -21,8 +23,6 @@
         <option value="tag:MainActivity tag:Companion tag:Operator tag:katniss tag:Activity" />
         <option value="tag:MainActivity tag:Companion tag:Operator tag:katniss" />
         <option value="tag:MainActivity tag:Companion tag:Operator" />
-        <option value="package:com.google.android.katniss " />
-        <option value="tag:katniss" />
       </list>
     </option>
   </component>
