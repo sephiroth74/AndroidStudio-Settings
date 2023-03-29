@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:recyclebinproviderproxy tag:restclient" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:recyclebinproviderproxy tag:restclient" />
+        <option value="tag:recyclebinproviderproxy" />
         <option value="package:mine " />
         <option value="package:mine package:com.swisscom.aot.library.standalone " />
         <option value="tag:WorkManagerDelegate tag:SystemInfoServiceInterface" />
@@ -20,8 +23,6 @@
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:EventBus " />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity" />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil" />
-        <option value="tag:CompanionCommandManager" />
-        <option value="tag:Mainactivity tag:companion" />
       </list>
     </option>
   </component>
