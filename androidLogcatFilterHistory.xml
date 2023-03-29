@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err" />
         <option value="package:mine " />
         <option value="tag:MainActivity tag:compaion tag:Mainactivity tag:ActivityManager " />
         <option value="tag:MainActivity tag:compaion" />
@@ -21,7 +23,6 @@
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss tag:tl." />
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel tag:katniss" />
         <option value="tvguide" />
-        <option value="tag:CompanionCommandManager tag:tl.SystemUtil tag:MainActivity tag:MediaSessionModel" />
       </list>
     </option>
   </component>
