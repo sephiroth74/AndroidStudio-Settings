@@ -2,8 +2,9 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="tag:WorkManagerDelegate tag:SystemInfoServiceInterface" />
         <option value="package:mine " />
+        <option value="package:mine package:com.swisscom.aot.library.standalone " />
+        <option value="tag:WorkManagerDelegate tag:SystemInfoServiceInterface" />
         <option value="package:com.swisscom.aot.ui " />
         <option value="tag:WorkManagerDelegate" />
         <option value="tag:Mainactivity tag:companion tag:tl. tag:operator tag:Workmanagerdelegate" />
@@ -21,7 +22,6 @@
         <option value="tag:CompanionCommandManager tag:tl.SystemUtil" />
         <option value="tag:CompanionCommandManager" />
         <option value="tag:Mainactivity tag:companion" />
-        <option value="katniss" />
       </list>
     </option>
   </component>
