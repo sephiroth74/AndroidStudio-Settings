@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity tag:RecyclebinTestActivity tag:tl." />
+    <option name="mostRecentlyUsed" value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity tag:RecyclebinTestActivity tag:tl. tag:AidlEmptyResponse tag:LibraryReceiver " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity tag:RecyclebinTestActivity tag:tl. tag:AidlEmptyResponse tag:LibraryReceiver " />
+        <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity tag:RecyclebinTestActivity tag:tl. tag:AidlEmptyResponse" />
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity tag:RecyclebinTestActivity tag:tl." />
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity tag:RecyclebinTestActivity" />
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity " />
@@ -21,8 +23,6 @@
         <option value="tag:MainActivity tag:compaion tag:Mainactivity tag:ActivityManager " />
         <option value="tag:MainActivity tag:compaion" />
         <option value="tag:ActivityManager" />
-        <option value="operatorauth" />
-        <option value="tag:recyclebinproviderproxy tag:restclient" />
       </list>
     </option>
   </component>
