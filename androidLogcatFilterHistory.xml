@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity " />
+    <option name="mostRecentlyUsed" value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity tag:RecyclebinTestActivity tag:tl." />
     <option name="nonFavorites">
       <list>
+        <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity tag:RecyclebinTestActivity tag:tl." />
+        <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity tag:RecyclebinTestActivity" />
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface tag:MainActivity " />
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out tag:RecordingsServiceInterface" />
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out " />
@@ -21,8 +23,6 @@
         <option value="tag:ActivityManager" />
         <option value="operatorauth" />
         <option value="tag:recyclebinproviderproxy tag:restclient" />
-        <option value="tag:recyclebinproviderproxy" />
-        <option value="package:mine package:com.swisscom.aot.library.standalone " />
       </list>
     </option>
   </component>
