@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http" />
+    <option name="mostRecentlyUsed" value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http tag:LoadRemoteDependencyWorker tag:sql tag:tl.epgrepository " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http tag:LoadRemoteDependencyWorker tag:sql tag:tl.epgrepository " />
+        <option value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http tag:LoadRemoteDependencyWorker tag:sql" />
+        <option value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http tag:LoadRemoteDependencyWorker" />
         <option value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http" />
         <option value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out" />
         <option value="tag:tl. " />
@@ -20,9 +23,6 @@
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger" />
         <option value="tag:AuthenticateWorker tag:tvlibapplication " />
         <option value="tag:AuthenticateWorker" />
-        <option value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err tag:RecordingsServiceInterface tag:TvLibRecycleBin tag:RecycleBinProviderProxy tag:HttpResponseException" />
-        <option value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err tag:RecordingsServiceInterface tag:TvLibRecycleBin tag:RecycleBinProviderProxy" />
-        <option value="tag:recyclebinproviderproxy tag:restclient tag:System.out tag:System.err tag:RecordingsServiceInterface tag:TvLibRecycleBin" />
       </list>
     </option>
   </component>
