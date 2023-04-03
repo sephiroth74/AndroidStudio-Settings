@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http tag:LoadRemoteDependencyWorker tag:sql tag:tl.epgrepository " />
+    <option name="mostRecentlyUsed" value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy" />
+        <option value="tag:RetrieveTvChannelsWorker" />
         <option value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http tag:LoadRemoteDependencyWorker tag:sql tag:tl.epgrepository " />
         <option value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http tag:LoadRemoteDependencyWorker tag:sql" />
         <option value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http tag:LoadRemoteDependencyWorker" />
@@ -21,8 +23,6 @@
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle tag:System.err  tag:System.out " />
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger tag:recycle" />
         <option value="tag:AuthenticateWorker tag:tvlibapplication tag:BootstrapTrigger" />
-        <option value="tag:AuthenticateWorker tag:tvlibapplication " />
-        <option value="tag:AuthenticateWorker" />
       </list>
     </option>
   </component>
