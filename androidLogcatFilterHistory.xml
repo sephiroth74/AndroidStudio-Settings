@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="universalsearch" />
+    <option name="mostRecentlyUsed" value="tag:tl." />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl." />
         <option value="universalsearch" />
         <option value="tag:System.err tag:System.out tag:okhttp.OkHttpClient tag:AndroidRuntime tag:libstatemodel tag:tl. tag:sql tag:GalaxyProviderProxy " />
         <option value="tag:System.err tag:System.out tag:okhttp.OkHttpClient tag:AndroidRuntime tag:libstatemodel tag:tl. tag:sql tag:TvChannelsListActivity" />
@@ -13,7 +14,6 @@
         <option value="tag:loadremotedependencyworker " />
         <option value="tag:loadremotedependencyworker tag:LibStateModel tag:http" />
         <option value="tag:loadremotedependencyworker tag:LibStateModel " />
-        <option value="tag:tl." />
         <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy tag:ChannelIconProviderProxy" />
         <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy" />
         <option value="tag:RetrieveTvChannelsWorker" />
