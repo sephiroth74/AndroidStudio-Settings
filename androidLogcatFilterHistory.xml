@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:sport tag:sql" />
+    <option name="mostRecentlyUsed" value="tag:sport" />
     <option name="nonFavorites">
       <list>
-        <option value="tag:sport tag:sql" />
         <option value="tag:sport" />
+        <option value="tag:sport tag:sql" />
         <option value="tag:sport tag:libstate" />
         <option value="tag:sport tag:okhttp.OkHttpClient " />
         <option value="tag:tl. tag:ImageUtil" />
