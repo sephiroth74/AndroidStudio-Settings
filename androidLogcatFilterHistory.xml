@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:sport" />
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
+        <option value="http" />
+        <option value="https" />
         <option value="tag:sport" />
         <option value="tag:sport tag:sql" />
         <option value="tag:sport tag:libstate" />
@@ -21,8 +23,6 @@
         <option value="tag:loadremotedependencyworker tag:LibStateModel " />
         <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy tag:ChannelIconProviderProxy" />
         <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy" />
-        <option value="tag:RetrieveTvChannelsWorker" />
-        <option value="tag:tl. tag:AndroidRuntime  tag:System.err tag:System.out tag:http tag:LoadRemoteDependencyWorker tag:sql tag:tl.epgrepository " />
       </list>
     </option>
   </component>
