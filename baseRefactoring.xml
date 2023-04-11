@@ -14,5 +14,6 @@
     <option name="MOVE_SEARCH_FOR_TEXT" value="false" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+    <option name="RENAME_TESTS" value="false" />
   </component>
 </application>
