@@ -1,12 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:libstatemodeleventhandler tag:libstatemodel tag:LiveData" />
+    <option name="mostRecentlyUsed" value="tag:tl." />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl." />
+        <option value="tag:tl.libstatemodel tag:libstatemodeleventhandler " />
+        <option value="tag:tl.libstatemodel " />
+        <option value="tag:work" />
+        <option value="tag:libstatemodeleventhandler tag:libstatemodel tag:LiveData tag:wm" />
+        <option value="tag:libstatemodeleventhandler tag:libstatemodel tag:LiveData tag:work" />
         <option value="tag:libstatemodeleventhandler tag:libstatemodel tag:LiveData" />
         <option value="tag:libstatemodeleventhandler tag:libstatemodel " />
         <option value="tag:libstatemodeleventhandler " />
-        <option value="tag:tl." />
         <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out tag:TestWorker3 tag:LiveData tag:LibStateModelEventHandler " />
         <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out tag:TestWorker3 tag:LiveData" />
         <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out tag:TestWorker3" />
@@ -18,11 +23,6 @@
         <option value="tag:sport tag:tl.websocketservice tag:libstatemodel tag:sql tag:SportBroadcastQueryBuilder" />
         <option value="tag:sport tag:tl.websocketservice tag:libstatemodel tag:sql" />
         <option value="tag:sport tag:tl.websocketservice tag:libstatemodel " />
-        <option value="tag:sport tag:tl.websocketservice " />
-        <option value="http" />
-        <option value="https" />
-        <option value="tag:sport" />
-        <option value="tag:sport tag:sql" />
       </list>
     </option>
   </component>
