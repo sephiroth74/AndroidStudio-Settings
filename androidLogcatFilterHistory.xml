@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:sport tag:TvSettings" />
+    <option name="mostRecentlyUsed" value="tag:libraryreceiver tag:tl.restclient tag:FirmwareProviderProxy tag:AndroidRuntime " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:libraryreceiver tag:tl.restclient tag:FirmwareProviderProxy tag:AndroidRuntime " />
+        <option value="tag:libraryreceiver tag:tl.restclient tag:FirmwareProviderProxy" />
+        <option value="tag:libraryreceiver tag:tl.restclient " />
         <option value="tag:sport tag:TvSettings" />
         <option value="tag:sport" />
         <option value="tag:tl." />
@@ -20,9 +23,6 @@
         <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out tag:TestWorker" />
         <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out " />
         <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker " />
-        <option value="tag:tl.RefreshSportCacheWorker" />
-        <option value="tag:RefreshSportCacheWorker" />
-        <option value="tag:sport tag:tl.websocketservice tag:libstatemodel tag:sql tag:SportBroadcastQueryBuilder" />
       </list>
     </option>
   </component>
