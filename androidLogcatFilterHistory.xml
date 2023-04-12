@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out tag:TestWorker3 tag:LiveData" />
+    <option name="mostRecentlyUsed" value="tag:libstatemodeleventhandler tag:libstatemodel tag:LiveData" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:libstatemodeleventhandler tag:libstatemodel tag:LiveData" />
+        <option value="tag:libstatemodeleventhandler tag:libstatemodel " />
+        <option value="tag:libstatemodeleventhandler " />
+        <option value="tag:tl." />
+        <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out tag:TestWorker3 tag:LiveData tag:LibStateModelEventHandler " />
         <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out tag:TestWorker3 tag:LiveData" />
         <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out tag:TestWorker3" />
         <option value="tag:libraryreceiver tag:tl.refreshsportcacheworker tag:System.out tag:TestWorker" />
@@ -18,11 +23,6 @@
         <option value="https" />
         <option value="tag:sport" />
         <option value="tag:sport tag:sql" />
-        <option value="tag:sport tag:libstate" />
-        <option value="tag:sport tag:okhttp.OkHttpClient " />
-        <option value="tag:tl. tag:ImageUtil" />
-        <option value="tag:tl." />
-        <option value="universalsearch" />
       </list>
     </option>
   </component>
