@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:sport tag:tl.websocketservice tag:libstatemodel tag:sql tag:SportBroadcastQueryBuilder" />
+    <option name="mostRecentlyUsed" value="tag:tl.RefreshSportCacheWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl.RefreshSportCacheWorker" />
+        <option value="tag:RefreshSportCacheWorker" />
         <option value="tag:sport tag:tl.websocketservice tag:libstatemodel tag:sql tag:SportBroadcastQueryBuilder" />
         <option value="tag:sport tag:tl.websocketservice tag:libstatemodel tag:sql" />
         <option value="tag:sport tag:tl.websocketservice tag:libstatemodel " />
@@ -21,8 +23,6 @@
         <option value="tag:System.err tag:System.out tag:okhttp.OkHttpClient tag:AndroidRuntime tag:libstatemodel tag:tl. tag:sql " />
         <option value="tag:loadremotedependencyworker tag:System.err tag:System.out tag:okhttp.OkHttpClient tag:AndroidRuntime tag:libstatemodel " />
         <option value="tag:loadremotedependencyworker tag:System.err tag:System.out tag:okhttp.OkHttpClient tag:AndroidRuntime " />
-        <option value="tag:loadremotedependencyworker tag:System.err tag:System.out tag:okhttp.OkHttpClient " />
-        <option value="tag:loadremotedependencyworker " />
       </list>
     </option>
   </component>
