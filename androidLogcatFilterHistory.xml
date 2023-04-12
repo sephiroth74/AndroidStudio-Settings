@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:libraryreceiver tag:tl.restclient tag:FirmwareProviderProxy tag:AndroidRuntime " />
+    <option name="mostRecentlyUsed" value="tag:tl." />
     <option name="nonFavorites">
       <list>
+        <option value="tag:tl." />
         <option value="tag:libraryreceiver tag:tl.restclient tag:FirmwareProviderProxy tag:AndroidRuntime " />
         <option value="tag:libraryreceiver tag:tl.restclient tag:FirmwareProviderProxy" />
         <option value="tag:libraryreceiver tag:tl.restclient " />
         <option value="tag:sport tag:TvSettings" />
         <option value="tag:sport" />
-        <option value="tag:tl." />
         <option value="tag:tl.libstatemodel tag:libstatemodeleventhandler " />
         <option value="tag:tl.libstatemodel " />
         <option value="tag:work" />
