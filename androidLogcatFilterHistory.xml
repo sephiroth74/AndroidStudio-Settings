@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater tag:tl.restclient " />
+    <option name="mostRecentlyUsed" value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater " />
     <option name="nonFavorites">
       <list>
-        <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater tag:tl.restclient " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater " />
+        <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater tag:tl.restclient " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:stbmonitorservice tag:tl.restclient " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:stbmonitorservice " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel " />
