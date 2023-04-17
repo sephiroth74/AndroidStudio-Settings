@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:stbmonitorservice tag:tl.restclient " />
+    <option name="mostRecentlyUsed" value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:stbmonitorservice tag:tl.restclient " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:stbmonitorservice " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel " />
@@ -22,7 +23,6 @@
         <option value="tag:sport tag:TvSettings" />
         <option value="tag:sport" />
         <option value="tag:tl.libstatemodel tag:libstatemodeleventhandler " />
-        <option value="tag:tl.libstatemodel " />
       </list>
     </option>
   </component>
