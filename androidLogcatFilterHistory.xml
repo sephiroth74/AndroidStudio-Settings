@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ActivityManager " />
     <option name="nonFavorites">
       <list>
+        <option value="LibraryReceiver" />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ActivityManager " />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:System.out" />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy" />
@@ -22,7 +23,6 @@
         <option value="tag:TvLibApplication tag:tl.FirmwareService" />
         <option value="tag:tl. tag:TvLibApplication" />
         <option value="tag:tl." />
-        <option value="tag:stb" />
       </list>
     </option>
   </component>
