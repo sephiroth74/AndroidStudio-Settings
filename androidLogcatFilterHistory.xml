@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ChimeraModule" />
+        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy " />
+        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ActivityManager " />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy" />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:libstatemodel tag:tl." />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:libstatemodel " />
-        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy " />
         <option value="LibraryReceiver" />
-        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ActivityManager " />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:System.out" />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:RestClient" />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  " />
@@ -22,7 +23,6 @@
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:AndroidRuntime tag:System.err tag:System.out tag:tl.libraryreceiver tag:SystemService" />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:AndroidRuntime tag:System.err tag:System.out tag:tl.libraryreceiver " />
-        <option value="tag:TvLibApplication tag:tl.FirmwareService tag:AndroidRuntime tag:System.err tag:System.out " />
       </list>
     </option>
   </component>
