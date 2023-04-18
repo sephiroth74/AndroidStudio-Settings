@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:FirmwareService" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FirmwareService" />
+        <option value="tag:Firmware" />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ChimeraModule" />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy " />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ActivityManager " />
@@ -21,8 +23,6 @@
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:stbmonitorservice tag:tl.restclient " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:stbmonitorservice " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel " />
-        <option value="tag:TvLibApplication tag:tl.FirmwareService tag:AndroidRuntime tag:System.err tag:System.out tag:tl.libraryreceiver tag:SystemService" />
-        <option value="tag:TvLibApplication tag:tl.FirmwareService tag:AndroidRuntime tag:System.err tag:System.out tag:tl.libraryreceiver " />
       </list>
     </option>
   </component>
