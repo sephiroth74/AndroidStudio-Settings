@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:System" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:System" />
+        <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity" />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity tag:FirmwareCheckWorker" />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity tag:tl.contextutil tag:FirmwareCheckWorker" />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity tag:tl.contextutil " />
@@ -21,8 +23,6 @@
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:libstatemodel " />
         <option value="LibraryReceiver" />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:System.out" />
-        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:RestClient" />
-        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  " />
       </list>
     </option>
   </component>
