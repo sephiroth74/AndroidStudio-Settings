@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity" />
+    <option name="mostRecentlyUsed" value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity tag:tl.contextutil " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity tag:tl.contextutil " />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity" />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel " />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker" />
@@ -22,7 +23,6 @@
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  " />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater " />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:tl.libstatemodel tag:updater " />
-        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater " />
       </list>
     </option>
   </component>
