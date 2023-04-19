@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:FirmwareService tag:libraryreceiver " />
+    <option name="mostRecentlyUsed" value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker" />
+        <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate " />
         <option value="tag:FirmwareService tag:libraryreceiver " />
         <option value="tag:FirmwareService" />
         <option value="tag:Firmware" />
@@ -21,8 +23,6 @@
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater " />
         <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:updater tag:tl.restclient " />
-        <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:stbmonitorservice tag:tl.restclient " />
-        <option value="tag:TvLibApplication tag:tl.FirmwareService tag:tl.libraryreceiver tag:tl.SystemService tag:tl.libstatemodel tag:stbmonitorservice " />
       </list>
     </option>
   </component>
