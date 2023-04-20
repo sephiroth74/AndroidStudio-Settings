@@ -1,6 +1,6 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:FirmwareUpdateEmitter " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
         <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:FirmwareUpdateEmitter " />
