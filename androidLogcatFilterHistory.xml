@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:okhttp.OkHttpClient tag:tvlib.RestClient " />
+    <option name="mostRecentlyUsed" value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy " />
+        <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy tag:System tag:AndroidRuntime " />
+        <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy tag:System" />
+        <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy" />
+        <option value="tag:RetrieveTvChannelsWorker" />
         <option value="tag:okhttp.OkHttpClient tag:tvlib.RestClient " />
         <option value="level:warn " />
         <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:FirmwareUpdateEmitter " />
@@ -18,11 +23,6 @@
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity" />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel " />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker" />
-        <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate " />
-        <option value="tag:FirmwareService tag:libraryreceiver " />
-        <option value="tag:FirmwareService" />
-        <option value="tag:Firmware" />
-        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ChimeraModule" />
       </list>
     </option>
   </component>
