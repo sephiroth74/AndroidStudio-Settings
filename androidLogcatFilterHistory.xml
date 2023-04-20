@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:FirmwareUpdateEmitter tag:libstatemodel " />
+    <option name="mostRecentlyUsed" value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:FirmwareUpdateEmitter tag:ActivityManager " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:FirmwareUpdateEmitter tag:ActivityManager " />
+        <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:FirmwareUpdateEmitter " />
         <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:FirmwareUpdateEmitter tag:libstatemodel " />
         <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:FirmwareUpdateEmitter" />
         <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:System tag:FirmwareUpdateEmitter" />
@@ -21,8 +23,6 @@
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ChimeraModule" />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy " />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:ActivityManager " />
-        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy" />
-        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:libstatemodel tag:tl." />
       </list>
     </option>
   </component>
