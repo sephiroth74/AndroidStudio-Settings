@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:System" />
+    <option name="mostRecentlyUsed" value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:System tag:FirmwareUpdateEmitter" />
     <option name="nonFavorites">
       <list>
+        <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:System tag:FirmwareUpdateEmitter" />
         <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity tag:System" />
         <option value="tag:firmwareservice tag:tl.firmwarecheckworker tag:MainSampleActivity" />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity tag:FirmwareCheckWorker" />
@@ -22,7 +23,6 @@
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:libstatemodel tag:tl." />
         <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:libstatemodel " />
         <option value="LibraryReceiver" />
-        <option value="tag:TvLibApplication tag:FirmwareService tag:tl.libraryreceiver tag:updater tag:tl.firmwareservice  tag:FirmwareProviderProxy tag:System.out" />
       </list>
     </option>
   </component>
