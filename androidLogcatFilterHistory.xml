@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy " />
+    <option name="mostRecentlyUsed" value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy tag:ChannelIconProviderProxy tag:AndroidRuntime tag:System.err " />
     <option name="nonFavorites">
       <list>
+        <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy tag:ChannelIconProviderProxy tag:AndroidRuntime tag:System.err " />
+        <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy tag:ChannelIconProviderProxy" />
         <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy " />
         <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy tag:System tag:AndroidRuntime " />
         <option value="tag:RetrieveTvChannelsWorker tag:TvProviderProxy tag:System" />
@@ -21,8 +23,6 @@
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity tag:tl.contextutil tag:FirmwareCheckWorker" />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity tag:tl.contextutil " />
         <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel tag:MainSampleActivity" />
-        <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker tag:tl.libstatemodel " />
-        <option value="tag:FirmwareService tag:libraryreceiver tag:workmanagerdelegate tag:FirmwareCheckWorker" />
       </list>
     </option>
   </component>
